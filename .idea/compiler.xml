@@ -7,12 +7,14 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="java8-code" />
+        <module name="spring-code" />
         <module name="springboot-code" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="java8-code" target="1.5" />
       <module name="learnProjects" target="1.5" />
+      <module name="spring-code" target="1.8" />
       <module name="springboot-code" target="1.8" />
     </bytecodeTargetLevel>
   </component>
