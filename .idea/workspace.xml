@@ -1,26 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="AnalysisUIOptions">
-    <option name="SCOPE_TYPE" value="3" />
-  </component>
   <component name="ChangeListManager">
     <list default="true" id="f395e402-468e-48bb-b945-1ecd97aed5e9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/spring-simulation/src/main/java/com/luokp/springsimulation/beanFactory/AbstractBeanFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-simulation/src/main/java/com/luokp/springsimulation/beanFactory/AutowireCapableBeanFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-simulation/src/main/java/com/luokp/springsimulation/beanFactory/BeanFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-simulation/src/main/java/com/luokp/springsimulation/BeanDefinition.java" beforeDir="false" afterPath="$PROJECT_DIR$/spring-simulation/src/main/java/com/luokp/springsimulation/BeanDefinition.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-simulation/src/main/java/com/luokp/springsimulation/BeanFactory.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-simulation/src/test/java/com/luokp/BeanFactoryTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/spring-simulation/src/test/java/com/luokp/BeanFactoryTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-simulation/target/classes/com/luokp/springsimulation/BeanDefinition.class" beforeDir="false" afterPath="$PROJECT_DIR$/spring-simulation/target/classes/com/luokp/springsimulation/BeanDefinition.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-simulation/target/classes/com/luokp/springsimulation/BeanFactory.class" beforeDir="false" afterPath="$PROJECT_DIR$/spring-simulation/target/classes/com/luokp/springsimulation/BeanFactory.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-simulation/target/test-classes/com/luokp/BeanFactoryTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/spring-simulation/target/test-classes/com/luokp/BeanFactoryTest.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/spring_boot_code/target/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/springboot-code/target/" />
     <ignored path="$PROJECT_DIR$/java8-code/target/" />
-    <ignored path="$PROJECT_DIR$/spring-code/target/" />
     <ignored path="$PROJECT_DIR$/spring-simulation/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -32,66 +22,52 @@
     <session id="1924309402">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="2" />
           <entry key="project.open.time.2" value="1" />
-          <entry key="project.open.time.27" value="1" />
-          <entry key="project.open.time.9" value="1" />
-          <entry key="project.opened" value="3" />
+          <entry key="project.opened" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="aj" value="2" />
-          <entry key="class" value="1" />
           <entry key="gitignore" value="1" />
-          <entry key="java" value="20" />
-          <entry key="properties" value="1" />
-          <entry key="xml" value="8" />
-          <entry key="yml" value="1" />
+          <entry key="java" value="6" />
+          <entry key="xml" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="AspectJ" value="2" />
-          <entry key="CLASS" value="1" />
-          <entry key="JAVA" value="20" />
+          <entry key="JAVA" value="6" />
           <entry key="PLAIN_TEXT" value="1" />
-          <entry key="Properties" value="1" />
-          <entry key="XML" value="8" />
-          <entry key="YAML" value="1" />
+          <entry key="XML" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="aj" value="338" />
-          <entry key="dummy" value="16" />
-          <entry key="java" value="1321" />
-          <entry key="properties" value="6" />
-          <entry key="xml" value="1" />
+          <entry key="dummy" value="1" />
+          <entry key="java" value="70" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="AspectJ" value="338" />
-          <entry key="JAVA" value="1321" />
-          <entry key="PLAIN_TEXT" value="16" />
-          <entry key="Properties" value="6" />
-          <entry key="XML" value="1" />
+          <entry key="JAVA" value="70" />
+          <entry key="PLAIN_TEXT" value="1" />
         </counts>
       </usages-collector>
     </session>
     <session id="85902894">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
+          <entry key="project.closed" value="1" />
           <entry key="project.open.time.1" value="1" />
-          <entry key="project.opened" value="1" />
+          <entry key="project.open.time.22" value="1" />
+          <entry key="project.open.time.23" value="1" />
+          <entry key="project.opened" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="class" value="4" />
           <entry key="factories" value="1" />
-          <entry key="java" value="3" />
+          <entry key="java" value="13" />
           <entry key="json" value="1" />
           <entry key="properties" value="1" />
           <entry key="xml" value="1" />
@@ -101,7 +77,7 @@
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="CLASS" value="4" />
-          <entry key="JAVA" value="3" />
+          <entry key="JAVA" value="13" />
           <entry key="JSON" value="1" />
           <entry key="Properties" value="1" />
           <entry key="XML" value="1" />
@@ -111,16 +87,16 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="300" />
+          <entry key="java" value="430" />
           <entry key="xml" value="2" />
-          <entry key="yml" value="172" />
+          <entry key="yml" value="177" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="300" />
+          <entry key="JAVA" value="430" />
           <entry key="XML" value="2" />
-          <entry key="YAML" value="172" />
+          <entry key="YAML" value="177" />
         </counts>
       </usages-collector>
     </session>
@@ -128,67 +104,19 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/spring-simulation/src/main/java/com/luokp/springsimulation/BeanDefinition.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="15" column="29" selection-start-line="15" selection-start-column="29" selection-end-line="15" selection-end-column="29" />
-              <folding>
-                <element signature="e#439#440#0" expanded="true" />
-                <element signature="e#466#467#0" expanded="true" />
-                <element signature="e#506#507#0" expanded="true" />
-                <element signature="e#538#539#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/spring-simulation/src/main/java/com/luokp/springsimulation/beanFactory/AutowireCapableBeanFactory.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="357">
-              <caret line="21" selection-start-line="21" selection-end-line="21" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/spring-simulation/src/main/java/com/luokp/springsimulation/beanFactory/AbstractBeanFactory.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="15" selection-start-line="15" selection-end-line="15" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/spring-simulation/src/main/java/com/luokp/springsimulation/beanFactory/BeanFactory.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="8" column="32" selection-start-line="6" selection-start-column="4" selection-end-line="8" selection-end-column="32" />
+            <state relative-caret-position="289">
+              <caret line="22" column="29" selection-start-line="22" selection-start-column="29" selection-end-line="22" selection-end-column="29" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/spring-simulation/src/test/java/com/luokp/BeanFactoryTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="408">
-              <caret line="24" selection-start-line="24" selection-end-line="24" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/spring-simulation/src/test/java/com/luokp/HelloService.java">
+        <entry file="file://$PROJECT_DIR$/spring-simulation/src/main/java/com/luokp/springsimulation/beanFactory/AutowireCapableBeanFactory.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="68">
-              <caret line="4" column="17" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
+              <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -198,12 +126,15 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="AnnotationType" />
-        <option value="Aspect" />
-        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>containsAll</find>
+      <find>contains</find>
+    </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -216,23 +147,8 @@
         <option value="$PROJECT_DIR$/springboot-code/src/main/java/com/luokp/springbootcode/bean/Dog.java" />
         <option value="$PROJECT_DIR$/springboot-code/pom.xml" />
         <option value="$PROJECT_DIR$/springboot-code/src/test/java/com/luokp/springbootcode/SpringbootCodeApplicationTests.java" />
-        <option value="$PROJECT_DIR$/springboot-code/src/main/java/com/luokp/springbootcode/bean/Person.java" />
         <option value="$PROJECT_DIR$/springboot-code/src/main/resources/application.yml" />
-        <option value="$PROJECT_DIR$/spring-code/src/main/resources/application.properties" />
-        <option value="$PROJECT_DIR$/spring-code/src/main/java/com/luokp/springcode/Define_annotation_aspect/MyLog.java" />
-        <option value="$PROJECT_DIR$/spring-code/src/main/java/com/luokp/springcode/Define_annotation_aspect/MyLogAspect.aj" />
-        <option value="$PROJECT_DIR$/spring-code/src/main/java/com/luokp/springcode/Define_annotation_aspect/MyLogAspect.java" />
-        <option value="$PROJECT_DIR$/spring-code/pom.xml" />
-        <option value="$PROJECT_DIR$/spring-code/src/main/java/com/luokp/springcode/controller/IndexController.java" />
-        <option value="$PROJECT_DIR$/spring-simulation/pom.xml" />
-        <option value="$PROJECT_DIR$/spring-simulation/src/main/java/com/luokp/springsimulation/BeanFactory.java" />
-        <option value="$PROJECT_DIR$/spring-simulation/src/test/java/com/luokp/HelloService.java" />
-        <option value="$PROJECT_DIR$/spring-simulation/src/main/java/com/luokp/springsimulation/AutowireCapableBeanFactory.java" />
-        <option value="$PROJECT_DIR$/spring-simulation/src/test/java/com/luokp/BeanFactoryTest.java" />
-        <option value="$PROJECT_DIR$/spring-simulation/src/main/java/com/luokp/springsimulation/beanFactory/BeanFactory.java" />
-        <option value="$PROJECT_DIR$/spring-simulation/src/main/java/com/luokp/springsimulation/BeanDefinition.java" />
-        <option value="$PROJECT_DIR$/spring-simulation/src/main/java/com/luokp/springsimulation/beanFactory/AbstractBeanFactory.java" />
-        <option value="$PROJECT_DIR$/spring-simulation/src/main/java/com/luokp/springsimulation/beanFactory/AutowireCapableBeanFactory.java" />
+        <option value="$PROJECT_DIR$/springboot-code/src/main/java/com/luokp/springbootcode/bean/Person.java" />
       </list>
     </option>
   </component>
@@ -243,11 +159,6 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="MavenImportPreferences">
-    <option name="generalSettings">
-      <MavenGeneralSettings>
-        <option name="mavenHome" value="$USER_HOME$/software/apache-maven-3.5.4" />
-      </MavenGeneralSettings>
-    </option>
     <option name="importingSettings">
       <MavenImportingSettings>
         <option name="importAutomatically" value="true" />
@@ -290,31 +201,11 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="y" value="28" />
-    <option name="width" value="1169" />
-    <option name="height" value="986" />
+    <option name="y" value="23" />
+    <option name="width" value="1440" />
+    <option name="height" value="822" />
   </component>
-  <component name="ProjectInspectionProfilesVisibleTreeState">
-    <entry key="Project Default">
-      <profile-state>
-        <expanded-state>
-          <State />
-          <State>
-            <id>Code maturityJava</id>
-          </State>
-          <State>
-            <id>Java</id>
-          </State>
-        </expanded-state>
-        <selected-state>
-          <State>
-            <id>Deprecation</id>
-          </State>
-        </selected-state>
-      </profile-state>
-    </entry>
-  </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+  <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectView">
@@ -323,6 +214,7 @@
     </navigator>
     <panes>
       <pane id="PackagesPane" />
+      <pane id="AndroidView" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
@@ -376,30 +268,6 @@
               <item name="springsimulation" type="462c0819:PsiDirectoryNode" />
               <item name="beanFactory" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="learnProjects" type="b2602c69:ProjectViewProjectNode" />
-              <item name="learnProjects" type="462c0819:PsiDirectoryNode" />
-              <item name="spring-simulation" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="learnProjects" type="b2602c69:ProjectViewProjectNode" />
-              <item name="learnProjects" type="462c0819:PsiDirectoryNode" />
-              <item name="spring-simulation" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="learnProjects" type="b2602c69:ProjectViewProjectNode" />
-              <item name="learnProjects" type="462c0819:PsiDirectoryNode" />
-              <item name="spring-simulation" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="luokp" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -413,23 +281,16 @@
     <property name="RequestMappingsPanelWidth1" value="75" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1542877173330" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1543290870628" />
     <property name="jdk.selected.JAVA_MODULE" value="1.8" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/pom.xml" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
-    <property name="project.structure.proportion" value="0.15" />
-    <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
   </component>
   <component name="RecentsManager">
-    <key name="ExtractSuperBase.RECENT_KEYS">
-      <recent name="com.luokp.springsimulation" />
-    </key>
-    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
-      <recent name="com.luokp.springcode" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/java8-code/src/main/java/com/luokp/java8Test" />
     </key>
@@ -446,13 +307,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.BeanFactoryTest">
-    <configuration name="BeanFactoryTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.luokp.BeanFactoryTest" />
-      <module name="spring-simulation" />
+  <component name="RunManager" selected="Application.Person">
+    <configuration name="Person" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.luokp.springbootcode.bean.Person" />
+      <module name="springboot-code" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.luokp.*" />
+          <option name="PATTERN" value="com.luokp.springbootcode.bean.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -476,13 +337,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SpringCodeApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
-      <module name="spring-use" />
-      <option name="SPRING_BOOT_MAIN_CLASS" value="com.luokp.springcode.SpringCodeApplication" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="SpringbootCodeApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="springboot-code" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.luokp.springbootcode.SpringbootCodeApplication" />
@@ -492,13 +346,12 @@
     </configuration>
     <list>
       <item itemvalue="Spring Boot.SpringbootCodeApplication" />
-      <item itemvalue="Spring Boot.SpringCodeApplication" />
       <item itemvalue="JUnit.SpringbootCodeApplicationTests.contextLoads" />
-      <item itemvalue="Application.BeanFactoryTest" />
+      <item itemvalue="Application.Person" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.BeanFactoryTest" />
+        <item itemvalue="Application.Person" />
         <item itemvalue="JUnit.SpringbootCodeApplicationTests.contextLoads" />
       </list>
     </recent_temporary>
@@ -514,9 +367,9 @@
       <option name="presentableId" value="Default" />
       <updated>1542510732069</updated>
       <workItem from="1542510733456" duration="1598000" />
-      <workItem from="1542518013735" duration="2943000" />
-      <workItem from="1542857801830" duration="7185000" />
-      <workItem from="1542878017734" duration="589000" />
+      <workItem from="1542518013735" duration="7350000" />
+      <workItem from="1543202266582" duration="598000" />
+      <workItem from="1543244732594" duration="3331000" />
     </task>
     <servers />
   </component>
@@ -539,14 +392,18 @@
     <history-entry file="SpringbootCodeApplicationTests_contextLoads - 2018.11.18 at 13h 40m 47s.xml">
       <configuration name="SpringbootCodeApplicationTests.contextLoads" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="SpringbootCodeApplicationTests_contextLoads - 2018.11.18 at 17h 16m 39s.xml">
+      <configuration name="SpringbootCodeApplicationTests.contextLoads" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="19023000" />
+    <option name="totallyTimeSpent" value="12877000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="28" width="1169" height="986" extended-state="0" />
+    <frame x="0" y="23" width="1440" height="822" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2720785" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.28183118" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -555,21 +412,20 @@
       <window_info id="Capture Tool" order="6" />
       <window_info id="Web" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.32945284" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3282887" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.3993015" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32876712" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39863014" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Spring" order="7" weight="0.32945284" />
-      <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.49928468" weight="0.32712457" />
+      <window_info anchor="bottom" id="Spring" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.49928468" visible="true" weight="0.32876712" />
       <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5007153" side_tool="true" weight="0.32876712" />
-      <window_info anchor="bottom" id="Messages" order="10" weight="0.32945284" />
+      <window_info anchor="bottom" id="Messages" order="10" />
       <window_info anchor="bottom" id="Java Enterprise" order="11" />
       <window_info anchor="bottom" id="Database Changes" order="12" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="13" />
       <window_info anchor="bottom" id="JProfiler" order="14" />
-      <window_info anchor="bottom" id="Inspection Results" order="15" weight="0.32945284" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -581,42 +437,6 @@
       <window_info anchor="right" id="Theme Preview" order="8" />
       <window_info anchor="right" id="Bean Validation" order="9" />
     </layout>
-    <layout-to-restore>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.38470066" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Designer" order="2" />
-      <window_info id="Image Layers" order="3" />
-      <window_info id="UI Designer" order="4" />
-      <window_info id="Favorites" order="5" side_tool="true" />
-      <window_info id="Capture Tool" order="6" />
-      <window_info id="Web" order="7" side_tool="true" />
-      <window_info anchor="bottom" id="Inspection Results" order="0" weight="0.32945284" />
-      <window_info anchor="bottom" id="Message" order="1" />
-      <window_info anchor="bottom" id="Find" order="2" />
-      <window_info anchor="bottom" id="Run" order="3" weight="0.32876712" />
-      <window_info active="true" anchor="bottom" id="Debug" order="4" visible="true" weight="0.3993015" />
-      <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="7" />
-      <window_info anchor="bottom" id="Spring" order="8" weight="0.32945284" />
-      <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.49928468" weight="0.32876712" />
-      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5007153" side_tool="true" weight="0.32876712" />
-      <window_info anchor="bottom" id="Messages" order="11" weight="0.32945284" />
-      <window_info anchor="bottom" id="Java Enterprise" order="12" />
-      <window_info anchor="bottom" id="Database Changes" order="13" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="14" />
-      <window_info anchor="bottom" id="JProfiler" order="15" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="right" id="Capture Analysis" order="4" />
-      <window_info anchor="right" id="Maven Projects" order="5" weight="0.3297568" />
-      <window_info anchor="right" id="Database" order="6" />
-      <window_info anchor="right" id="Palette&#9;" order="7" />
-      <window_info anchor="right" id="Theme Preview" order="8" />
-      <window_info anchor="right" id="Bean Validation" order="9" />
-    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
@@ -624,10 +444,17 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
-  <component name="VcsManagerConfiguration">
-    <ignored-roots>
-      <path value="$PROJECT_DIR$/tiny-spring" />
-    </ignored-roots>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/springboot-code/src/main/java/com/luokp/springbootcode/bean/Person.java</url>
+          <line>94</line>
+          <properties />
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/springboot-code/.gitignore">
@@ -635,6 +462,20 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/java8-code/pom.xml">
       <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="37" selection-start-line="9" selection-start-column="37" selection-end-line="9" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springboot-code/src/main/java/com/luokp/springbootcode/controller/HelloController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/springboot-code/src/main/resources/application.properties" />
     <entry file="file://$PROJECT_DIR$/springboot-code/src/main/java/com/luokp/springbootcode/bean/Dog.java">
@@ -658,18 +499,184 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/springboot-code/src/main/java/com/luokp/springbootcode/bean/Person.java">
+    <entry file="file://$PROJECT_DIR$/springboot-code/src/main/java/com/luokp/springbootcode/SpringbootCodeApplication.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="184">
-          <caret line="16" column="34" selection-start-line="16" selection-start-column="34" selection-end-line="16" selection-end-column="34" />
+        <state relative-caret-position="60">
+          <caret line="5" column="10" lean-forward="true" selection-start-line="5" selection-start-column="10" selection-end-line="5" selection-end-column="10" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/springboot-code/target/classes/META-INF/spring-configuration-metadata.json" />
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-autoconfigure/2.1.0.RELEASE/spring-boot-autoconfigure-2.1.0.RELEASE.jar!/org/springframework/boot/autoconfigure/SpringBootApplication.class">
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/src.zip!/java/lang/String.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="115">
-          <caret line="25" column="13" selection-start-line="25" selection-start-column="13" selection-end-line="25" selection-end-column="13" />
+        <state relative-caret-position="2839">
+          <caret line="3159" column="27" lean-forward="true" selection-start-line="3159" selection-start-column="27" selection-end-line="3159" selection-end-column="27" />
+          <folding>
+            <element signature="docComment;class#String#0" />
+            <element signature="e#3700#3747#0" />
+            <element signature="e#3785#3826#0" />
+            <element signature="e#3870#3933#0" />
+            <element signature="e#4011#4334#0" />
+            <element signature="e#4444#4656#0" />
+            <element signature="e#4721#5149#0" />
+            <element signature="e#4721#5264#0" />
+            <element signature="e#5270#5654#0" />
+            <element signature="e#5757#6587#0" />
+            <element signature="e#5757#7264#0" />
+            <element signature="e#7270#8368#0" />
+            <element signature="e#7270#9771#0" />
+            <element signature="e#9777#11248#0" />
+            <element signature="e#9777#11780#0" />
+            <element signature="e#11786#13037#0" />
+            <element signature="e#13157#13700#0" />
+            <element signature="e#13706#14940#0" />
+            <element signature="e#13706#15286#0" />
+            <element signature="e#15292#16497#0" />
+            <element signature="e#15292#16781#0" />
+            <element signature="e#16787#17713#0" />
+            <element signature="e#16787#17872#0" />
+            <element signature="e#17878#18731#0" />
+            <element signature="e#18841#19856#0" />
+            <element signature="e#18841#20029#0" />
+            <element signature="e#20035#20694#0" />
+            <element signature="e#20778#21132#0" />
+            <element signature="e#20778#21296#0" />
+            <element signature="e#21302#21919#0" />
+            <element signature="e#22048#22472#0" />
+            <element signature="e#22478#22761#0" />
+            <element signature="e#22828#23042#0" />
+            <element signature="e#23119#23966#0" />
+            <element signature="e#23119#24163#0" />
+            <element signature="e#24169#25201#0" />
+            <element signature="e#24169#25443#0" />
+            <element signature="e#25449#26509#0" />
+            <element signature="e#25449#26767#0" />
+            <element signature="e#26773#27718#0" />
+            <element signature="e#26773#28016#0" />
+            <element signature="e#28022#28977#0" />
+            <element signature="e#28022#29274#0" />
+            <element signature="e#29280#29417#0" />
+            <element signature="e#29540#30955#0" />
+            <element signature="e#29540#31447#0" />
+            <element signature="e#31453#33315#0" />
+            <element signature="e#31453#33992#0" />
+            <element signature="e#33998#34722#0" />
+            <element signature="e#33998#34965#0" />
+            <element signature="e#34971#35670#0" />
+            <element signature="e#34971#35854#0" />
+            <element signature="e#35860#36363#0" />
+            <element signature="e#36466#37047#0" />
+            <element signature="e#36466#37687#0" />
+            <element signature="e#37693#38318#0" />
+            <element signature="e#38430#38804#0" />
+            <element signature="e#38810#39454#0" />
+            <element signature="e#38810#40338#0" />
+            <element signature="e#40344#41530#0" />
+            <element signature="e#40344#41823#0" />
+            <element signature="e#41829#44159#0" />
+            <element signature="e#41829#44635#0" />
+            <element signature="e#44641#45130#0" />
+            <element signature="e#45277#46503#0" />
+            <element signature="e#45542#46374#0" />
+            <element signature="e#46384#46425#0" />
+            <element signature="e#46384#46497#0" />
+            <element signature="e#46509#47490#0" />
+            <element signature="e#47609#49187#0" />
+            <element signature="e#47609#49808#0" />
+            <element signature="e#49814#52281#0" />
+            <element signature="e#49814#53851#0" />
+            <element signature="e#52980#53033#0" />
+            <element signature="e#53402#53466#0" />
+            <element signature="e#53857#55165#0" />
+            <element signature="e#55171#55754#0" />
+            <element signature="e#55851#56393#0" />
+            <element signature="e#56521#57047#0" />
+            <element signature="e#56521#57332#0" />
+            <element signature="e#57338#58449#0" />
+            <element signature="e#58525#60435#0" />
+            <element signature="e#58525#61190#0" />
+            <element signature="e#60775#60829#0" />
+            <element signature="e#61196#61278#0" />
+            <element signature="e#61196#61799#0" />
+            <element signature="e#61805#62824#0" />
+            <element signature="e#62923#64678#0" />
+            <element signature="e#62923#65262#0" />
+            <element signature="e#64802#64856#0" />
+            <element signature="e#65268#65354#0" />
+            <element signature="e#65268#65862#0" />
+            <element signature="e#65868#66421#0" />
+            <element signature="e#66502#67249#0" />
+            <element signature="e#66502#67414#0" />
+            <element signature="e#67420#67925#0" />
+            <element signature="e#67420#68202#0" />
+            <element signature="e#68208#68819#0" />
+            <element signature="e#68208#70037#0" />
+            <element signature="e#70043#70709#0" />
+            <element signature="e#70809#71583#0" />
+            <element signature="e#70809#71756#0" />
+            <element signature="e#71762#72267#0" />
+            <element signature="e#71762#72552#0" />
+            <element signature="e#72558#73169#0" />
+            <element signature="e#72558#74562#0" />
+            <element signature="e#74568#75272#0" />
+            <element signature="e#74568#75659#0" />
+            <element signature="e#75665#76604#0" />
+            <element signature="e#75665#77163#0" />
+            <element signature="e#77169#78173#0" />
+            <element signature="e#78306#79225#0" />
+            <element signature="e#78306#79532#0" />
+            <element signature="e#79538#80862#0" />
+            <element signature="e#79538#81647#0" />
+            <element signature="e#81653#82574#0" />
+            <element signature="e#82674#82926#0" />
+            <element signature="e#83027#84633#0" />
+            <element signature="e#83027#84785#0" />
+            <element signature="e#84791#86398#0" />
+            <element signature="e#84791#86546#0" />
+            <element signature="e#86552#87086#0" />
+            <element signature="e#86552#87327#0" />
+            <element signature="e#87333#91079#0" />
+            <element signature="e#87333#93209#0" />
+            <element signature="e#92274#92285#0" />
+            <element signature="e#93215#94557#0" />
+            <element signature="e#94643#95535#0" />
+            <element signature="e#94643#95952#0" />
+            <element signature="e#95958#97446#0" />
+            <element signature="e#95958#97821#0" />
+            <element signature="e#97827#100104#0" />
+            <element signature="e#97827#103722#0" />
+            <element signature="e#103728#104642#0" />
+            <element signature="e#104737#106571#0" />
+            <element signature="e#104737#110235#0" />
+            <element signature="e#110241#111163#0" />
+            <element signature="e#111258#112802#0" />
+            <element signature="e#111258#113186#0" />
+            <element signature="e#113192#113313#0" />
+            <element signature="e#113377#113670#0" />
+            <element signature="e#113377#113923#0" />
+            <element signature="e#113929#115524#0" />
+            <element signature="e#113929#115659#0" />
+            <element signature="e#115665#117339#0" />
+            <element signature="e#115665#117485#0" />
+            <element signature="e#117491#117847#0" />
+            <element signature="e#117962#118358#0" />
+            <element signature="e#118451#119386#0" />
+            <element signature="e#119517#120085#0" />
+            <element signature="e#120220#120431#0" />
+            <element signature="e#120528#120844#0" />
+            <element signature="e#120939#121191#0" />
+            <element signature="e#120939#121306#0" />
+            <element signature="e#121312#121686#0" />
+            <element signature="e#121776#122142#0" />
+            <element signature="e#122230#122602#0" />
+            <element signature="e#122692#123071#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-autoconfigure/2.1.0.RELEASE/spring-boot-autoconfigure-2.1.0.RELEASE.jar!/org/springframework/boot/autoconfigure/AutoConfigurationImportSelector.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="159">
+          <caret line="110" column="21" selection-start-line="110" selection-start-column="21" selection-end-line="110" selection-end-column="21" />
         </state>
       </provider>
     </entry>
@@ -680,16 +687,16 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-autoconfigure/2.1.0.RELEASE/spring-boot-autoconfigure-2.1.0.RELEASE.jar!/org/springframework/boot/autoconfigure/AutoConfigurationImportSelector.class">
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-autoconfigure/2.1.0.RELEASE/spring-boot-autoconfigure-2.1.0.RELEASE.jar!/org/springframework/boot/autoconfigure/SpringBootApplication.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="174">
-          <caret line="111" column="63" selection-start-line="111" selection-start-column="63" selection-end-line="111" selection-end-column="63" />
+        <state relative-caret-position="115">
+          <caret line="25" column="13" selection-start-line="25" selection-start-column="13" selection-end-line="25" selection-end-column="13" />
         </state>
       </provider>
     </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-core/5.1.2.RELEASE/spring-core-5.1.2.RELEASE.jar!/org/springframework/core/io/support/SpringFactoriesLoader.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-319">
+        <state relative-caret-position="456">
           <caret line="62" column="31" selection-start-line="62" selection-start-column="31" selection-end-line="62" selection-end-column="31" />
         </state>
       </provider>
@@ -699,146 +706,397 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/springboot-code/src/main/resources/application.yml">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="7" selection-start-column="7" selection-end-column="7" />
+        <state relative-caret-position="120">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/spring-use/src/main/resources/application.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="16" selection-start-column="16" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spring-use/src/main/java/com/luokp/springcode/SpringCodeApplication.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-web/5.1.2.RELEASE/spring-web-5.1.2.RELEASE.jar!/org/springframework/web/method/support/InvocableHandlerMethod.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="163">
-          <caret line="121" selection-start-line="121" selection-end-line="121" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java8-code/src/main/java/com/luokp/java8Test/Chapter5.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="174">
-          <caret line="89" column="46" selection-start-line="89" selection-start-column="46" selection-end-line="89" selection-end-column="46" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spring-code/src/main/java/com/luokp/springcode/Define_annotation_aspect/MyLogAspect.aj" />
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="10" selection-start-line="15" selection-start-column="10" selection-end-line="15" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spring-use/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret line="42" column="14" lean-forward="true" selection-start-line="42" selection-start-column="14" selection-end-line="42" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spring-use/src/main/java/com/luokp/springcode/Define_annotation_aspect/MyLogAspect.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="212">
-          <caret line="48" column="6" selection-start-line="48" selection-start-column="6" selection-end-line="48" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spring-use/src/main/java/com/luokp/springcode/Define_annotation_aspect/MyLog.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" selection-start-line="12" selection-end-line="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/springboot-code/src/main/java/com/luokp/springbootcode/SpringbootCodeApplication.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="12" selection-start-line="12" selection-end-line="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tiny-spring/pom.xml" />
-    <entry file="file://$PROJECT_DIR$/org/aspectj/lang/annotation/annotations.xml" />
-    <entry file="file://$PROJECT_DIR$/spring-simulation/src/main/java/com/luokp/App.java" />
-    <entry file="file://$PROJECT_DIR$/spring-simulation/pom.xml">
+    <entry file="file://$PROJECT_DIR$/springboot-code/target/classes/META-INF/spring-configuration-metadata.json">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/spring-use/src/main/java/com/luokp/springcode/controller/IndexController.java">
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/src.zip!/java/util/Collection.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="15" selection-start-line="15" selection-end-line="15" />
+        <state relative-caret-position="-693">
+          <caret line="333" column="6" selection-start-line="333" selection-start-column="6" selection-end-line="333" selection-end-column="6" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/springboot-code/src/main/java/com/luokp/springbootcode/controller/HelloController.java">
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/src.zip!/java/util/List.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="13" selection-start-line="13" selection-end-line="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spring-simulation/src/main/java/com/luokp/springsimulation/BeanDefinition.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="15" column="29" selection-start-line="15" selection-start-column="29" selection-end-line="15" selection-end-column="29" />
+        <state relative-caret-position="120">
+          <caret line="110" column="37" selection-start-line="110" selection-start-column="37" selection-end-line="110" selection-end-column="37" />
           <folding>
-            <element signature="e#439#440#0" expanded="true" />
-            <element signature="e#466#467#0" expanded="true" />
-            <element signature="e#506#507#0" expanded="true" />
-            <element signature="e#538#539#0" expanded="true" />
+            <element signature="docComment;class#List#0" />
+            <element signature="docComment;method#size#0;class#List#0" />
+            <element signature="docComment;method#isEmpty#0;class#List#0" />
+            <element signature="docComment;method#contains#0;class#List#0" />
+            <element signature="docComment;method#iterator#0;class#List#0" />
+            <element signature="docComment;method#toArray#0;class#List#0" />
+            <element signature="docComment;method#toArray#1;class#List#0" />
+            <element signature="docComment;method#add#0;class#List#0" />
+            <element signature="docComment;method#remove#0;class#List#0" />
+            <element signature="docComment;method#addAll#0;class#List#0" />
+            <element signature="docComment;method#addAll#1;class#List#0" />
+            <element signature="docComment;method#removeAll#0;class#List#0" />
+            <element signature="docComment;method#retainAll#0;class#List#0" />
+            <element signature="docComment;method#replaceAll#0;class#List#0" />
+            <element signature="method#replaceAll#0;class#List#0" />
+            <element signature="docComment;method#sort#0;class#List#0" />
+            <element signature="method#sort#0;class#List#0" />
+            <element signature="docComment;method#clear#0;class#List#0" />
+            <element signature="docComment;method#equals#0;class#List#0" />
+            <element signature="docComment;method#hashCode#0;class#List#0" />
+            <element signature="docComment;method#get#0;class#List#0" />
+            <element signature="docComment;method#set#0;class#List#0" />
+            <element signature="docComment;method#add#1;class#List#0" />
+            <element signature="docComment;method#remove#1;class#List#0" />
+            <element signature="docComment;method#indexOf#0;class#List#0" />
+            <element signature="docComment;method#lastIndexOf#0;class#List#0" />
+            <element signature="docComment;method#listIterator#0;class#List#0" />
+            <element signature="docComment;method#listIterator#1;class#List#0" />
+            <element signature="docComment;method#subList#0;class#List#0" />
+            <element signature="docComment;method#spliterator#0;class#List#0" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/spring-simulation/src/main/java/com/luokp/springsimulation/beanFactory/AutowireCapableBeanFactory.java">
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/src.zip!/java/util/AbstractList.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="21" selection-start-line="21" selection-end-line="21" />
+        <state relative-caret-position="62">
+          <caret line="70" column="80" selection-start-line="70" selection-start-column="80" selection-end-line="70" selection-end-column="80" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springboot-code/src/main/java/com/luokp/springbootcode/bean/Person.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="78">
+          <caret line="65" selection-start-line="65" selection-end-line="65" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#950#951#0" expanded="true" />
+            <element signature="e#977#978#0" expanded="true" />
+            <element signature="e#1017#1018#0" expanded="true" />
+            <element signature="e#1049#1050#0" expanded="true" />
+            <element signature="e#1081#1082#0" expanded="true" />
+            <element signature="e#1108#1109#0" expanded="true" />
+            <element signature="e#1149#1150#0" expanded="true" />
+            <element signature="e#1181#1182#0" expanded="true" />
+            <element signature="e#1212#1213#0" expanded="true" />
+            <element signature="e#1238#1239#0" expanded="true" />
+            <element signature="e#1277#1278#0" expanded="true" />
+            <element signature="e#1307#1308#0" expanded="true" />
+            <element signature="e#1365#1366#0" expanded="true" />
+            <element signature="e#1405#1406#0" expanded="true" />
+            <element signature="e#1439#1440#0" expanded="true" />
+            <element signature="e#1476#1477#0" expanded="true" />
+            <element signature="e#1503#1504#0" expanded="true" />
+            <element signature="e#1549#1550#0" expanded="true" />
+            <element signature="e#1581#1582#0" expanded="true" />
+            <element signature="e#1624#1625#0" expanded="true" />
+            <element signature="e#1650#1651#0" expanded="true" />
+            <element signature="e#1701#1702#0" expanded="true" />
+            <element signature="e#1731#1732#0" expanded="true" />
+            <element signature="e#1758#1759#0" expanded="true" />
+            <element signature="e#1784#1785#0" expanded="true" />
+            <element signature="e#1819#1820#0" expanded="true" />
+            <element signature="e#1849#1850#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/src.zip!/java/util/LinkedList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-338">
+          <caret line="266" selection-start-line="266" selection-end-line="266" />
+          <folding>
+            <element signature="docComment;class#LinkedList#0" />
+            <element signature="e#3049#3204#0" />
+            <element signature="e#3239#3391#0" />
+            <element signature="e#3425#3469#0" />
+            <element signature="e#3425#3501#0" />
+            <element signature="e#3507#3829#0" />
+            <element signature="e#3507#3921#0" />
+            <element signature="e#3927#3971#0" />
+            <element signature="e#3927#4255#0" />
+            <element signature="e#4261#4304#0" />
+            <element signature="e#4261#4578#0" />
+            <element signature="e#4584#4647#0" />
+            <element signature="e#4584#4991#0" />
+            <element signature="e#4997#5046#0" />
+            <element signature="e#4997#5438#0" />
+            <element signature="e#5444#5492#0" />
+            <element signature="e#5444#5882#0" />
+            <element signature="e#5888#5931#0" />
+            <element signature="e#5888#6461#0" />
+            <element signature="e#6467#6638#0" />
+            <element signature="e#6467#6797#0" />
+            <element signature="e#6803#6972#0" />
+            <element signature="e#6803#7129#0" />
+            <element signature="e#7135#7322#0" />
+            <element signature="e#7135#7492#0" />
+            <element signature="e#7498#7683#0" />
+            <element signature="e#7498#7850#0" />
+            <element signature="e#7856#7977#0" />
+            <element signature="e#8043#8218#0" />
+            <element signature="e#8282#8709#0" />
+            <element signature="e#8794#8915#0" />
+            <element signature="e#8972#9237#0" />
+            <element signature="e#8972#9315#0" />
+            <element signature="e#9321#9994#0" />
+            <element signature="e#9321#10504#0" />
+            <element signature="e#10510#11155#0" />
+            <element signature="e#11254#12049#0" />
+            <element signature="e#11254#12975#0" />
+            <element signature="e#12981#13098#0" />
+            <element signature="e#12981#13646#0" />
+            <element signature="e#13133#13198#0" />
+            <element signature="e#14056#14416#0" />
+            <element signature="e#14056#14606#0" />
+            <element signature="e#14612#15021#0" />
+            <element signature="e#14612#15224#0" />
+            <element signature="e#15230#15639#0" />
+            <element signature="e#15230#15748#0" />
+            <element signature="e#15754#15831#0" />
+            <element signature="e#15934#16051#0" />
+            <element signature="e#16156#16370#0" />
+            <element signature="e#16477#16634#0" />
+            <element signature="e#16640#16799#0" />
+            <element signature="e#16805#16883#0" />
+            <element signature="e#16805#17279#0" />
+            <element signature="e#17311#17850#0" />
+            <element signature="e#17311#18327#0" />
+            <element signature="e#18333#18871#0" />
+            <element signature="e#18333#19353#0" />
+            <element signature="e#19385#19575#0" />
+            <element signature="e#19385#19680#0" />
+            <element signature="e#19686#19897#0" />
+            <element signature="e#19961#20141#0" />
+            <element signature="e#19961#20254#0" />
+            <element signature="e#20260#20461#0" />
+            <element signature="e#20527#20739#0" />
+            <element signature="e#20830#21039#0" />
+            <element signature="e#20830#21124#0" />
+            <element signature="e#21130#21336#0" />
+            <element signature="e#21130#21419#0" />
+            <element signature="e#21425#21686#0" />
+            <element signature="e#21425#21797#0" />
+            <element signature="e#21803#22062#0" />
+            <element signature="e#21803#22170#0" />
+            <element signature="e#22176#22423#0" />
+            <element signature="e#22176#22541#0" />
+            <element signature="e#22547#22792#0" />
+            <element signature="e#22547#22907#0" />
+            <element signature="e#22913#23187#0" />
+            <element signature="e#23248#23679#0" />
+            <element signature="e#23742#24109#0" />
+            <element signature="e#24200#24566#0" />
+            <element signature="e#24200#25088#0" />
+            <element signature="e#25094#26214#0" />
+            <element signature="e#25094#26343#0" />
+            <element signature="e#26349#29102#0" />
+            <element signature="e#26557#26721#0" />
+            <element signature="e#26814#27086#0" />
+            <element signature="e#27180#27466#0" />
+            <element signature="e#27632#28058#0" />
+            <element signature="e#28068#28262#0" />
+            <element signature="e#28272#28545#0" />
+            <element signature="e#28555#28932#0" />
+            <element signature="e#28942#29096#0" />
+            <element signature="e#29108#29362#0" />
+            <element signature="e#29208#29356#0" />
+            <element signature="e#29368#29397#0" />
+            <element signature="e#29496#29575#0" />
+            <element signature="e#29496#29921#0" />
+            <element signature="e#29927#30167#0" />
+            <element signature="e#30173#30364#0" />
+            <element signature="e#30173#30733#0" />
+            <element signature="e#30739#31316#0" />
+            <element signature="e#30739#31529#0" />
+            <element signature="e#31535#33529#0" />
+            <element signature="e#31535#33979#0" />
+            <element signature="e#34056#34381#0" />
+            <element signature="e#34056#34766#0" />
+            <element signature="e#34772#34886#0" />
+            <element signature="e#34772#35317#0" />
+            <element signature="e#35323#35987#0" />
+            <element signature="e#36105#36168#0" />
+            <element signature="e#36105#39343#0" />
+            <element signature="e#36711#36899#0" />
+            <element signature="e#36909#37338#0" />
+            <element signature="e#37348#37402#0" />
+            <element signature="e#37412#38080#0" />
+            <element signature="e#38090#38673#0" />
+            <element signature="e#38683#39204#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/src.zip!/java/util/Queue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="144" column="4" selection-start-line="144" selection-start-column="4" selection-end-line="144" selection-end-column="4" />
+          <folding>
+            <element signature="docComment;class#Queue#0" />
+            <element signature="docComment;method#add#0;class#Queue#0" />
+            <element signature="docComment;method#offer#0;class#Queue#0" />
+            <element signature="docComment;method#remove#0;class#Queue#0" />
+            <element signature="docComment;method#poll#0;class#Queue#0" />
+            <element signature="docComment;method#element#0;class#Queue#0" />
+            <element signature="docComment;method#peek#0;class#Queue#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/src.zip!/java/util/ArrayList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-507">
+          <caret line="164" column="11" selection-start-line="164" selection-start-column="11" selection-end-line="164" selection-end-column="11" />
+          <folding>
+            <element signature="docComment;class#ArrayList#0" />
+            <element signature="e#4467#4511#0" />
+            <element signature="e#4569#4641#0" />
+            <element signature="e#4705#4905#0" />
+            <element signature="e#4985#5304#0" />
+            <element signature="e#5393#5497#0" />
+            <element signature="e#5525#5778#0" />
+            <element signature="e#5525#6177#0" />
+            <element signature="e#6183#6259#0" />
+            <element signature="e#6358#6679#0" />
+            <element signature="e#6358#7153#0" />
+            <element signature="e#7159#7375#0" />
+            <element signature="e#7159#7605#0" />
+            <element signature="e#7611#7886#0" />
+            <element signature="e#7611#8337#0" />
+            <element signature="e#8093#8153#0" />
+            <element signature="e#8343#8592#0" />
+            <element signature="e#8598#8735#0" />
+            <element signature="e#8741#8938#0" />
+            <element signature="e#8944#9175#0" />
+            <element signature="e#9250#9463#0" />
+            <element signature="e#9250#9962#0" />
+            <element signature="e#9968#10215#0" />
+            <element signature="e#10221#10342#0" />
+            <element signature="e#10399#10544#0" />
+            <element signature="e#10613#11044#0" />
+            <element signature="e#11128#11472#0" />
+            <element signature="e#11128#11818#0" />
+            <element signature="e#11824#12168#0" />
+            <element signature="e#11824#12524#0" />
+            <element signature="e#12530#12724#0" />
+            <element signature="e#12530#13103#0" />
+            <element signature="e#13109#13686#0" />
+            <element signature="e#13779#15109#0" />
+            <element signature="e#13779#15487#0" />
+            <element signature="e#15642#15900#0" />
+            <element signature="e#15642#15999#0" />
+            <element signature="e#16005#16365#0" />
+            <element signature="e#16005#16544#0" />
+            <element signature="e#16550#16752#0" />
+            <element signature="e#16550#16910#0" />
+            <element signature="e#16916#17325#0" />
+            <element signature="e#16916#17640#0" />
+            <element signature="e#17646#17996#0" />
+            <element signature="e#17646#18396#0" />
+            <element signature="e#18402#19077#0" />
+            <element signature="e#18402#19587#0" />
+            <element signature="e#19593#20017#0" />
+            <element signature="e#20023#20141#0" />
+            <element signature="e#20023#20326#0" />
+            <element signature="e#20332#21024#0" />
+            <element signature="e#20332#21332#0" />
+            <element signature="e#21338#22134#0" />
+            <element signature="e#21338#22671#0" />
+            <element signature="e#22677#23323#0" />
+            <element signature="e#22677#23762#0" />
+            <element signature="e#23768#24077#0" />
+            <element signature="e#23768#24223#0" />
+            <element signature="e#24229#24295#0" />
+            <element signature="e#24229#24459#0" />
+            <element signature="e#24465#24679#0" />
+            <element signature="e#24786#25575#0" />
+            <element signature="e#24786#25702#0" />
+            <element signature="e#25708#26611#0" />
+            <element signature="e#25708#26737#0" />
+            <element signature="e#26743#27761#0" />
+            <element signature="e#27122#27183#0" />
+            <element signature="e#27767#28104#0" />
+            <element signature="e#27767#28701#0" />
+            <element signature="e#28707#28818#0" />
+            <element signature="e#28707#29616#0" />
+            <element signature="e#29622#30196#0" />
+            <element signature="e#29622#30395#0" />
+            <element signature="e#30401#30631#0" />
+            <element signature="e#30718#30976#0" />
+            <element signature="e#31050#31109#0" />
+            <element signature="e#31050#33326#0" />
+            <element signature="e#31424#31877#0" />
+            <element signature="e#31887#32341#0" />
+            <element signature="e#32351#32360#0" />
+            <element signature="e#32351#33156#0" />
+            <element signature="e#33166#33320#0" />
+            <element signature="e#33332#33395#0" />
+            <element signature="e#33332#35014#0" />
+            <element signature="e#33471#33550#0" />
+            <element signature="e#33792#34245#0" />
+            <element signature="e#34255#34600#0" />
+            <element signature="e#34610#35008#0" />
+            <element signature="e#35020#36620#0" />
+            <element signature="e#35020#36793#0" />
+            <element signature="e#36799#37266#0" />
+            <element signature="e#37272#45603#0" />
+            <element signature="e#37491#37811#0" />
+            <element signature="e#37821#38088#0" />
+            <element signature="e#38098#38265#0" />
+            <element signature="e#38275#38372#0" />
+            <element signature="e#38382#38619#0" />
+            <element signature="e#38629#38893#0" />
+            <element signature="e#38903#39211#0" />
+            <element signature="e#39332#39723#0" />
+            <element signature="e#39819#44489#0" />
+            <element signature="class#40017:44478" />
+            <element signature="method#next#0;class#40017:44478" />
+            <element signature="method#previous#0;class#40017:44478" />
+            <element signature="method#forEachRemaining#0;class#40017:44478" />
+            <element signature="method#remove#0;class#40017:44478" />
+            <element signature="method#set#0;class#40017:44478" />
+            <element signature="method#add#0;class#40017:44478" />
+            <element signature="method#checkForComodification#0;class#40017:44478" />
+            <element signature="e#44499#44684#0" />
+            <element signature="e#44694#44865#0" />
+            <element signature="e#44875#45051#0" />
+            <element signature="e#45180#45348#0" />
+            <element signature="e#45358#45597#0" />
+            <element signature="e#45609#46131#0" />
+            <element signature="e#46137#46662#0" />
+            <element signature="e#46789#46852#0" />
+            <element signature="e#46789#52024#0" />
+            <element signature="e#49097#49152#0" />
+            <element signature="e#49097#49466#0" />
+            <element signature="e#49476#49942#0" />
+            <element signature="e#49952#50284#0" />
+            <element signature="e#50294#50842#0" />
+            <element signature="e#50852#51789#0" />
+            <element signature="e#52030#53627#0" />
+            <element signature="e#52147#52193#0" />
+            <element signature="e#53633#53642#0" />
+            <element signature="e#53633#54141#0" />
+            <element signature="e#54147#54156#0" />
+            <element signature="e#54147#54475#0" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/spring-simulation/src/main/java/com/luokp/springsimulation/beanFactory/AbstractBeanFactory.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="15" selection-start-line="15" selection-end-line="15" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="289">
+          <caret line="22" column="29" selection-start-line="22" selection-start-column="29" selection-end-line="22" selection-end-column="29" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/spring-simulation/src/main/java/com/luokp/springsimulation/beanFactory/BeanFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="32" selection-start-line="6" selection-start-column="4" selection-end-line="8" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spring-simulation/src/test/java/com/luokp/HelloService.java">
+    <entry file="file://$PROJECT_DIR$/spring-simulation/src/main/java/com/luokp/springsimulation/beanFactory/AutowireCapableBeanFactory.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
-          <caret line="4" column="17" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spring-simulation/src/test/java/com/luokp/BeanFactoryTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="24" selection-start-line="24" selection-end-line="24" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
         </state>
       </provider>
     </entry>
