@@ -11,6 +11,7 @@
         <module name="jedis" />
         <module name="leetcode" />
         <module name="spring-simulation" />
+        <module name="spring-use" />
         <module name="springboot-code" />
       </profile>
     </annotationProcessing>
@@ -20,6 +21,7 @@
       <module name="learnProjects" target="1.5" />
       <module name="leetcode" target="1.7" />
       <module name="spring-simulation" target="1.7" />
+      <module name="spring-use" target="1.8" />
       <module name="springboot-code" target="1.8" />
     </bytecodeTargetLevel>
   </component>

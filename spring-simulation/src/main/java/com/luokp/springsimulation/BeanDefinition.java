@@ -1,13 +1,11 @@
 package com.luokp.springsimulation;
 
 public class BeanDefinition {
-    private String beanClassName;
     private Object bean;
-
+    private String beanClassName;
     private PropertyValues propertyValues;
 
-    public BeanDefinition(String beanClassName) {
-        this.beanClassName = beanClassName;
+    public BeanDefinition() {
     }
 
     public void setBeanClassName(String beanClassName){
