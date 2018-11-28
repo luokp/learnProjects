@@ -1,6 +1,7 @@
 package com.luokp.springsimulation.beanFactory;
 
 import com.luokp.springsimulation.BeanDefinition;
+import com.luokp.springsimulation.PropertyValues;
 
 public class AutowireCapableBeanFactory extends AbstractBeanFactory{
 
@@ -9,6 +10,10 @@ public class AutowireCapableBeanFactory extends AbstractBeanFactory{
         try {
             Class clazz = Class.forName(beanDefinition.getBeanClassName());
             Object bean = clazz.newInstance();
+
+            //注入属性
+            PropertyValues propertyValues = beanDefinition.getPropertyValues();
+
             return bean;
         } catch (ClassNotFoundException e) {
             e.printStackTrace();

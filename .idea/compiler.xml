@@ -1,19 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="CompilerConfiguration">
+    <option name="USE_RELEASE_OPTION" value="false" />
     <annotationProcessing>
       <profile name="Maven default annotation processors profile" enabled="true">
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="java8-code" />
+        <module name="jedis" />
+        <module name="leetcode" />
         <module name="spring-simulation" />
         <module name="springboot-code" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="java8-code" target="1.5" />
+      <module name="jedis" target="1.7" />
       <module name="learnProjects" target="1.5" />
+      <module name="leetcode" target="1.7" />
       <module name="spring-simulation" target="1.7" />
       <module name="springboot-code" target="1.8" />
     </bytecodeTargetLevel>

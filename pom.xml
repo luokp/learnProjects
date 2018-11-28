@@ -11,6 +11,8 @@
     <modules>
         <module>java8-code</module>
         <module>spring-simulation</module>
+        <module>jedis</module>
+        <module>leetcode</module>
     </modules>
 
 

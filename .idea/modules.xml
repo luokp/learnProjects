@@ -3,7 +3,9 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/java8-code/java8-code.iml" filepath="$PROJECT_DIR$/java8-code/java8-code.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jedis/jedis.iml" filepath="$PROJECT_DIR$/jedis/jedis.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/learnProjects.iml" filepath="$PROJECT_DIR$/.idea/learnProjects.iml" />
+      <module fileurl="file://$PROJECT_DIR$/leetcode/leetcode.iml" filepath="$PROJECT_DIR$/leetcode/leetcode.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring-simulation/spring-simulation.iml" filepath="$PROJECT_DIR$/spring-simulation/spring-simulation.iml" />
       <module fileurl="file://$PROJECT_DIR$/springboot-code/springboot-code.iml" filepath="$PROJECT_DIR$/springboot-code/springboot-code.iml" />
     </modules>
