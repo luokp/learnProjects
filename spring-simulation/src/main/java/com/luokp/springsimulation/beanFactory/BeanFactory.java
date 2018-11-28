@@ -1,6 +1,6 @@
 package com.luokp.springsimulation.beanFactory;
 
-import com.luokp.springsimulation.BeanDefinition;
+import com.luokp.springsimulation.beanDifinition.BeanDefinition;
 
 public interface BeanFactory {
 

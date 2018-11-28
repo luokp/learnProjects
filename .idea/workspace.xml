@@ -2,16 +2,33 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f395e402-468e-48bb-b945-1ecd97aed5e9" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/spring-simulation/src/main/java/com/luokp/springsimulation/io/Resource.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-simulation/src/main/java/com/luokp/springsimulation/io/ResourceLoader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-simulation/src/main/java/com/luokp/springsimulation/io/UrlResource.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-simulation/src/main/java/com/luokp/springsimulation/xmlReader/AbstractBeanDefinitionReader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-simulation/src/main/java/com/luokp/springsimulation/xmlReader/BeanDefinitionReader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-simulation/src/main/java/com/luokp/springsimulation/xmlReader/XmlBeanDefinitionReader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-simulation/src/test/resources/spring-application.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_aspectj_aspectjweaver_1_9_2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_aspectj_aspectjweaver_1_9_2.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/learnProjects.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/learnProjects.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-simulation/src/main/java/com/luokp/springsimulation/BeanDefinition.java" beforeDir="false" afterPath="$PROJECT_DIR$/spring-simulation/src/main/java/com/luokp/springsimulation/BeanDefinition.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-simulation/src/main/java/com/luokp/springsimulation/PropertyValues.java" beforeDir="false" afterPath="$PROJECT_DIR$/spring-simulation/src/main/java/com/luokp/springsimulation/PropertyValues.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java8-code/java8-code.iml" beforeDir="false" afterPath="$PROJECT_DIR$/java8-code/java8-code.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jedis/jedis.iml" beforeDir="false" afterPath="$PROJECT_DIR$/jedis/jedis.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/leetcode.iml" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/leetcode.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-simulation/spring-simulation.iml" beforeDir="false" afterPath="$PROJECT_DIR$/spring-simulation/spring-simulation.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-simulation/src/main/java/com/luokp/springsimulation/BeanDefinition.java" beforeDir="false" afterPath="$PROJECT_DIR$/spring-simulation/src/main/java/com/luokp/springsimulation/beanDifinition/BeanDefinition.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-simulation/src/main/java/com/luokp/springsimulation/PropertyValues.java" beforeDir="false" afterPath="$PROJECT_DIR$/spring-simulation/src/main/java/com/luokp/springsimulation/beanDifinition/PropertyValues.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-simulation/src/main/java/com/luokp/springsimulation/beanFactory/AbstractBeanFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/spring-simulation/src/main/java/com/luokp/springsimulation/beanFactory/AbstractBeanFactory.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/spring-simulation/src/main/java/com/luokp/springsimulation/beanFactory/AutowireCapableBeanFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/spring-simulation/src/main/java/com/luokp/springsimulation/beanFactory/AutowireCapableBeanFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-simulation/src/main/java/com/luokp/springsimulation/beanFactory/BeanFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/spring-simulation/src/main/java/com/luokp/springsimulation/beanFactory/BeanFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-simulation/src/test/java/com/luokp/AppTest.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/spring-simulation/src/test/java/com/luokp/BeanFactoryTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/spring-simulation/src/test/java/com/luokp/BeanFactoryTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-simulation/src/test/java/com/luokp/HelloService.java" beforeDir="false" afterPath="$PROJECT_DIR$/spring-simulation/src/test/java/com/luokp/HelloService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-simulation/target/classes/com/luokp/springsimulation/BeanDefinition.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-simulation/target/classes/com/luokp/springsimulation/PropertyValues.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-simulation/target/classes/com/luokp/springsimulation/beanFactory/AbstractBeanFactory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-simulation/target/classes/com/luokp/springsimulation/beanFactory/AutowireCapableBeanFactory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-simulation/target/classes/com/luokp/springsimulation/beanFactory/BeanFactory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-simulation/target/test-classes/com/luokp/BeanFactoryTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/spring-simulation/target/test-classes/com/luokp/BeanFactoryTest.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/spring_boot_code/target/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -76,20 +93,20 @@
         <counts>
           <entry key="class" value="4" />
           <entry key="factories" value="1" />
-          <entry key="java" value="30" />
+          <entry key="java" value="49" />
           <entry key="json" value="1" />
           <entry key="properties" value="3" />
-          <entry key="xml" value="5" />
+          <entry key="xml" value="7" />
           <entry key="yml" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="CLASS" value="4" />
-          <entry key="JAVA" value="30" />
+          <entry key="JAVA" value="49" />
           <entry key="JSON" value="1" />
           <entry key="Properties" value="3" />
-          <entry key="XML" value="5" />
+          <entry key="XML" value="7" />
           <entry key="YAML" value="1" />
           <entry key="spring.factories" value="1" />
         </counts>
@@ -97,18 +114,18 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="4" />
-          <entry key="java" value="1454" />
+          <entry key="java" value="1819" />
           <entry key="properties" value="36" />
-          <entry key="xml" value="17" />
+          <entry key="xml" value="61" />
           <entry key="yml" value="177" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="1454" />
+          <entry key="JAVA" value="1819" />
           <entry key="PLAIN_TEXT" value="4" />
           <entry key="Properties" value="36" />
-          <entry key="XML" value="17" />
+          <entry key="XML" value="61" />
           <entry key="YAML" value="177" />
         </counts>
       </usages-collector>
@@ -117,38 +134,54 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/spring-simulation/src/main/java/com/luokp/springsimulation/BeanDefinition.java">
+        <entry file="file://$PROJECT_DIR$/spring-simulation/src/main/java/com/luokp/springsimulation/beanDifinition/BeanDefinition.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="8" column="5" lean-forward="true" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
+            <state relative-caret-position="85">
+              <caret line="5" column="23" selection-start-line="5" selection-start-column="23" selection-end-line="5" selection-end-column="23" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/spring-simulation/src/main/java/com/luokp/springsimulation/PropertyValues.java">
+        <entry file="file://$PROJECT_DIR$/spring-simulation/src/main/java/com/luokp/springsimulation/beanDifinition/PropertyValues.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="425">
-              <caret line="26" column="43" selection-start-line="26" selection-start-column="31" selection-end-line="26" selection-end-column="43" />
+            <state relative-caret-position="170">
+              <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#298#299#0" expanded="true" />
-                <element signature="e#332#333#0" expanded="true" />
-                <element signature="e#399#400#0" expanded="true" />
-                <element signature="e#445#446#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/spring-simulation/src/main/java/com/luokp/springsimulation/xmlReader/XmlBeanDefinitionReader.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="468">
+              <caret line="72" column="42" lean-forward="true" selection-start-line="72" selection-start-column="42" selection-end-line="72" selection-end-column="42" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#357#358#0" expanded="true" />
+                <element signature="e#385#386#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/spring-simulation/src/main/java/com/luokp/springsimulation/beanFactory/AutowireCapableBeanFactory.java">
+        <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.11/junit-4.11-sources.jar!/org/junit/internal/runners/model/ReflectiveCallable.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="400">
-              <caret line="24" column="13" selection-start-line="24" selection-start-column="13" selection-end-line="24" selection-end-column="13" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="221">
+              <caret line="13" selection-start-line="13" selection-end-line="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.11/junit-4.11-sources.jar!/org/junit/runners/ParentRunner.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="218">
+              <caret line="273" selection-start-line="273" selection-end-line="273" />
             </state>
           </provider>
         </entry>
@@ -157,39 +190,37 @@
         <entry file="file://$PROJECT_DIR$/spring-simulation/src/test/java/com/luokp/BeanFactoryTest.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="340">
-              <caret line="26" column="44" lean-forward="true" selection-start-line="26" selection-start-column="44" selection-end-line="26" selection-end-column="44" />
+              <caret line="29" column="71" selection-start-line="29" selection-start-column="71" selection-end-line="29" selection-end-column="71" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/spring-simulation/src/test/java/com/luokp/HelloService.java">
+        <entry file="file://$PROJECT_DIR$/spring-simulation/src/main/java/com/luokp/springsimulation/beanFactory/AutowireCapableBeanFactory.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="21" lean-forward="true" selection-start-line="2" selection-start-column="21" selection-end-line="2" selection-end-column="21" />
+            <state relative-caret-position="357">
+              <caret line="23" selection-start-line="23" selection-end-line="23" />
               <folding>
-                <element signature="e#147#148#0" expanded="true" />
-                <element signature="e#173#174#0" expanded="true" />
-                <element signature="e#208#209#0" expanded="true" />
-                <element signature="e#238#239#0" expanded="true" />
-                <element signature="e#103#104#0" expanded="true" />
-                <element signature="e#130#131#0" expanded="true" />
-                <element signature="e#170#171#0" expanded="true" />
-                <element signature="e#202#203#0" expanded="true" />
-                <element signature="e#262#263#0" expanded="true" />
-                <element signature="e#291#292#0" expanded="true" />
-                <element signature="e#335#336#0" expanded="true" />
-                <element signature="e#371#372#0" expanded="true" />
+                <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/spring-simulation/src/main/java/com/luokp/springsimulation/beanFactory/BeanFactory.java">
+        <entry file="file://$PROJECT_DIR$/spring-simulation/src/test/resources/spring-application.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" column="17" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
+            <state relative-caret-position="272">
+              <caret line="16" column="8" lean-forward="true" selection-start-line="16" selection-start-column="8" selection-end-line="16" selection-end-column="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/spring-simulation/src/main/java/com/luokp/springsimulation/io/ResourceLoader.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="238">
+              <caret line="14" selection-start-line="14" selection-end-line="14" />
             </state>
           </provider>
         </entry>
@@ -238,7 +269,14 @@
         <option value="$PROJECT_DIR$/spring-simulation/src/main/java/com/luokp/springsimulation/beanFactory/AutowireCapableBeanFactory.java" />
         <option value="$PROJECT_DIR$/spring-simulation/src/test/java/com/luokp/HelloService.java" />
         <option value="$PROJECT_DIR$/spring-simulation/src/main/java/com/luokp/springsimulation/BeanDefinition.java" />
+        <option value="$PROJECT_DIR$/spring-simulation/src/main/java/com/luokp/springsimulation/beanFactory/BeanDefinition.java" />
+        <option value="$PROJECT_DIR$/spring-simulation/src/main/java/com/luokp/springsimulation/beanDifinition/BeanDefinition.java" />
+        <option value="$PROJECT_DIR$/spring-simulation/src/main/java/com/luokp/springsimulation/io/UrlResource.java" />
+        <option value="$PROJECT_DIR$/spring-simulation/src/main/java/com/luokp/springsimulation/xmlReader/BeanDefinitionReader.java" />
+        <option value="$PROJECT_DIR$/spring-simulation/src/main/java/com/luokp/springsimulation/xmlReader/AbstractBeanDefinitionReader.java" />
         <option value="$PROJECT_DIR$/spring-simulation/src/test/java/com/luokp/BeanFactoryTest.java" />
+        <option value="$PROJECT_DIR$/spring-simulation/src/main/java/com/luokp/springsimulation/xmlReader/XmlBeanDefinitionReader.java" />
+        <option value="$PROJECT_DIR$/spring-simulation/src/test/resources/spring-application.xml" />
       </list>
     </option>
   </component>
@@ -362,7 +400,7 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="springsimulation" type="462c0819:PsiDirectoryNode" />
-              <item name="beanFactory" type="462c0819:PsiDirectoryNode" />
+              <item name="io" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="learnProjects" type="b2602c69:ProjectViewProjectNode" />
@@ -388,6 +426,14 @@
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="luokp" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="learnProjects" type="b2602c69:ProjectViewProjectNode" />
+              <item name="learnProjects" type="462c0819:PsiDirectoryNode" />
+              <item name="spring-simulation" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -401,18 +447,25 @@
     <property name="RequestMappingsPanelWidth1" value="75" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1543403683116" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1543409606465" />
     <property name="jdk.selected.JAVA_MODULE" value="1.8" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/pom.xml" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/spring-simulation/src/main/java/com/luokp/springsimulation" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.luokp.springsimulation.xmlReader" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/spring-simulation/src/test/resources" />
       <recent name="$PROJECT_DIR$/leetcode/src/main/java/com/luokp" />
       <recent name="$PROJECT_DIR$/java8-code" />
       <recent name="$PROJECT_DIR$/java8-code/src/main/java/com/luokp/java8Test" />
@@ -430,23 +483,10 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.BeanFactoryTest">
+  <component name="RunManager" selected="JUnit.BeanFactoryTest.test">
     <configuration name="BeanFactoryTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.luokp.BeanFactoryTest" />
       <module name="spring-simulation" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.luokp.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="JedisDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.luokp.JedisDemo" />
-      <module name="jedis" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.luokp.*" />
@@ -496,6 +536,36 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="BeanFactoryTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="spring-simulation" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.luokp.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.luokp" />
+      <option name="MAIN_CLASS_NAME" value="com.luokp.BeanFactoryTest" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BeanFactoryTest.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="spring-simulation" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.luokp.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.luokp" />
+      <option name="MAIN_CLASS_NAME" value="com.luokp.BeanFactoryTest" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="SpringCodeApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="spring-use" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.luokp.springcode.SpringCodeApplication" />
@@ -512,19 +582,20 @@
     </configuration>
     <list>
       <item itemvalue="Spring Boot.SpringbootCodeApplication" />
-      <item itemvalue="Application.JedisDemo" />
       <item itemvalue="Application.Sum3" />
       <item itemvalue="Application.Sum4" />
       <item itemvalue="Spring Boot.SpringCodeApplication" />
       <item itemvalue="Application.BeanFactoryTest" />
+      <item itemvalue="JUnit.BeanFactoryTest" />
+      <item itemvalue="JUnit.BeanFactoryTest.test" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.BeanFactoryTest.test" />
+        <item itemvalue="JUnit.BeanFactoryTest" />
         <item itemvalue="Application.BeanFactoryTest" />
         <item itemvalue="Application.Sum4" />
         <item itemvalue="Application.Sum3" />
-        <item itemvalue="Application.Sum3" />
-        <item itemvalue="Application.JedisDemo" />
       </list>
     </recent_temporary>
   </component>
@@ -541,20 +612,11 @@
       <workItem from="1542510733456" duration="1598000" />
       <workItem from="1542518013735" duration="7350000" />
       <workItem from="1543202266582" duration="598000" />
-      <workItem from="1543244732594" duration="14833000" />
+      <workItem from="1543244732594" duration="19838000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="SpringbootCodeApplicationTests_contextLoads - 2018.11.18 at 13h 33m 07s.xml">
-      <configuration name="SpringbootCodeApplicationTests.contextLoads" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="SpringbootCodeApplicationTests_contextLoads - 2018.11.18 at 13h 35m 05s.xml">
-      <configuration name="SpringbootCodeApplicationTests.contextLoads" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="SpringbootCodeApplicationTests_contextLoads - 2018.11.18 at 13h 35m 45s.xml">
-      <configuration name="SpringbootCodeApplicationTests.contextLoads" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="SpringbootCodeApplicationTests_contextLoads - 2018.11.18 at 13h 36m 54s.xml">
       <configuration name="SpringbootCodeApplicationTests.contextLoads" configurationId="JUnit" />
     </history-entry>
@@ -567,14 +629,33 @@
     <history-entry file="SpringbootCodeApplicationTests_contextLoads - 2018.11.18 at 17h 16m 39s.xml">
       <configuration name="SpringbootCodeApplicationTests.contextLoads" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="BeanFactoryTest - 2018.11.28 at 19h 21m 35s.xml">
+      <configuration name="BeanFactoryTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="BeanFactoryTest_test - 2018.11.28 at 19h 21m 44s.xml">
+      <configuration name="BeanFactoryTest.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="BeanFactoryTest_test - 2018.11.28 at 20h 39m 42s.xml">
+      <configuration name="BeanFactoryTest.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="BeanFactoryTest_test - 2018.11.28 at 20h 40m 39s.xml">
+      <configuration name="BeanFactoryTest.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="BeanFactoryTest_test - 2018.11.28 at 20h 41m 30s.xml">
+      <configuration name="BeanFactoryTest.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="BeanFactoryTest_test - 2018.11.28 at 20h 49m 10s.xml">
+      <configuration name="BeanFactoryTest.test" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="24379000" />
+    <option name="totallyTimeSpent" value="29384000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-295" y="-1080" width="1920" height="1080" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20979765" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20979765" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -584,15 +665,15 @@
       <window_info id="Web" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32891566" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.4" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.4" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.32673267" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Spring" order="7" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="8" sideWeight="0.49928468" visible="true" weight="0.23762377" />
+      <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.49928468" weight="0.23762377" />
       <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5007153" side_tool="true" weight="0.32876712" />
-      <window_info anchor="bottom" id="Messages" order="10" weight="0.32891566" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.32871288" />
       <window_info anchor="bottom" id="Java Enterprise" order="11" />
       <window_info anchor="bottom" id="Database Changes" order="12" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="13" />
@@ -1357,39 +1438,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/spring-simulation/src/main/java/com/luokp/springsimulation/beanFactory/BeanFactory.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="17" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spring-simulation/src/main/java/com/luokp/springsimulation/BeanDefinition.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="5" lean-forward="true" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spring-simulation/src/main/java/com/luokp/springsimulation/PropertyValues.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="425">
-          <caret line="26" column="43" selection-start-line="26" selection-start-column="31" selection-end-line="26" selection-end-column="43" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#298#299#0" expanded="true" />
-            <element signature="e#332#333#0" expanded="true" />
-            <element signature="e#399#400#0" expanded="true" />
-            <element signature="e#445#446#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spring-simulation/src/main/java/com/luokp/springsimulation/beanFactory/AutowireCapableBeanFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="400">
-          <caret line="24" column="13" selection-start-line="24" selection-start-column="13" selection-end-line="24" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="34">
+          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
         </state>
       </provider>
     </entry>
@@ -1414,10 +1464,122 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/spring-simulation/src/test/java/com/luokp/AppTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="14" column="9" selection-start-line="14" selection-start-column="4" selection-end-line="14" selection-end-column="9" />
+          <folding>
+            <element signature="e#243#244#0" expanded="true" />
+            <element signature="e#277#278#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-simulation/src/main/java/com/luokp/springsimulation/io/Resource.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="9" column="17" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-simulation/src/main/java/com/luokp/springsimulation/xmlReader/BeanDefinitionReader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="17" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-simulation/src/main/java/com/luokp/springsimulation/xmlReader/AbstractBeanDefinitionReader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="236">
+          <caret line="14" column="49" lean-forward="true" selection-start-line="14" selection-start-column="49" selection-end-line="14" selection-end-column="49" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-simulation/src/main/java/com/luokp/springsimulation/io/UrlResource.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="22" column="26" lean-forward="true" selection-start-line="22" selection-start-column="26" selection-end-line="22" selection-end-column="26" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-simulation/src/main/java/com/luokp/springsimulation/io/ResourceLoader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.11/junit-4.11-sources.jar!/org/junit/internal/runners/model/ReflectiveCallable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.11/junit-4.11-sources.jar!/org/junit/runners/ParentRunner.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="218">
+          <caret line="273" selection-start-line="273" selection-end-line="273" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-simulation/src/main/java/com/luokp/springsimulation/beanDifinition/PropertyValues.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-simulation/src/main/java/com/luokp/springsimulation/beanDifinition/BeanDefinition.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="23" selection-start-line="5" selection-start-column="23" selection-end-line="5" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-simulation/src/main/java/com/luokp/springsimulation/xmlReader/XmlBeanDefinitionReader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="468">
+          <caret line="72" column="42" lean-forward="true" selection-start-line="72" selection-start-column="42" selection-end-line="72" selection-end-column="42" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#357#358#0" expanded="true" />
+            <element signature="e#385#386#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-simulation/src/test/resources/spring-application.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="8" lean-forward="true" selection-start-line="16" selection-start-column="8" selection-end-line="16" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-simulation/src/main/java/com/luokp/springsimulation/beanFactory/AutowireCapableBeanFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="23" selection-start-line="23" selection-end-line="23" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/spring-simulation/src/test/java/com/luokp/BeanFactoryTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="340">
-          <caret line="26" column="44" lean-forward="true" selection-start-line="26" selection-start-column="44" selection-end-line="26" selection-end-column="44" />
+          <caret line="29" column="71" selection-start-line="29" selection-start-column="71" selection-end-line="29" selection-end-column="71" />
         </state>
       </provider>
     </entry>
@@ -1473,7 +1635,7 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>leetcode</last-edited>
+          <last-edited>jedis</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>

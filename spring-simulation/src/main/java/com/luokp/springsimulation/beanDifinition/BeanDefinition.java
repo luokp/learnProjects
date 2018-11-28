@@ -1,4 +1,4 @@
-package com.luokp.springsimulation;
+package com.luokp.springsimulation.beanDifinition;
 
 public class BeanDefinition {
     private Object bean;

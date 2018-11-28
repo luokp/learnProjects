@@ -1,4 +1,4 @@
-package com.luokp.springsimulation;
+package com.luokp.springsimulation.beanDifinition;
 
 import java.util.HashMap;
 import java.util.Map;

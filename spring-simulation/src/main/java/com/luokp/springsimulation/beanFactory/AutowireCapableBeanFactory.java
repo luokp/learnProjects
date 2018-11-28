@@ -1,7 +1,7 @@
 package com.luokp.springsimulation.beanFactory;
 
-import com.luokp.springsimulation.BeanDefinition;
-import com.luokp.springsimulation.PropertyValues;
+import com.luokp.springsimulation.beanDifinition.BeanDefinition;
+import com.luokp.springsimulation.beanDifinition.PropertyValues;
 
 import java.lang.reflect.Field;
 import java.util.Set;
