@@ -11,6 +11,7 @@ import java.util.Map;
 public class PropertyValues {
     private Map<Object, Object> propertyMap = new HashMap<>();
 
+
     public Map<Object, Object> getPropertyMap() {
         return propertyMap;
     }

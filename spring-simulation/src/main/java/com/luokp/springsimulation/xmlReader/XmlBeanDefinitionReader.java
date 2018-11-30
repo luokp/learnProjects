@@ -1,6 +1,7 @@
 package com.luokp.springsimulation.xmlReader;
 
 import com.luokp.springsimulation.beanDifinition.BeanDefinition;
+import com.luokp.springsimulation.beanDifinition.BeanReference;
 import com.luokp.springsimulation.beanDifinition.PropertyValues;
 import com.luokp.springsimulation.io.ResourceLoader;
 import org.w3c.dom.Document;
@@ -74,7 +75,14 @@ public class XmlBeanDefinitionReader extends AbstractBeanDefinitionReader{
                 Element propertyEle = (Element) node;
                 String name = propertyEle.getAttribute("name");
                 String value = propertyEle.getAttribute("value");
-                propertyValues.addPropertyValue(name,value);
+                if(!value.equals("")){
+                    propertyValues.addPropertyValue(name,value);
+                }else{
+                    String ref = propertyEle.getAttribute("ref");
+                    BeanReference beanReference = new BeanReference();
+                    beanReference.setBeanName(ref);
+                    propertyValues.addPropertyValue(name,beanReference);
+                }
             }
         }
         beanDefinition.setPropertyValues(propertyValues);

@@ -5,6 +5,15 @@ public class HelloService {
     private String name;
     private String gender;
     private int age;
+    private Dog dog;
+
+    public Dog getDog() {
+        return dog;
+    }
+
+    public void setDog(Dog dog) {
+        this.dog = dog;
+    }
 
     public int getAge() {
         return age;
@@ -31,6 +40,9 @@ public class HelloService {
     }
 
     public void hello(){
-        System.out.println("hello: \n name:" + name + ", gender:" + gender + ", age:" + age);
+        System.out.println("hello: \n name:" + name + ", gender:" + gender + ", age:" + age + ", dog:" + dog);
+        if(dog != null){
+            dog.call(name);
+        }
     }
 }

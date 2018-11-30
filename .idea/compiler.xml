@@ -15,14 +15,17 @@
         <module name="springboot-code" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel>
-      <module name="java8-code" target="8" />
-      <module name="jedis" target="8" />
-      <module name="learnProjects" target="8" />
-      <module name="leetcode" target="8" />
-      <module name="spring-simulation" target="8" />
+    <bytecodeTargetLevel target="8">
+      <module name="java8-code" target="1.8" />
+      <module name="jedis" target="1.8" />
+      <module name="learnProjects" target="1.8" />
+      <module name="leetcode" target="1.8" />
+      <module name="spring-simulation" target="1.8" />
       <module name="spring-use" target="1.8" />
       <module name="springboot-code" target="1.8" />
     </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="PREFER_TARGET_JDK_COMPILER" value="false" />
   </component>
 </project>

@@ -4,21 +4,38 @@ import com.luokp.springsimulation.beanDifinition.BeanDefinition;
 
 import java.util.HashMap;
 import java.util.Map;
+import java.util.concurrent.ConcurrentHashMap;
 
 public abstract class AbstractBeanFactory implements BeanFactory{
 
-    private Map<String, BeanDefinition> container = new HashMap<>();
+    private static final Map<String, BeanDefinition> container = new ConcurrentHashMap<>();
 
-    public void registerBean(String name, BeanDefinition beanDefinition) throws ClassNotFoundException, IllegalAccessException, InstantiationException{
-        Object bean = createBean(beanDefinition);
-        beanDefinition.setBean(bean);
-        container.put(name, beanDefinition);
 
+    public void registerBean(String beabName, BeanDefinition beanDefinition) throws ClassNotFoundException, IllegalAccessException, InstantiationException{
+        container.put(beabName, beanDefinition);
     }
 
-    public Object getBean(String name){
-        return container.get(name).getBean();
+    protected boolean hasBean(String beanName){
+        return container.get(beanName).getBean() != null;
     }
 
-    public abstract  Object createBean(BeanDefinition beanDefinition);
+    public Object getBean(String beanName){
+        BeanDefinition beanDefinition = container.get(beanName);
+        if (beanDefinition == null) {
+            throw new IllegalArgumentException("No beanDefinition named " + beanName + " is defined");
+        }
+        Object bean = beanDefinition.getBean();
+        if(bean == null){
+            bean = doCreateBean(beanDefinition);
+        }
+        return bean;
+    }
+
+    public void preInstantiateSingletons(){
+        for(String beanName : container.keySet()){
+            getBean(beanName);
+        }
+    }
+
+    public abstract  Object doCreateBean(BeanDefinition beanDefinition);
 }

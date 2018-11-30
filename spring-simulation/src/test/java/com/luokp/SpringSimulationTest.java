@@ -1,24 +1,19 @@
 package com.luokp;
 
-import com.luokp.springsimulation.beanDifinition.BeanDefinition;
-import com.luokp.springsimulation.beanDifinition.PropertyValues;
 import com.luokp.springsimulation.beanFactory.AutowireCapableBeanFactory;
 import com.luokp.springsimulation.beanFactory.BeanFactory;
-import com.luokp.springsimulation.io.Resource;
 import com.luokp.springsimulation.io.ResourceLoader;
 import com.luokp.springsimulation.xmlReader.XmlBeanDefinitionReader;
 import org.junit.Test;
 
-import java.util.Map;
-
-public class BeanFactoryTest {
+public class SpringSimulationTest {
 
     @Test
     public  void test() throws Exception {
 
         //bean元数据
         XmlBeanDefinitionReader xmlBeanDefinitionReader = new XmlBeanDefinitionReader(new ResourceLoader());
-        xmlBeanDefinitionReader.loadBeanDefinitions("spring-application.xml");
+        xmlBeanDefinitionReader.loadBeanDefinitions("spring-simulation.xml");
 
         //注册bean
         BeanFactory beanFactory = new AutowireCapableBeanFactory();
@@ -30,8 +25,11 @@ public class BeanFactoryTest {
         HelloService hello1 = (HelloService) beanFactory.getBean("hello1");
         hello1.hello();
 
+        System.out.println("\n---------------------------------\n");
+
         HelloService hello2 = (HelloService) beanFactory.getBean("hello2");
         hello2.hello();
+        System.out.println("\n---------------------------------\n");
     }
 
 }

@@ -1,6 +1,7 @@
 package com.luokp.springsimulation.beanFactory;
 
 import com.luokp.springsimulation.beanDifinition.BeanDefinition;
+import com.luokp.springsimulation.beanDifinition.BeanReference;
 import com.luokp.springsimulation.beanDifinition.PropertyValues;
 
 import java.lang.reflect.Field;
@@ -9,7 +10,7 @@ import java.util.Set;
 public class AutowireCapableBeanFactory extends AbstractBeanFactory{
 
     @Override
-    public Object createBean(BeanDefinition beanDefinition) {
+    public Object doCreateBean(BeanDefinition beanDefinition) {
         try {
             Class clazz = Class.forName(beanDefinition.getBeanClassName());
             Object bean = clazz.newInstance();
@@ -21,8 +22,14 @@ public class AutowireCapableBeanFactory extends AbstractBeanFactory{
                 String propertyName = (String)key;
                 Field field = clazz.getDeclaredField(propertyName);
                 field.setAccessible(true);
-                field.set(bean, propertyValues.getPropertyValue(propertyName));
+                Object propertyValue = propertyValues.getPropertyMap().get(propertyName);
+                if( propertyValue instanceof BeanReference){
+                    BeanReference beanReference = (BeanReference) propertyValue;
+                    propertyValue = getBean(beanReference.getBeanName());
+                }
+                field.set(bean, propertyValue);
             }
+            beanDefinition.setBean(bean);
             return bean;
         } catch (ClassNotFoundException | NoSuchFieldException e) {
             e.printStackTrace();
