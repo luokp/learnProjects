@@ -1,4 +1,4 @@
-package com.luokp;
+package com.luokp.mongodb;
 
 import static org.junit.Assert.assertTrue;
 

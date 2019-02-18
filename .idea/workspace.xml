@@ -2,82 +2,31 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f395e402-468e-48bb-b945-1ecd97aed5e9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_code_findbugs_jsr305_3_0_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_errorprone_error_prone_annotations_2_2_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_guava_failureaccess_1_0_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_guava_guava_27_0_1_jre.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_guava_listenablefuture_9999_0_empty_to_avoid_conflict_with_guava.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_j2objc_j2objc_annotations_1_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_collections4_4_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_attoparser_attoparser_2_0_5_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_checkerframework_checker_qual_2_5_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_mojo_animal_sniffer_annotations_1_17.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_thymeleaf_2_1_0_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_thymeleaf_extras_thymeleaf_extras_java8time_3_0_1_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_thymeleaf_thymeleaf_3_0_11_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_thymeleaf_thymeleaf_spring5_3_0_11_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_unbescape_unbescape_1_1_6_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_webjars_jquery_3_3_1_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jedis/src/test/java/com/luokp/CacheTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetcode/src/main/java/com/luokp/_41FirstMissingPositive41.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetcode/src/main/java/com/luokp/_42TrapingRainWater.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetcode/src/main/java/com/luokp/_43MultiplyString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetcode/src/main/java/com/luokp/_51NQueues.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springboot-code/src/main/java/com/luokp/springbootcode/component/LoginHandlerInterceptor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springboot-code/src/main/java/com/luokp/springbootcode/config/MyMvcConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springboot-code/src/main/java/com/luokp/springbootcode/dao/DepartmentDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springboot-code/src/main/java/com/luokp/springbootcode/dao/EmployeeDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springboot-code/src/main/java/com/luokp/springbootcode/entities/Department.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springboot-code/src/main/java/com/luokp/springbootcode/entities/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springboot-code/src/main/resources/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springboot-code/src/main/resources/static/asserts/css/bootstrap.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springboot-code/src/main/resources/static/asserts/css/dashboard.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springboot-code/src/main/resources/static/asserts/css/signin.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springboot-code/src/main/resources/static/asserts/img/bootstrap-solid.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springboot-code/src/main/resources/static/asserts/js/Chart.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springboot-code/src/main/resources/static/asserts/js/bootstrap.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springboot-code/src/main/resources/static/asserts/js/feather.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springboot-code/src/main/resources/static/asserts/js/jquery-3.2.1.slim.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springboot-code/src/main/resources/static/asserts/js/popper.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springboot-code/src/main/resources/static/favicon.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springboot-code/src/main/resources/templates/dashboard.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springboot-code/src/main/resources/templates/error/404.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springboot-code/src/main/resources/templates/error/4xx.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springboot-code/src/main/resources/templates/error/5xx.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springboot-code/src/main/resources/templates/list.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springboot-code/src/main/resources/templates/login.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springboot-code/src/main/resources/templates/success.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_configuration_processor_2_1_0_RELEASE.xml" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mongodb_bson_3_8_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mongodb_mongodb_driver_3_8_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mongodb_mongodb_driver_core_3_8_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_data_mongodb_2_1_0_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_data_spring_data_commons_2_1_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_data_spring_data_mongodb_2_1_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_tx_5_1_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mongodb/mongodb.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mongodb/src/main/java/com/luokp/mongodb/MongoDBApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mongodb/src/main/java/com/luokp/mongodb/dao/UserDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mongodb/src/main/java/com/luokp/mongodb/dao/userDaoImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mongodb/src/main/java/com/luokp/mongodb/models/UserEntity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mongodb/src/main/java/resources/application-dev.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mongodb/src/test/java/com/luokp/mongodb/UserTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/learnProjects.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/learnProjects.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/jedis/jedis.iml" beforeDir="false" afterPath="$PROJECT_DIR$/jedis/jedis.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/jedis/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/jedis/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/jedis/target/classes/com/luokp/JedisDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/jedis/target/classes/com/luokp/JedisDemo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/jedis/target/classes/com/luokp/JedisUtil.class" beforeDir="false" afterPath="$PROJECT_DIR$/jedis/target/classes/com/luokp/JedisUtil.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/jedis/target/classes/com/luokp/PropertyUtil.class" beforeDir="false" afterPath="$PROJECT_DIR$/jedis/target/classes/com/luokp/PropertyUtil.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/jedis/target/classes/com/luokp/RedisService.class" beforeDir="false" afterPath="$PROJECT_DIR$/jedis/target/classes/com/luokp/RedisService.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/jedis/target/test-classes/com/luokp/AppTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/jedis/target/test-classes/com/luokp/AppTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode/src/main/java/com/luokp/FindFirstandLastPositionofElementinSortedArray34.java" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/src/main/java/com/luokp/_34FindFirstandLastPositionofElementinSortedArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode/src/main/java/com/luokp/LongestValidParenthese32.java" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/src/main/java/com/luokp/_32LongestValidParenthese32.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode/src/main/java/com/luokp/Permutation.java" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/src/main/java/com/luokp/Permutation.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode/src/main/java/com/luokp/Reverse_Nodes_in_k_Group_25.java" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/src/main/java/com/luokp/_25Reverse_Nodes_in_k_Group_25.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode/src/main/java/com/luokp/SearchInRotatedArray33.java" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/src/main/java/com/luokp/_33SearchInRotatedArray33.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode/src/main/java/com/luokp/Sum3.java" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/src/main/java/com/luokp/_15Sum3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode/src/main/java/com/luokp/Sum4.java" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/src/main/java/com/luokp/_18Sum4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode/src/test/java/com/luokp/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/src/test/java/com/luokp/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode/target/classes/com/luokp/FindFirstandLastPositionofElementinSortedArray34.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode/target/classes/com/luokp/LongestValidParenthese32.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode/target/classes/com/luokp/Permutation.class" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/target/classes/com/luokp/Permutation.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode/target/classes/com/luokp/Reverse_Nodes_in_k_Group_25.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode/target/classes/com/luokp/SearchInRotatedArray33.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode/target/classes/com/luokp/Sum3$IntegerList.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode/target/classes/com/luokp/Sum3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode/target/classes/com/luokp/Sum4.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode/target/test-classes/com/luokp/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/target/test-classes/com/luokp/Test.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-simulation/target/test-classes/com/luokp/SpringSimulationTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/spring-simulation/target/test-classes/com/luokp/SpringSimulationTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/springboot-code/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/springboot-code/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/springboot-code/src/main/java/com/luokp/springbootcode/SpringbootCodeApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/springboot-code/src/main/java/com/luokp/springbootcode/SpringbootCodeApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/springboot-code/src/main/java/com/luokp/springbootcode/controller/HelloController.java" beforeDir="false" afterPath="$PROJECT_DIR$/springboot-code/src/main/java/com/luokp/springbootcode/controller/HelloController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/springboot-code/src/main/resources/application.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java8-code/java8-code.iml" beforeDir="false" afterPath="$PROJECT_DIR$/java8-code/java8-code.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/leetcode.iml" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/leetcode.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mongodb/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/mongodb/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mongodb/src/main/java/com/luokp/App.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mongodb/src/test/java/com/luokp/AppTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/mongodb/src/test/java/com/luokp/mongodb/AppTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-simulation/spring-simulation.iml" beforeDir="false" afterPath="$PROJECT_DIR$/spring-simulation/spring-simulation.iml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/spring_boot_code/target/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -87,6 +36,7 @@
     <ignored path="$PROJECT_DIR$/jedis/target/" />
     <ignored path="$PROJECT_DIR$/leetcode/target/" />
     <ignored path="$PROJECT_DIR$/spring-use/target/" />
+    <ignored path="$PROJECT_DIR$/mongodb/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -153,8 +103,9 @@
           <entry key="project.open.time.23" value="1" />
           <entry key="project.open.time.27" value="1" />
           <entry key="project.open.time.4" value="1" />
+          <entry key="project.open.time.6" value="1" />
           <entry key="project.open.time.9" value="1" />
-          <entry key="project.opened" value="8" />
+          <entry key="project.opened" value="9" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -162,12 +113,12 @@
           <entry key="class" value="5" />
           <entry key="factories" value="1" />
           <entry key="html" value="7" />
-          <entry key="java" value="119" />
+          <entry key="java" value="127" />
           <entry key="js" value="1" />
           <entry key="json" value="1" />
-          <entry key="properties" value="5" />
+          <entry key="properties" value="6" />
           <entry key="svg" value="1" />
-          <entry key="xml" value="16" />
+          <entry key="xml" value="18" />
           <entry key="yml" value="2" />
         </counts>
       </usages-collector>
@@ -175,31 +126,32 @@
         <counts>
           <entry key="CLASS" value="5" />
           <entry key="HTML" value="7" />
-          <entry key="JAVA" value="119" />
+          <entry key="JAVA" value="127" />
           <entry key="JSON" value="1" />
           <entry key="JavaScript" value="1" />
-          <entry key="Properties" value="5" />
+          <entry key="Properties" value="6" />
           <entry key="SVG" value="1" />
-          <entry key="XML" value="16" />
+          <entry key="XML" value="18" />
           <entry key="YAML" value="2" />
           <entry key="spring.factories" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="dummy" value="47" />
-          <entry key="java" value="8016" />
-          <entry key="properties" value="42" />
-          <entry key="xml" value="161" />
+          <entry key="dummy" value="55" />
+          <entry key="java" value="8065" />
+          <entry key="properties" value="44" />
+          <entry key="txt" value="3" />
+          <entry key="xml" value="167" />
           <entry key="yml" value="186" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="8016" />
-          <entry key="PLAIN_TEXT" value="47" />
-          <entry key="Properties" value="42" />
-          <entry key="XML" value="161" />
+          <entry key="JAVA" value="8065" />
+          <entry key="PLAIN_TEXT" value="58" />
+          <entry key="Properties" value="44" />
+          <entry key="XML" value="167" />
           <entry key="YAML" value="186" />
         </counts>
       </usages-collector>
@@ -213,90 +165,83 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/leetcode/src/main/java/com/luokp/_51NQueues.java">
+        <entry file="file://$PROJECT_DIR$/mongodb/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1462">
-              <caret line="88" column="41" selection-start-line="88" selection-start-column="41" selection-end-line="88" selection-end-column="41" />
+            <state relative-caret-position="560">
+              <caret line="33" column="20" selection-start-line="33" selection-start-column="20" selection-end-line="33" selection-end-column="20" />
+              <folding>
+                <element signature="n#build#0;n#project#0;n#!!top" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/mongodb/src/main/java/com/luokp/mongodb/MongoDBApplication.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="102">
+              <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
               <folding>
                 <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/mongodb/src/main/java/resources/application-dev.properties">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" column="64" selection-start-line="2" selection-start-column="64" selection-end-line="2" selection-end-column="64" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/mongodb/src/main/java/com/luokp/mongodb/models/UserEntity.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="187">
+              <caret line="11" column="4" selection-start-line="11" selection-start-column="4" selection-end-line="11" selection-end-column="4" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/mongodb/src/main/java/com/luokp/mongodb/dao/userDaoImpl.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="195">
+              <caret line="24" column="13" lean-forward="true" selection-start-line="24" selection-start-column="13" selection-end-line="24" selection-end-column="13" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#457#458#0" expanded="true" />
+                <element signature="e#497#498#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/leetcode/src/test/java/com/luokp/Test.java">
+        <entry file="file://$PROJECT_DIR$/mongodb/src/test/java/com/luokp/mongodb/UserTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="18" column="27" selection-start-line="18" selection-start-column="27" selection-end-line="18" selection-end-column="62" />
+            <state relative-caret-position="542">
+              <caret line="45" lean-forward="true" selection-start-line="45" selection-end-line="45" />
               <folding>
                 <element signature="imports" expanded="true" />
+                <element signature="e#868#869#0" expanded="true" />
+                <element signature="e#910#911#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/src.zip!/java/util/TreeSet.java">
+        <entry file="file://$PROJECT_DIR$/mongodb/src/main/java/com/luokp/mongodb/dao/UserDao.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1751">
-              <caret line="453" column="36" selection-start-line="453" selection-start-column="36" selection-end-line="453" selection-end-column="36" />
-              <folding>
-                <element signature="docComment;class#TreeSet#0" />
-                <element signature="docComment;field#m#0;class#TreeSet#0" />
-                <element signature="docComment;method#TreeSet#0;class#TreeSet#0" />
-                <element signature="docComment;method#TreeSet#1;class#TreeSet#0" />
-                <element signature="docComment;method#TreeSet#2;class#TreeSet#0" />
-                <element signature="docComment;method#TreeSet#3;class#TreeSet#0" />
-                <element signature="method#TreeSet#3;class#TreeSet#0" />
-                <element signature="docComment;method#TreeSet#4;class#TreeSet#0" />
-                <element signature="method#TreeSet#4;class#TreeSet#0" />
-                <element signature="docComment;method#iterator#0;class#TreeSet#0" />
-                <element signature="docComment;method#descendingIterator#0;class#TreeSet#0" />
-                <element signature="docComment;method#descendingSet#0;class#TreeSet#0" />
-                <element signature="docComment;method#size#0;class#TreeSet#0" />
-                <element signature="docComment;method#isEmpty#0;class#TreeSet#0" />
-                <element signature="docComment;method#contains#0;class#TreeSet#0" />
-                <element signature="docComment;method#add#0;class#TreeSet#0" />
-                <element signature="docComment;method#remove#0;class#TreeSet#0" />
-                <element signature="docComment;method#clear#0;class#TreeSet#0" />
-                <element signature="docComment;method#addAll#0;class#TreeSet#0" />
-                <element signature="method#addAll#0;class#TreeSet#0" />
-                <element signature="docComment;method#subSet#0;class#TreeSet#0" />
-                <element signature="method#subSet#0;class#TreeSet#0" />
-                <element signature="docComment;method#headSet#0;class#TreeSet#0" />
-                <element signature="method#headSet#0;class#TreeSet#0" />
-                <element signature="docComment;method#tailSet#0;class#TreeSet#0" />
-                <element signature="method#tailSet#0;class#TreeSet#0" />
-                <element signature="docComment;method#subSet#1;class#TreeSet#0" />
-                <element signature="docComment;method#headSet#1;class#TreeSet#0" />
-                <element signature="docComment;method#tailSet#1;class#TreeSet#0" />
-                <element signature="docComment;method#first#0;class#TreeSet#0" />
-                <element signature="docComment;method#last#0;class#TreeSet#0" />
-                <element signature="docComment;method#lower#0;class#TreeSet#0" />
-                <element signature="docComment;method#floor#0;class#TreeSet#0" />
-                <element signature="docComment;method#ceiling#0;class#TreeSet#0" />
-                <element signature="docComment;method#higher#0;class#TreeSet#0" />
-                <element signature="docComment;method#pollFirst#0;class#TreeSet#0" />
-                <element signature="docComment;method#pollLast#0;class#TreeSet#0" />
-                <element signature="method#pollLast#0;class#TreeSet#0" />
-                <element signature="docComment;method#clone#0;class#TreeSet#0" />
-                <element signature="method#clone#0;class#TreeSet#0" />
-                <element signature="docComment;method#writeObject#0;class#TreeSet#0" />
-                <element signature="method#writeObject#0;class#TreeSet#0" />
-                <element signature="docComment;method#readObject#0;class#TreeSet#0" />
-                <element signature="method#readObject#0;class#TreeSet#0" />
-                <element signature="docComment;method#spliterator#0;class#TreeSet#0" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/src.zip!/java/util/NavigableMap.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="3434">
-              <caret line="235" column="7" selection-start-line="235" selection-start-column="7" selection-end-line="235" selection-end-column="7" />
+            <state relative-caret-position="153">
+              <caret line="9" column="1" selection-start-line="9" selection-start-column="1" selection-end-line="10" />
             </state>
           </provider>
         </entry>
@@ -323,14 +268,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/spring-simulation/src/main/java/com/luokp/springsimulation/PropertyValues.java" />
-        <option value="$PROJECT_DIR$/spring-simulation/src/main/java/com/luokp/springsimulation/BeanDefinition.java" />
-        <option value="$PROJECT_DIR$/spring-simulation/src/main/java/com/luokp/springsimulation/beanFactory/BeanDefinition.java" />
-        <option value="$PROJECT_DIR$/spring-simulation/src/main/java/com/luokp/springsimulation/beanDifinition/BeanDefinition.java" />
-        <option value="$PROJECT_DIR$/spring-simulation/src/main/java/com/luokp/springsimulation/io/UrlResource.java" />
-        <option value="$PROJECT_DIR$/spring-simulation/src/main/java/com/luokp/springsimulation/xmlReader/BeanDefinitionReader.java" />
-        <option value="$PROJECT_DIR$/spring-simulation/src/main/java/com/luokp/springsimulation/xmlReader/AbstractBeanDefinitionReader.java" />
-        <option value="$PROJECT_DIR$/spring-simulation/src/test/resources/spring-application.xml" />
         <option value="$PROJECT_DIR$/leetcode/pom.xml" />
         <option value="$PROJECT_DIR$/leetcode/src/main/java/com/luokp/Catalan.java" />
         <option value="$PROJECT_DIR$/leetcode/src/test/java/com/luokp/AppTest.java" />
@@ -374,6 +311,14 @@
         <option value="$PROJECT_DIR$/leetcode/src/main/java/com/luokp/Permutation.java" />
         <option value="$PROJECT_DIR$/leetcode/src/main/java/com/luokp/_51NQueues.java" />
         <option value="$PROJECT_DIR$/leetcode/src/test/java/com/luokp/Test.java" />
+        <option value="$PROJECT_DIR$/mongodb/src/main/java/com/luokp/mongodb/MongodbApplication.java" />
+        <option value="$PROJECT_DIR$/mongodb/src/main/java/com/luokp/mongodb/MongoDBApplication.java" />
+        <option value="$PROJECT_DIR$/mongodb/src/main/java/resources/application-dev.properties" />
+        <option value="$PROJECT_DIR$/mongodb/src/main/java/com/luokp/mongodb/models/User.java" />
+        <option value="$PROJECT_DIR$/mongodb/src/main/java/com/luokp/mongodb/dao/UserDao.java" />
+        <option value="$PROJECT_DIR$/mongodb/pom.xml" />
+        <option value="$PROJECT_DIR$/mongodb/src/test/java/com/luokp/mongodb/UserTest.java" />
+        <option value="$PROJECT_DIR$/mongodb/src/main/java/com/luokp/mongodb/dao/userDaoImpl.java" />
       </list>
     </option>
   </component>
@@ -417,6 +362,8 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds" extendedState="6" fullScreen="true">
+    <option name="x" value="-295" />
+    <option name="y" value="-1080" />
     <option name="width" value="1920" />
     <option name="height" value="1080" />
   </component>
@@ -428,7 +375,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
       <pane id="AndroidView" />
       <pane id="ProjectPane">
@@ -441,12 +387,131 @@
             <path>
               <item name="learnProjects" type="b2602c69:ProjectViewProjectNode" />
               <item name="learnProjects" type="462c0819:PsiDirectoryNode" />
-              <item name="java8-code" type="462c0819:PsiDirectoryNode" />
+              <item name="mongodb" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="learnProjects" type="b2602c69:ProjectViewProjectNode" />
+              <item name="learnProjects" type="462c0819:PsiDirectoryNode" />
+              <item name="mongodb" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="learnProjects" type="b2602c69:ProjectViewProjectNode" />
+              <item name="learnProjects" type="462c0819:PsiDirectoryNode" />
+              <item name="mongodb" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="learnProjects" type="b2602c69:ProjectViewProjectNode" />
+              <item name="learnProjects" type="462c0819:PsiDirectoryNode" />
+              <item name="mongodb" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="learnProjects" type="b2602c69:ProjectViewProjectNode" />
+              <item name="learnProjects" type="462c0819:PsiDirectoryNode" />
+              <item name="mongodb" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="mongodb" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="learnProjects" type="b2602c69:ProjectViewProjectNode" />
+              <item name="learnProjects" type="462c0819:PsiDirectoryNode" />
+              <item name="mongodb" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="mongodb" type="462c0819:PsiDirectoryNode" />
+              <item name="dao" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="learnProjects" type="b2602c69:ProjectViewProjectNode" />
+              <item name="learnProjects" type="462c0819:PsiDirectoryNode" />
+              <item name="mongodb" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="mongodb" type="462c0819:PsiDirectoryNode" />
+              <item name="models" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="learnProjects" type="b2602c69:ProjectViewProjectNode" />
+              <item name="learnProjects" type="462c0819:PsiDirectoryNode" />
+              <item name="mongodb" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="learnProjects" type="b2602c69:ProjectViewProjectNode" />
+              <item name="learnProjects" type="462c0819:PsiDirectoryNode" />
+              <item name="mongodb" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="learnProjects" type="b2602c69:ProjectViewProjectNode" />
+              <item name="learnProjects" type="462c0819:PsiDirectoryNode" />
+              <item name="mongodb" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="learnProjects" type="b2602c69:ProjectViewProjectNode" />
+              <item name="learnProjects" type="462c0819:PsiDirectoryNode" />
+              <item name="mongodb" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="mongodb" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="learnProjects" type="b2602c69:ProjectViewProjectNode" />
+              <item name="learnProjects" type="462c0819:PsiDirectoryNode" />
+              <item name="springboot-code" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="learnProjects" type="b2602c69:ProjectViewProjectNode" />
+              <item name="learnProjects" type="462c0819:PsiDirectoryNode" />
+              <item name="springboot-code" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="learnProjects" type="b2602c69:ProjectViewProjectNode" />
+              <item name="learnProjects" type="462c0819:PsiDirectoryNode" />
+              <item name="springboot-code" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="learnProjects" type="b2602c69:ProjectViewProjectNode" />
+              <item name="learnProjects" type="462c0819:PsiDirectoryNode" />
+              <item name="springboot-code" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="learnProjects" type="b2602c69:ProjectViewProjectNode" />
+              <item name="learnProjects" type="462c0819:PsiDirectoryNode" />
+              <item name="springboot-code" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="springbootcode" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -456,7 +521,7 @@
     <property name="RequestMappingsPanelWidth1" value="75" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1545616887464" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1550489895111" />
     <property name="jdk.selected.JAVA_MODULE" value="1.8" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/pom.xml" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
@@ -467,24 +532,26 @@
     <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
-      <recent name="com.luokp" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/springboot-code/src/main/java/com/luokp/springbootcode" />
-      <recent name="$PROJECT_DIR$/springboot-code/src/main/resources" />
-      <recent name="$PROJECT_DIR$/springboot-code/src/main/resources/templete" />
-      <recent name="$PROJECT_DIR$/springboot-code/src/main/resources/public" />
-      <recent name="$PROJECT_DIR$/springboot-code/src/main/resources/resources" />
-    </key>
-    <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="com.luokp.springsimulation.xmlReader" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/springboot-code/src/main/resources/templates" />
       <recent name="$PROJECT_DIR$/springboot-code/src/main/resources/static" />
       <recent name="$PROJECT_DIR$/springboot-code/src/main/resources" />
       <recent name="$PROJECT_DIR$/springboot-code/src/main/resources/templetes" />
+      <recent name="$PROJECT_DIR$/springboot-code/src/main/resources/public" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.luokp.mongodb" />
+      <recent name="com.luokp" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.luokp.mongodb" />
+      <recent name="com.luokp.springsimulation.xmlReader" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/mongodb/src/main/java/resources" />
+      <recent name="$PROJECT_DIR$/springboot-code/src/main/java/com/luokp/springbootcode" />
+      <recent name="$PROJECT_DIR$/springboot-code/src/main/resources" />
+      <recent name="$PROJECT_DIR$/springboot-code/src/main/resources/templete" />
       <recent name="$PROJECT_DIR$/springboot-code/src/main/resources/public" />
     </key>
   </component>
@@ -500,64 +567,12 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.Test.test">
-    <configuration name="Permutation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.luokp.Permutation" />
-      <module name="leetcode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.luokp.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="_42TrapingRainWater" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.luokp._42TrapingRainWater" />
-      <module name="leetcode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.luokp.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="_43MultiplyString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.luokp._43MultiplyString" />
-      <module name="leetcode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.luokp.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="_51NQueues" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.luokp._51NQueues" />
-      <module name="leetcode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.luokp.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="JUnit.UserTest.deleteUserById">
     <configuration name="Test.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.luokp.*" />
+          <option name="PATTERN" value="com.luokp.mongodb.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -565,6 +580,79 @@
       <option name="MAIN_CLASS_NAME" value="com.luokp.Test" />
       <option name="METHOD_NAME" value="test" />
       <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserTest.deleteUserById" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="mongodb" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.luokp.mongodb.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.luokp.mongodb" />
+      <option name="MAIN_CLASS_NAME" value="com.luokp.mongodb.UserTest" />
+      <option name="METHOD_NAME" value="deleteUserById" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserTest.findUserByUserName" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="mongodb" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.luokp.mongodb.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.luokp.mongodb" />
+      <option name="MAIN_CLASS_NAME" value="com.luokp.mongodb.UserTest" />
+      <option name="METHOD_NAME" value="findUserByUserName" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserTest.testSaveUser" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="mongodb" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.luokp.mongodb.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.luokp.mongodb" />
+      <option name="MAIN_CLASS_NAME" value="com.luokp.mongodb.UserTest" />
+      <option name="METHOD_NAME" value="testSaveUser" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserTest.updateUser" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="mongodb" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.luokp.mongodb.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.luokp.mongodb" />
+      <option name="MAIN_CLASS_NAME" value="com.luokp.mongodb.UserTest" />
+      <option name="METHOD_NAME" value="updateUser" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="mongodbTest" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="mongodb" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.luokp.mongodb.MongoDBApplication" />
+      <option name="ACTIVE_PROFILES" value="dev" />
+      <option name="ALTERNATIVE_JRE_PATH" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -578,20 +666,21 @@
       </method>
     </configuration>
     <list>
+      <item itemvalue="Spring Boot.mongodbTest" />
       <item itemvalue="Spring Boot.spring-boot-le" />
-      <item itemvalue="Application._42TrapingRainWater" />
-      <item itemvalue="Application._43MultiplyString" />
-      <item itemvalue="Application.Permutation" />
-      <item itemvalue="Application._51NQueues" />
       <item itemvalue="JUnit.Test.test" />
+      <item itemvalue="JUnit.UserTest.testSaveUser" />
+      <item itemvalue="JUnit.UserTest.findUserByUserName" />
+      <item itemvalue="JUnit.UserTest.updateUser" />
+      <item itemvalue="JUnit.UserTest.deleteUserById" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.UserTest.deleteUserById" />
+        <item itemvalue="JUnit.UserTest.updateUser" />
+        <item itemvalue="JUnit.UserTest.findUserByUserName" />
+        <item itemvalue="JUnit.UserTest.testSaveUser" />
         <item itemvalue="JUnit.Test.test" />
-        <item itemvalue="Application._51NQueues" />
-        <item itemvalue="Application.Permutation" />
-        <item itemvalue="Application._43MultiplyString" />
-        <item itemvalue="Application._42TrapingRainWater" />
       </list>
     </recent_temporary>
   </component>
@@ -614,43 +703,44 @@
       <workItem from="1546410758387" duration="1210000" />
       <workItem from="1547003521255" duration="596000" />
       <workItem from="1548042993713" duration="22000" />
+      <workItem from="1550487635567" duration="2213000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="BeanFactoryTest_test - 2018.11.30 at 21h 36m 53s.xml">
-      <configuration name="BeanFactoryTest.test" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="BeanFactoryTest_test - 2018.11.30 at 21h 40m 44s.xml">
-      <configuration name="BeanFactoryTest.test" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="BeanFactoryTest_test - 2018.11.30 at 21h 42m 16s.xml">
-      <configuration name="BeanFactoryTest.test" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="BeanFactoryTest_test - 2018.11.30 at 21h 47m 06s.xml">
-      <configuration name="BeanFactoryTest.test" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="SpringSimulationTest_test - 2018.11.30 at 21h 52m 17s.xml">
-      <configuration name="SpringSimulationTest.test" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="SpringSimulationTest_test - 2018.12.02 at 11h 55m 29s.xml">
-      <configuration name="SpringSimulationTest.test" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="SpringSimulationTest_test - 2018.12.03 at 20h 28m 12s.xml">
-      <configuration name="SpringSimulationTest.test" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="SpringSimulationTest_test - 2018.12.04 at 14h 50m 31s.xml">
-      <configuration name="SpringSimulationTest.test" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="Test_test - 2018.12.20 at 21h 41m 25s.xml">
-      <configuration name="Test.test" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="Test_test - 2018.12.20 at 21h 41m 38s.xml">
       <configuration name="Test.test" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="UserTest_testSaveUser - 2019.02.18 at 19h 28m 16s.xml">
+      <configuration name="UserTest.testSaveUser" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="UserTest_testSaveUser - 2019.02.18 at 19h 29m 02s.xml">
+      <configuration name="UserTest.testSaveUser" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="UserTest_testSaveUser - 2019.02.18 at 19h 30m 33s.xml">
+      <configuration name="UserTest.testSaveUser" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="UserTest_testSaveUser - 2019.02.18 at 19h 33m 26s.xml">
+      <configuration name="UserTest.testSaveUser" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="UserTest_testSaveUser - 2019.02.18 at 19h 34m 37s.xml">
+      <configuration name="UserTest.testSaveUser" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="UserTest_testSaveUser - 2019.02.18 at 19h 35m 18s.xml">
+      <configuration name="UserTest.testSaveUser" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="UserTest_findUserByUserName - 2019.02.18 at 19h 36m 15s.xml">
+      <configuration name="UserTest.findUserByUserName" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="UserTest_updateUser - 2019.02.18 at 19h 36m 51s.xml">
+      <configuration name="UserTest.updateUser" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="UserTest_deleteUserById - 2019.02.18 at 19h 37m 11s.xml">
+      <configuration name="UserTest.deleteUserById" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="98640000" />
+    <option name="totallyTimeSpent" value="100853000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -662,9 +752,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1440" height="900" extended-state="6" />
+    <frame x="-295" y="-1080" width="1920" height="1080" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.3090129" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.23322684" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -674,7 +765,7 @@
       <window_info id="Web" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32871288" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.24950495" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.24950495" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3891089" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -682,7 +773,7 @@
       <window_info anchor="bottom" id="Spring" order="7" />
       <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.49928468" weight="0.2891089" />
       <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5007153" side_tool="true" weight="0.32876712" />
-      <window_info anchor="bottom" id="Messages" order="10" weight="0.3253012" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.32475248" />
       <window_info anchor="bottom" id="Java Enterprise" order="11" />
       <window_info anchor="bottom" id="Database Changes" order="12" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="13" />
@@ -772,72 +863,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/spring-simulation/src/main/java/com/luokp/springsimulation/beanFactory/AutowireCapableBeanFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="443">
-          <caret line="32" selection-start-line="32" selection-end-line="32" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/leetcode/src/main/java/com/luokp/models/Remove_element_27.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="452">
-          <caret line="30" column="5" lean-forward="true" selection-start-line="11" selection-start-column="4" selection-end-line="30" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/leetcode/src/main/java/com/luokp/_25Reverse_Nodes_in_k_Group_25.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="506">
-          <caret line="45" column="8" selection-start-line="45" selection-start-column="8" selection-end-line="45" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spring-simulation/src/main/java/com/luokp/springsimulation/beanDifinition/PropertyValues.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spring-simulation/src/main/java/com/luokp/springsimulation/beanFactory/BeanFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="17" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spring-simulation/src/main/java/com/luokp/springsimulation/xmlReader/XmlBeanDefinitionReader.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="317">
-          <caret line="30" column="16" selection-start-line="30" selection-start-column="16" selection-end-line="30" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spring-simulation/src/main/java/com/luokp/springsimulation/xmlReader/BeanDefinitionReader.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="17" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spring-simulation/src/main/java/com/luokp/springsimulation/xmlReader/AbstractBeanDefinitionReader.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" column="42" selection-start-line="16" selection-start-column="42" selection-end-line="16" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spring-simulation/src/main/java/com/luokp/springsimulation/beanFactory/AbstractBeanFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="442">
-          <caret line="30" selection-start-line="30" selection-end-line="30" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/leetcode/src/main/java/com/luokp/_32LongestValidParenthese32.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="307">
@@ -1007,13 +1032,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/springboot-code/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="369">
-          <caret line="23" column="40" selection-start-line="23" selection-start-column="40" selection-end-line="23" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/jedis/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="594">
@@ -1091,9 +1109,19 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/leetcode/src/test/java/com/luokp/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="27" selection-start-line="18" selection-start-column="27" selection-end-line="18" selection-end-column="62" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/leetcode/src/main/java/com/luokp/_51NQueues.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1462">
+        <state relative-caret-position="929">
           <caret line="88" column="41" selection-start-line="88" selection-start-column="41" selection-end-line="88" selection-end-column="41" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -1103,7 +1131,7 @@
     </entry>
     <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/src.zip!/java/util/TreeSet.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1751">
+        <state relative-caret-position="929">
           <caret line="453" column="36" selection-start-line="453" selection-start-column="36" selection-end-line="453" selection-end-column="36" />
           <folding>
             <element signature="docComment;class#TreeSet#0" />
@@ -1157,17 +1185,92 @@
     </entry>
     <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/src.zip!/java/util/NavigableMap.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3434">
+        <state relative-caret-position="929">
           <caret line="235" column="7" selection-start-line="235" selection-start-column="7" selection-end-line="235" selection-end-column="7" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/leetcode/src/test/java/com/luokp/Test.java">
+    <entry file="file://$PROJECT_DIR$/mongodb/src/main/java/com/luokp/mongodb/App.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="18" column="27" selection-start-line="18" selection-start-column="27" selection-end-line="18" selection-end-column="62" />
+        <state relative-caret-position="102">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springboot-code/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="164">
+          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mongodb/src/main/java/com/luokp/mongodb/models.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mongodb/src/main/java/com/luokp/mongodb/MongoDBApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
           <folding>
             <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mongodb/src/main/java/resources/application-dev.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="64" selection-start-line="2" selection-start-column="64" selection-end-line="2" selection-end-column="64" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mongodb/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="560">
+          <caret line="33" column="20" selection-start-line="33" selection-start-column="20" selection-end-line="33" selection-end-column="20" />
+          <folding>
+            <element signature="n#build#0;n#project#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mongodb/src/main/java/com/luokp/mongodb/dao/UserDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="1" selection-start-line="9" selection-start-column="1" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mongodb/src/main/java/com/luokp/mongodb/models/UserEntity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="4" selection-start-line="11" selection-start-column="4" selection-end-line="11" selection-end-column="4" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mongodb/src/main/java/com/luokp/mongodb/dao/userDaoImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="24" column="13" lean-forward="true" selection-start-line="24" selection-start-column="13" selection-end-line="24" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#457#458#0" expanded="true" />
+            <element signature="e#497#498#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mongodb/src/test/java/com/luokp/mongodb/UserTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="542">
+          <caret line="45" lean-forward="true" selection-start-line="45" selection-end-line="45" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#868#869#0" expanded="true" />
+            <element signature="e#910#911#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -1224,7 +1327,7 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>learnProjects</last-edited>
+          <last-edited>mongodb</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
