@@ -1,6 +1,8 @@
 package com.luokp;
 
 import java.util.List;
+import java.util.Set;
+import java.util.TreeSet;
 
 /**
  * @author: luokp
@@ -10,8 +12,13 @@ import java.util.List;
 public class Test {
     @org.junit.Test
     public void test() {
-        Catalan catalan = new Catalan();
-        List list = catalan.generateParenthesis(50);
-        System.out.println(list);
+        Set<Integer> set = new TreeSet<>();
+        for (int i = 0; i < 5; i++) {
+            set.add(i);
+        }
+        System.out.println(((TreeSet<Integer>) set).pollLast());
+//        Catalan catalan = new Catalan();
+//        List list = catalan.generateParenthesis(50);
+//        System.out.println(list);
     }
 }

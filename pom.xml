@@ -14,6 +14,7 @@
         <module>jedis</module>
         <module>spring-use</module>
         <module>leetcode</module>
+        <module>mongodb</module>
     </modules>
 
 

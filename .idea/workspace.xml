@@ -2,27 +2,82 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f395e402-468e-48bb-b945-1ecd97aed5e9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/leetcode/src/main/java/com/luokp/FindFirstandLastPositionofElementinSortedArray34.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetcode/src/main/java/com/luokp/LongestValidParenthese32.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetcode/src/main/java/com/luokp/Permutation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetcode/src/main/java/com/luokp/Reverse_Nodes_in_k_Group_25.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetcode/src/main/java/com/luokp/SearchInRotatedArray33.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetcode/src/main/java/com/luokp/models/ListNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetcode/src/main/java/com/luokp/models/Remove_element_27.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-simulation/src/main/java/com/luokp/springsimulation/context/AbstractApplicationContext.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-simulation/src/main/java/com/luokp/springsimulation/context/ApplicationContext.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-simulation/src/main/java/com/luokp/springsimulation/context/ClassPathXmlApplicationContextXml.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_code_findbugs_jsr305_3_0_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_errorprone_error_prone_annotations_2_2_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_guava_failureaccess_1_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_guava_guava_27_0_1_jre.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_guava_listenablefuture_9999_0_empty_to_avoid_conflict_with_guava.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_j2objc_j2objc_annotations_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_collections4_4_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_attoparser_attoparser_2_0_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_checkerframework_checker_qual_2_5_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_mojo_animal_sniffer_annotations_1_17.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_thymeleaf_2_1_0_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_thymeleaf_extras_thymeleaf_extras_java8time_3_0_1_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_thymeleaf_thymeleaf_3_0_11_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_thymeleaf_thymeleaf_spring5_3_0_11_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_unbescape_unbescape_1_1_6_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_webjars_jquery_3_3_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jedis/src/test/java/com/luokp/CacheTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/src/main/java/com/luokp/_41FirstMissingPositive41.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/src/main/java/com/luokp/_42TrapingRainWater.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/src/main/java/com/luokp/_43MultiplyString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/src/main/java/com/luokp/_51NQueues.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-code/src/main/java/com/luokp/springbootcode/component/LoginHandlerInterceptor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-code/src/main/java/com/luokp/springbootcode/config/MyMvcConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-code/src/main/java/com/luokp/springbootcode/dao/DepartmentDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-code/src/main/java/com/luokp/springbootcode/dao/EmployeeDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-code/src/main/java/com/luokp/springbootcode/entities/Department.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-code/src/main/java/com/luokp/springbootcode/entities/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-code/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-code/src/main/resources/static/asserts/css/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-code/src/main/resources/static/asserts/css/dashboard.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-code/src/main/resources/static/asserts/css/signin.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-code/src/main/resources/static/asserts/img/bootstrap-solid.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-code/src/main/resources/static/asserts/js/Chart.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-code/src/main/resources/static/asserts/js/bootstrap.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-code/src/main/resources/static/asserts/js/feather.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-code/src/main/resources/static/asserts/js/jquery-3.2.1.slim.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-code/src/main/resources/static/asserts/js/popper.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-code/src/main/resources/static/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-code/src/main/resources/templates/dashboard.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-code/src/main/resources/templates/error/404.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-code/src/main/resources/templates/error/4xx.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-code/src/main/resources/templates/error/5xx.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-code/src/main/resources/templates/list.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-code/src/main/resources/templates/login.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-code/src/main/resources/templates/success.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_configuration_processor_2_1_0_RELEASE.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode/target/classes/com/luokp/Catalan.class" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/target/classes/com/luokp/Catalan.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode/target/classes/com/luokp/Sum3$IntegerList.class" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/target/classes/com/luokp/Sum3$IntegerList.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode/target/classes/com/luokp/Sum3.class" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/target/classes/com/luokp/Sum3.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode/target/classes/com/luokp/Sum4.class" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/target/classes/com/luokp/Sum4.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode/target/test-classes/com/luokp/AppTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/target/test-classes/com/luokp/AppTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jedis/jedis.iml" beforeDir="false" afterPath="$PROJECT_DIR$/jedis/jedis.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jedis/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/jedis/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jedis/target/classes/com/luokp/JedisDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/jedis/target/classes/com/luokp/JedisDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jedis/target/classes/com/luokp/JedisUtil.class" beforeDir="false" afterPath="$PROJECT_DIR$/jedis/target/classes/com/luokp/JedisUtil.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jedis/target/classes/com/luokp/PropertyUtil.class" beforeDir="false" afterPath="$PROJECT_DIR$/jedis/target/classes/com/luokp/PropertyUtil.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jedis/target/classes/com/luokp/RedisService.class" beforeDir="false" afterPath="$PROJECT_DIR$/jedis/target/classes/com/luokp/RedisService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jedis/target/test-classes/com/luokp/AppTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/jedis/target/test-classes/com/luokp/AppTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/src/main/java/com/luokp/FindFirstandLastPositionofElementinSortedArray34.java" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/src/main/java/com/luokp/_34FindFirstandLastPositionofElementinSortedArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/src/main/java/com/luokp/LongestValidParenthese32.java" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/src/main/java/com/luokp/_32LongestValidParenthese32.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/src/main/java/com/luokp/Permutation.java" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/src/main/java/com/luokp/Permutation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/src/main/java/com/luokp/Reverse_Nodes_in_k_Group_25.java" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/src/main/java/com/luokp/_25Reverse_Nodes_in_k_Group_25.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/src/main/java/com/luokp/SearchInRotatedArray33.java" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/src/main/java/com/luokp/_33SearchInRotatedArray33.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/src/main/java/com/luokp/Sum3.java" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/src/main/java/com/luokp/_15Sum3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/src/main/java/com/luokp/Sum4.java" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/src/main/java/com/luokp/_18Sum4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/src/test/java/com/luokp/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/src/test/java/com/luokp/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/target/classes/com/luokp/FindFirstandLastPositionofElementinSortedArray34.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/target/classes/com/luokp/LongestValidParenthese32.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/target/classes/com/luokp/Permutation.class" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/target/classes/com/luokp/Permutation.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/target/classes/com/luokp/Reverse_Nodes_in_k_Group_25.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/target/classes/com/luokp/SearchInRotatedArray33.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/target/classes/com/luokp/Sum3$IntegerList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/target/classes/com/luokp/Sum3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/target/classes/com/luokp/Sum4.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/leetcode/target/test-classes/com/luokp/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/target/test-classes/com/luokp/Test.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-simulation/src/main/java/com/luokp/springsimulation/beanDifinition/BeanReference.java" beforeDir="false" afterPath="$PROJECT_DIR$/spring-simulation/src/main/java/com/luokp/springsimulation/beanDifinition/BeanReference.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-simulation/src/test/java/com/luokp/SpringSimulationTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/spring-simulation/src/test/java/com/luokp/SpringSimulationTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-simulation/target/classes/com/luokp/springsimulation/beanDifinition/BeanReference.class" beforeDir="false" afterPath="$PROJECT_DIR$/spring-simulation/target/classes/com/luokp/springsimulation/beanDifinition/BeanReference.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/spring-simulation/target/test-classes/com/luokp/SpringSimulationTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/spring-simulation/target/test-classes/com/luokp/SpringSimulationTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot-code/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/springboot-code/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot-code/src/main/java/com/luokp/springbootcode/SpringbootCodeApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/springboot-code/src/main/java/com/luokp/springbootcode/SpringbootCodeApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot-code/src/main/java/com/luokp/springbootcode/controller/HelloController.java" beforeDir="false" afterPath="$PROJECT_DIR$/springboot-code/src/main/java/com/luokp/springbootcode/controller/HelloController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot-code/src/main/resources/application.yml" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/spring_boot_code/target/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -37,6 +92,20 @@
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
   </component>
   <component name="FUSProjectUsageTrigger">
     <session id="1924309402">
@@ -76,51 +145,62 @@
     <session id="85902894">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="1" />
+          <entry key="project.closed" value="4" />
           <entry key="project.open.time.1" value="1" />
+          <entry key="project.open.time.11" value="1" />
+          <entry key="project.open.time.17" value="1" />
           <entry key="project.open.time.22" value="1" />
           <entry key="project.open.time.23" value="1" />
-          <entry key="project.opened" value="3" />
+          <entry key="project.open.time.27" value="1" />
+          <entry key="project.open.time.4" value="1" />
+          <entry key="project.open.time.9" value="1" />
+          <entry key="project.opened" value="8" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="class" value="4" />
+          <entry key="class" value="5" />
           <entry key="factories" value="1" />
-          <entry key="java" value="92" />
+          <entry key="html" value="7" />
+          <entry key="java" value="119" />
+          <entry key="js" value="1" />
           <entry key="json" value="1" />
-          <entry key="properties" value="3" />
-          <entry key="xml" value="9" />
-          <entry key="yml" value="1" />
+          <entry key="properties" value="5" />
+          <entry key="svg" value="1" />
+          <entry key="xml" value="16" />
+          <entry key="yml" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="CLASS" value="4" />
-          <entry key="JAVA" value="92" />
+          <entry key="CLASS" value="5" />
+          <entry key="HTML" value="7" />
+          <entry key="JAVA" value="119" />
           <entry key="JSON" value="1" />
-          <entry key="Properties" value="3" />
-          <entry key="XML" value="9" />
-          <entry key="YAML" value="1" />
+          <entry key="JavaScript" value="1" />
+          <entry key="Properties" value="5" />
+          <entry key="SVG" value="1" />
+          <entry key="XML" value="16" />
+          <entry key="YAML" value="2" />
           <entry key="spring.factories" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="dummy" value="21" />
-          <entry key="java" value="6037" />
-          <entry key="properties" value="36" />
-          <entry key="xml" value="126" />
-          <entry key="yml" value="177" />
+          <entry key="dummy" value="47" />
+          <entry key="java" value="8016" />
+          <entry key="properties" value="42" />
+          <entry key="xml" value="161" />
+          <entry key="yml" value="186" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="6037" />
-          <entry key="PLAIN_TEXT" value="21" />
-          <entry key="Properties" value="36" />
-          <entry key="XML" value="126" />
-          <entry key="YAML" value="177" />
+          <entry key="JAVA" value="8016" />
+          <entry key="PLAIN_TEXT" value="47" />
+          <entry key="Properties" value="42" />
+          <entry key="XML" value="161" />
+          <entry key="YAML" value="186" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.spring.core.usages.trigger">
@@ -133,77 +213,22 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/spring-simulation/src/main/java/com/luokp/springsimulation/context/ApplicationContext.java">
+        <entry file="file://$PROJECT_DIR$/leetcode/src/main/java/com/luokp/_51NQueues.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" column="36" selection-start-line="5" selection-start-column="36" selection-end-line="5" selection-end-column="36" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/spring-simulation/src/main/java/com/luokp/springsimulation/context/AbstractApplicationContext.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="408">
-              <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
+            <state relative-caret-position="1462">
+              <caret line="88" column="41" selection-start-line="88" selection-start-column="41" selection-end-line="88" selection-end-column="41" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#544#545#0" expanded="true" />
-                <element signature="e#590#591#0" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/spring-simulation/src/test/java/com/luokp/SpringSimulationTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="357">
-              <caret line="29" column="41" selection-start-line="29" selection-start-column="41" selection-end-line="29" selection-end-column="41" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/src.zip!/java/util/ArrayDeque.java">
+        <entry file="file://$PROJECT_DIR$/leetcode/src/test/java/com/luokp/Test.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-12396">
-              <caret line="191" column="11" selection-start-line="191" selection-start-column="11" selection-end-line="191" selection-end-column="11" />
-              <folding>
-                <element signature="e#6627#6628#0" expanded="true" />
-                <element signature="e#6668#6669#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/spring-simulation/src/main/java/com/luokp/springsimulation/context/ClassPathXmlApplicationContextXml.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="504">
-              <caret line="39" column="44" lean-forward="true" selection-start-line="39" selection-start-column="44" selection-end-line="39" selection-end-column="44" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#1390#1391#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/spring-simulation/src/main/java/com/luokp/springsimulation/xmlReader/BeanDefinitionReader.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="6" column="17" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/spring-simulation/src/main/java/com/luokp/springsimulation/xmlReader/AbstractBeanDefinitionReader.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
-              <caret line="16" column="42" selection-start-line="16" selection-start-column="42" selection-end-line="16" selection-end-column="42" />
+            <state relative-caret-position="306">
+              <caret line="18" column="27" selection-start-line="18" selection-start-column="27" selection-end-line="18" selection-end-column="62" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -212,15 +237,66 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/spring-simulation/src/main/java/com/luokp/springsimulation/xmlReader/XmlBeanDefinitionReader.java">
+        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/src.zip!/java/util/TreeSet.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="317">
-              <caret line="30" column="16" selection-start-line="30" selection-start-column="16" selection-end-line="30" selection-end-column="16" />
+            <state relative-caret-position="1751">
+              <caret line="453" column="36" selection-start-line="453" selection-start-column="36" selection-end-line="453" selection-end-column="36" />
               <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#739#740#0" expanded="true" />
-                <element signature="e#776#777#0" expanded="true" />
+                <element signature="docComment;class#TreeSet#0" />
+                <element signature="docComment;field#m#0;class#TreeSet#0" />
+                <element signature="docComment;method#TreeSet#0;class#TreeSet#0" />
+                <element signature="docComment;method#TreeSet#1;class#TreeSet#0" />
+                <element signature="docComment;method#TreeSet#2;class#TreeSet#0" />
+                <element signature="docComment;method#TreeSet#3;class#TreeSet#0" />
+                <element signature="method#TreeSet#3;class#TreeSet#0" />
+                <element signature="docComment;method#TreeSet#4;class#TreeSet#0" />
+                <element signature="method#TreeSet#4;class#TreeSet#0" />
+                <element signature="docComment;method#iterator#0;class#TreeSet#0" />
+                <element signature="docComment;method#descendingIterator#0;class#TreeSet#0" />
+                <element signature="docComment;method#descendingSet#0;class#TreeSet#0" />
+                <element signature="docComment;method#size#0;class#TreeSet#0" />
+                <element signature="docComment;method#isEmpty#0;class#TreeSet#0" />
+                <element signature="docComment;method#contains#0;class#TreeSet#0" />
+                <element signature="docComment;method#add#0;class#TreeSet#0" />
+                <element signature="docComment;method#remove#0;class#TreeSet#0" />
+                <element signature="docComment;method#clear#0;class#TreeSet#0" />
+                <element signature="docComment;method#addAll#0;class#TreeSet#0" />
+                <element signature="method#addAll#0;class#TreeSet#0" />
+                <element signature="docComment;method#subSet#0;class#TreeSet#0" />
+                <element signature="method#subSet#0;class#TreeSet#0" />
+                <element signature="docComment;method#headSet#0;class#TreeSet#0" />
+                <element signature="method#headSet#0;class#TreeSet#0" />
+                <element signature="docComment;method#tailSet#0;class#TreeSet#0" />
+                <element signature="method#tailSet#0;class#TreeSet#0" />
+                <element signature="docComment;method#subSet#1;class#TreeSet#0" />
+                <element signature="docComment;method#headSet#1;class#TreeSet#0" />
+                <element signature="docComment;method#tailSet#1;class#TreeSet#0" />
+                <element signature="docComment;method#first#0;class#TreeSet#0" />
+                <element signature="docComment;method#last#0;class#TreeSet#0" />
+                <element signature="docComment;method#lower#0;class#TreeSet#0" />
+                <element signature="docComment;method#floor#0;class#TreeSet#0" />
+                <element signature="docComment;method#ceiling#0;class#TreeSet#0" />
+                <element signature="docComment;method#higher#0;class#TreeSet#0" />
+                <element signature="docComment;method#pollFirst#0;class#TreeSet#0" />
+                <element signature="docComment;method#pollLast#0;class#TreeSet#0" />
+                <element signature="method#pollLast#0;class#TreeSet#0" />
+                <element signature="docComment;method#clone#0;class#TreeSet#0" />
+                <element signature="method#clone#0;class#TreeSet#0" />
+                <element signature="docComment;method#writeObject#0;class#TreeSet#0" />
+                <element signature="method#writeObject#0;class#TreeSet#0" />
+                <element signature="docComment;method#readObject#0;class#TreeSet#0" />
+                <element signature="method#readObject#0;class#TreeSet#0" />
+                <element signature="docComment;method#spliterator#0;class#TreeSet#0" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/src.zip!/java/util/NavigableMap.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="3434">
+              <caret line="235" column="7" selection-start-line="235" selection-start-column="7" selection-end-line="235" selection-end-column="7" />
             </state>
           </provider>
         </entry>
@@ -247,24 +323,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/springboot-code/src/main/java/com/luokp/springbootcode/controller/HelloController.java" />
-        <option value="$PROJECT_DIR$/springboot-code/src/main/java/com/luokp/springbootcode/bean/Dog.java" />
-        <option value="$PROJECT_DIR$/springboot-code/pom.xml" />
-        <option value="$PROJECT_DIR$/springboot-code/src/test/java/com/luokp/springbootcode/SpringbootCodeApplicationTests.java" />
-        <option value="$PROJECT_DIR$/springboot-code/src/main/resources/application.yml" />
-        <option value="$PROJECT_DIR$/springboot-code/src/main/java/com/luokp/springbootcode/bean/Person.java" />
-        <option value="$PROJECT_DIR$/jedis/pom.xml" />
-        <option value="$PROJECT_DIR$/jedis/src/main/java/com/luokp/jedisUtil.java" />
-        <option value="$PROJECT_DIR$/jedis/src/main/resources/jedisPool.properties" />
-        <option value="$PROJECT_DIR$/jedis/src/main/java/com/luokp/PropertyUtil.java" />
-        <option value="$PROJECT_DIR$/jedis/src/main/java/com/luokp/RedisService.java" />
-        <option value="$PROJECT_DIR$/jedis/src/main/java/com/luokp/JedisUtil.java" />
-        <option value="$PROJECT_DIR$/jedis/src/main/java/com/luokp/JedisDemo.java" />
-        <option value="$PROJECT_DIR$/jedis/src/main/resources/redis.properties" />
-        <option value="$PROJECT_DIR$/leetcode/src/com/luokp/leetcode/Sum3.java" />
-        <option value="$PROJECT_DIR$/leetcode/src/main/java/com/luokp/Sum3.java" />
-        <option value="$PROJECT_DIR$/leetcode/src/main/java/com/luokp/Sum4.java" />
-        <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/spring-simulation/src/main/java/com/luokp/springsimulation/PropertyValues.java" />
         <option value="$PROJECT_DIR$/spring-simulation/src/main/java/com/luokp/springsimulation/BeanDefinition.java" />
         <option value="$PROJECT_DIR$/spring-simulation/src/main/java/com/luokp/springsimulation/beanFactory/BeanDefinition.java" />
@@ -276,7 +334,6 @@
         <option value="$PROJECT_DIR$/leetcode/pom.xml" />
         <option value="$PROJECT_DIR$/leetcode/src/main/java/com/luokp/Catalan.java" />
         <option value="$PROJECT_DIR$/leetcode/src/test/java/com/luokp/AppTest.java" />
-        <option value="$PROJECT_DIR$/leetcode/src/test/java/com/luokp/Test.java" />
         <option value="$PROJECT_DIR$/spring-simulation/src/main/java/com/luokp/springsimulation/beanDifinition/PropertyValues.java" />
         <option value="$PROJECT_DIR$/spring-simulation/src/main/java/com/luokp/springsimulation/xmlReader/XmlBeanDefinitionReader.java" />
         <option value="$PROJECT_DIR$/spring-simulation/src/test/java/com/luokp/BeanFactoryTest.java" />
@@ -289,7 +346,6 @@
         <option value="$PROJECT_DIR$/leetcode/src/main/java/com/luokp/models/ListNode.java" />
         <option value="$PROJECT_DIR$/leetcode/src/main/java/com/luokp/Reverse_Nodes_in_k_Group_25.java" />
         <option value="$PROJECT_DIR$/leetcode/src/main/java/com/luokp/models/Remove_element_27.java" />
-        <option value="$PROJECT_DIR$/leetcode/src/main/java/com/luokp/Permutation.java" />
         <option value="$PROJECT_DIR$/spring-simulation/src/main/java/com/luokp/springsimulation/context/ApplicationContext.java" />
         <option value="$PROJECT_DIR$/spring-simulation/src/main/java/com/luokp/springsimulation/context/AbstractApplicationContext.java" />
         <option value="$PROJECT_DIR$/spring-simulation/src/main/java/com/luokp/springsimulation/context/ClassPathXmlApplicationContextXml.java" />
@@ -297,6 +353,27 @@
         <option value="$PROJECT_DIR$/leetcode/src/main/java/com/luokp/SearchInRotatedArray33.java" />
         <option value="$PROJECT_DIR$/leetcode/src/main/java/com/luokp/FindFirstandLastPositionofElementinSortedArray34.java" />
         <option value="$PROJECT_DIR$/spring-simulation/src/test/java/com/luokp/SpringSimulationTest.java" />
+        <option value="$PROJECT_DIR$/springboot-code/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/springboot-code/src/main/java/com/luokp/springbootcode/SpringbootCodeApplication.java" />
+        <option value="$PROJECT_DIR$/springboot-code/src/main/resources/public/index.html" />
+        <option value="$PROJECT_DIR$/springboot-code/src/main/resources/templetes/index.html" />
+        <option value="$PROJECT_DIR$/springboot-code/src/main/resources/index.html" />
+        <option value="$PROJECT_DIR$/springboot-code/src/main/java/com/luokp/springbootcode/dao/EmployeeDao.java" />
+        <option value="$PROJECT_DIR$/springboot-code/src/main/java/com/luokp/springbootcode/component/MyLocaleResolver.java" />
+        <option value="$PROJECT_DIR$/springboot-code/src/main/java/com/luokp/springbootcode/dao/DepartmentDao.java" />
+        <option value="$PROJECT_DIR$/springboot-code/src/main/java/com/luokp/springbootcode/controller/HelloController.java" />
+        <option value="$PROJECT_DIR$/springboot-code/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/springboot-code/src/main/java/com/luokp/springbootcode/config/MyMvcConfig.java" />
+        <option value="$PROJECT_DIR$/springboot-code/pom.xml" />
+        <option value="$PROJECT_DIR$/jedis/pom.xml" />
+        <option value="$PROJECT_DIR$/jedis/src/test/java/com/luokp/CacheTest.java" />
+        <option value="$PROJECT_DIR$/leetcode/src/main/java/com/luokp/FirstMissingPositive41.java" />
+        <option value="$PROJECT_DIR$/leetcode/src/main/java/com/luokp/TrapingRainWater42.java" />
+        <option value="$PROJECT_DIR$/leetcode/src/main/java/com/luokp/_42TrapingRainWater.java" />
+        <option value="$PROJECT_DIR$/leetcode/src/main/java/com/luokp/_43MultiplyString.java" />
+        <option value="$PROJECT_DIR$/leetcode/src/main/java/com/luokp/Permutation.java" />
+        <option value="$PROJECT_DIR$/leetcode/src/main/java/com/luokp/_51NQueues.java" />
+        <option value="$PROJECT_DIR$/leetcode/src/test/java/com/luokp/Test.java" />
       </list>
     </option>
   </component>
@@ -328,34 +405,18 @@
         <path>
           <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
           <item name="springboot-code" type="9519ce18:MavenProjectsStructure$ProjectNode" />
-          <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
+          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
         </path>
         <path>
           <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
           <item name="springboot-code" type="9519ce18:MavenProjectsStructure$ProjectNode" />
           <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
-          <item name="org.springframework.boot:spring-boot-starter-web:2.1.0.RELEASE" type="c0821a7e:MavenProjectsStructure$DependencyNode" />
-        </path>
-        <path>
-          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="springboot-code" type="9519ce18:MavenProjectsStructure$ProjectNode" />
-          <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
-          <item name="org.springframework.boot:spring-boot-devtools:2.1.0.RELEASE" type="c0821a7e:MavenProjectsStructure$DependencyNode" />
-        </path>
-        <path>
-          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="springboot-code" type="9519ce18:MavenProjectsStructure$ProjectNode" />
-          <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
-          <item name="org.springframework.boot:spring-boot-devtools:2.1.0.RELEASE" type="c0821a7e:MavenProjectsStructure$DependencyNode" />
-          <item name="org.springframework.boot:spring-boot-autoconfigure:2.1.0.RELEASE" type="c0821a7e:MavenProjectsStructure$DependencyNode" />
         </path>
       </expand>
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds" fullScreen="true">
-    <option name="x" value="-295" />
-    <option name="y" value="-1080" />
+  <component name="ProjectFrameBounds" extendedState="6" fullScreen="true">
     <option name="width" value="1920" />
     <option name="height" value="1080" />
   </component>
@@ -367,9 +428,9 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="PackagesPane" />
       <pane id="AndroidView" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -380,134 +441,7 @@
             <path>
               <item name="learnProjects" type="b2602c69:ProjectViewProjectNode" />
               <item name="learnProjects" type="462c0819:PsiDirectoryNode" />
-              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="learnProjects" type="b2602c69:ProjectViewProjectNode" />
-              <item name="learnProjects" type="462c0819:PsiDirectoryNode" />
-              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="learnProjects" type="b2602c69:ProjectViewProjectNode" />
-              <item name="learnProjects" type="462c0819:PsiDirectoryNode" />
-              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="learnProjects" type="b2602c69:ProjectViewProjectNode" />
-              <item name="learnProjects" type="462c0819:PsiDirectoryNode" />
-              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="learnProjects" type="b2602c69:ProjectViewProjectNode" />
-              <item name="learnProjects" type="462c0819:PsiDirectoryNode" />
-              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="luokp" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="learnProjects" type="b2602c69:ProjectViewProjectNode" />
-              <item name="learnProjects" type="462c0819:PsiDirectoryNode" />
-              <item name="spring-simulation" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="learnProjects" type="b2602c69:ProjectViewProjectNode" />
-              <item name="learnProjects" type="462c0819:PsiDirectoryNode" />
-              <item name="spring-simulation" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="learnProjects" type="b2602c69:ProjectViewProjectNode" />
-              <item name="learnProjects" type="462c0819:PsiDirectoryNode" />
-              <item name="spring-simulation" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="learnProjects" type="b2602c69:ProjectViewProjectNode" />
-              <item name="learnProjects" type="462c0819:PsiDirectoryNode" />
-              <item name="spring-simulation" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="learnProjects" type="b2602c69:ProjectViewProjectNode" />
-              <item name="learnProjects" type="462c0819:PsiDirectoryNode" />
-              <item name="spring-simulation" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="springsimulation" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="learnProjects" type="b2602c69:ProjectViewProjectNode" />
-              <item name="learnProjects" type="462c0819:PsiDirectoryNode" />
-              <item name="spring-simulation" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="springsimulation" type="462c0819:PsiDirectoryNode" />
-              <item name="beanFactory" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="learnProjects" type="b2602c69:ProjectViewProjectNode" />
-              <item name="learnProjects" type="462c0819:PsiDirectoryNode" />
-              <item name="spring-simulation" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="springsimulation" type="462c0819:PsiDirectoryNode" />
-              <item name="context" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="learnProjects" type="b2602c69:ProjectViewProjectNode" />
-              <item name="learnProjects" type="462c0819:PsiDirectoryNode" />
-              <item name="spring-simulation" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="springsimulation" type="462c0819:PsiDirectoryNode" />
-              <item name="xmlReader" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="learnProjects" type="b2602c69:ProjectViewProjectNode" />
-              <item name="learnProjects" type="462c0819:PsiDirectoryNode" />
-              <item name="spring-simulation" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="learnProjects" type="b2602c69:ProjectViewProjectNode" />
-              <item name="learnProjects" type="462c0819:PsiDirectoryNode" />
-              <item name="spring-simulation" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="learnProjects" type="b2602c69:ProjectViewProjectNode" />
-              <item name="learnProjects" type="462c0819:PsiDirectoryNode" />
-              <item name="spring-simulation" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="luokp" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="learnProjects" type="b2602c69:ProjectViewProjectNode" />
-              <item name="learnProjects" type="462c0819:PsiDirectoryNode" />
-              <item name="spring-simulation" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="java8-code" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -522,28 +456,36 @@
     <property name="RequestMappingsPanelWidth1" value="75" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1543904243819" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1545616887464" />
     <property name="jdk.selected.JAVA_MODULE" value="1.8" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/pom.xml" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
-    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="project.structure.side.proportion" value="0.508046" />
     <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.luokp" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/spring-simulation/src/main/java/com/luokp/springsimulation" />
+      <recent name="$PROJECT_DIR$/springboot-code/src/main/java/com/luokp/springbootcode" />
+      <recent name="$PROJECT_DIR$/springboot-code/src/main/resources" />
+      <recent name="$PROJECT_DIR$/springboot-code/src/main/resources/templete" />
+      <recent name="$PROJECT_DIR$/springboot-code/src/main/resources/public" />
+      <recent name="$PROJECT_DIR$/springboot-code/src/main/resources/resources" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="com.luokp.springsimulation.xmlReader" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/spring-simulation/src/test/resources" />
-      <recent name="$PROJECT_DIR$/leetcode/src/main/java/com/luokp" />
-      <recent name="$PROJECT_DIR$/java8-code" />
-      <recent name="$PROJECT_DIR$/java8-code/src/main/java/com/luokp/java8Test" />
+      <recent name="$PROJECT_DIR$/springboot-code/src/main/resources/templates" />
+      <recent name="$PROJECT_DIR$/springboot-code/src/main/resources/static" />
+      <recent name="$PROJECT_DIR$/springboot-code/src/main/resources" />
+      <recent name="$PROJECT_DIR$/springboot-code/src/main/resources/templetes" />
+      <recent name="$PROJECT_DIR$/springboot-code/src/main/resources/public" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -558,33 +500,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.FindFirstandLastPositionofElementinSortedArray34">
-    <configuration name="FindFirstandLastPositionofElementinSortedArray34" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.luokp.FindFirstandLastPositionofElementinSortedArray34" />
-      <module name="leetcode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.luokp.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="LongestValidParenthese32" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.luokp.LongestValidParenthese32" />
-      <module name="leetcode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.luokp.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="JUnit.Test.test">
     <configuration name="Permutation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.luokp.Permutation" />
       <module name="leetcode" />
@@ -598,8 +514,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SearchInRotatedArray33" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.luokp.SearchInRotatedArray33" />
+    <configuration name="_42TrapingRainWater" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.luokp._42TrapingRainWater" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
@@ -611,12 +527,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Sum3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.luokp.leetcode.Sum3" />
+    <configuration name="_43MultiplyString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.luokp._43MultiplyString" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.luokp.leetcode.*" />
+          <option name="PATTERN" value="com.luokp.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -624,8 +540,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SpringSimulationTest.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="spring-simulation" />
+    <configuration name="_51NQueues" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.luokp._51NQueues" />
+      <module name="leetcode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.luokp.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="leetcode" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.luokp.*" />
@@ -633,43 +562,36 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="com.luokp" />
-      <option name="MAIN_CLASS_NAME" value="com.luokp.SpringSimulationTest" />
+      <option name="MAIN_CLASS_NAME" value="com.luokp.Test" />
       <option name="METHOD_NAME" value="test" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SpringCodeApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
-      <module name="spring-use" />
-      <option name="SPRING_BOOT_MAIN_CLASS" value="com.luokp.springcode.SpringCodeApplication" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SpringbootCodeApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+    <configuration name="spring-boot-le" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="springboot-code" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.luokp.springbootcode.SpringbootCodeApplication" />
+      <option name="ALTERNATIVE_JRE_PATH" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <list>
-      <item itemvalue="Spring Boot.SpringbootCodeApplication" />
-      <item itemvalue="Spring Boot.SpringCodeApplication" />
-      <item itemvalue="JUnit.SpringSimulationTest.test" />
+      <item itemvalue="Spring Boot.spring-boot-le" />
+      <item itemvalue="Application._42TrapingRainWater" />
+      <item itemvalue="Application._43MultiplyString" />
       <item itemvalue="Application.Permutation" />
-      <item itemvalue="Application.LongestValidParenthese32" />
-      <item itemvalue="Application.SearchInRotatedArray33" />
-      <item itemvalue="Application.FindFirstandLastPositionofElementinSortedArray34" />
+      <item itemvalue="Application._51NQueues" />
+      <item itemvalue="JUnit.Test.test" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.FindFirstandLastPositionofElementinSortedArray34" />
-        <item itemvalue="Application.LongestValidParenthese32" />
-        <item itemvalue="Application.SearchInRotatedArray33" />
-        <item itemvalue="JUnit.SpringSimulationTest.test" />
+        <item itemvalue="JUnit.Test.test" />
+        <item itemvalue="Application._51NQueues" />
         <item itemvalue="Application.Permutation" />
+        <item itemvalue="Application._43MultiplyString" />
+        <item itemvalue="Application._42TrapingRainWater" />
       </list>
     </recent_temporary>
   </component>
@@ -686,20 +608,16 @@
       <workItem from="1542510733456" duration="1598000" />
       <workItem from="1542518013735" duration="7350000" />
       <workItem from="1543202266582" duration="598000" />
-      <workItem from="1543244732594" duration="57467000" />
+      <workItem from="1543244732594" duration="85986000" />
+      <workItem from="1545313117174" duration="690000" />
+      <workItem from="1545617721833" duration="590000" />
+      <workItem from="1546410758387" duration="1210000" />
+      <workItem from="1547003521255" duration="596000" />
+      <workItem from="1548042993713" duration="22000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="BeanFactoryTest_test - 2018.11.30 at 20h 31m 32s.xml">
-      <configuration name="BeanFactoryTest.test" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="BeanFactoryTest_test - 2018.11.30 at 20h 32m 26s.xml">
-      <configuration name="BeanFactoryTest.test" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="BeanFactoryTest_test - 2018.11.30 at 20h 33m 41s.xml">
-      <configuration name="BeanFactoryTest.test" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="BeanFactoryTest_test - 2018.11.30 at 21h 36m 53s.xml">
       <configuration name="BeanFactoryTest.test" configurationId="JUnit" />
     </history-entry>
@@ -721,15 +639,32 @@
     <history-entry file="SpringSimulationTest_test - 2018.12.03 at 20h 28m 12s.xml">
       <configuration name="SpringSimulationTest.test" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="SpringSimulationTest_test - 2018.12.04 at 14h 50m 31s.xml">
+      <configuration name="SpringSimulationTest.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Test_test - 2018.12.20 at 21h 41m 25s.xml">
+      <configuration name="Test.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Test_test - 2018.12.20 at 21h 41m 38s.xml">
+      <configuration name="Test.test" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="67013000" />
+    <option name="totallyTimeSpent" value="98640000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-295" y="-1080" width="1920" height="1080" extended-state="0" />
-    <editor active="true" />
+    <frame x="0" y="0" width="1440" height="900" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.14589989" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.3090129" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -738,16 +673,16 @@
       <window_info id="Capture Tool" order="6" />
       <window_info id="Web" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.32891566" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.24950495" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.26746988" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32871288" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.24950495" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3891089" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32970297" />
       <window_info anchor="bottom" id="Spring" order="7" />
       <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.49928468" weight="0.2891089" />
       <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5007153" side_tool="true" weight="0.32876712" />
-      <window_info anchor="bottom" id="Messages" order="10" weight="0.32650602" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.3253012" />
       <window_info anchor="bottom" id="Java Enterprise" order="11" />
       <window_info anchor="bottom" id="Database Changes" order="12" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="13" />
@@ -757,8 +692,8 @@
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="right" id="Capture Analysis" order="4" />
-      <window_info anchor="right" id="Maven Projects" order="5" weight="0.3297568" />
-      <window_info anchor="right" id="Database" order="6" />
+      <window_info anchor="right" id="Maven Projects" order="5" weight="0.25107297" />
+      <window_info anchor="right" id="Database" order="6" weight="0.32960597" />
       <window_info anchor="right" id="Palette&#9;" order="7" />
       <window_info anchor="right" id="Theme Preview" order="8" />
       <window_info anchor="right" id="Bean Validation" order="9" />
@@ -792,7 +727,7 @@
           <option name="timeStamp" value="17" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/leetcode/src/main/java/com/luokp/Reverse_Nodes_in_k_Group_25.java</url>
+          <url>file://$PROJECT_DIR$/leetcode/src/main/java/com/luokp/_25Reverse_Nodes_in_k_Group_25.java</url>
           <line>50</line>
           <properties />
           <option name="timeStamp" value="19" />
@@ -804,487 +739,39 @@
           <option name="timeStamp" value="20" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/leetcode/src/main/java/com/luokp/Permutation.java</url>
-          <line>44</line>
-          <properties />
-          <option name="timeStamp" value="23" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/leetcode/src/main/java/com/luokp/Permutation.java</url>
-          <line>26</line>
-          <properties />
-          <option name="timeStamp" value="25" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/leetcode/src/main/java/com/luokp/LongestValidParenthese32.java</url>
+          <url>file://$PROJECT_DIR$/leetcode/src/main/java/com/luokp/_32LongestValidParenthese32.java</url>
           <line>17</line>
           <properties />
           <option name="timeStamp" value="27" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/leetcode/src/main/java/com/luokp/SearchInRotatedArray33.java</url>
+          <url>file://$PROJECT_DIR$/leetcode/src/main/java/com/luokp/_33SearchInRotatedArray33.java</url>
           <line>15</line>
           <properties />
           <option name="timeStamp" value="28" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/leetcode/src/main/java/com/luokp/FindFirstandLastPositionofElementinSortedArray34.java</url>
+          <url>file://$PROJECT_DIR$/leetcode/src/main/java/com/luokp/_34FindFirstandLastPositionofElementinSortedArray.java</url>
           <line>93</line>
           <properties />
           <option name="timeStamp" value="29" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/leetcode/src/main/java/com/luokp/_42TrapingRainWater.java</url>
+          <line>35</line>
+          <properties />
+          <option name="timeStamp" value="44" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/leetcode/src/main/java/com/luokp/_43MultiplyString.java</url>
+          <line>9</line>
+          <properties />
+          <option name="timeStamp" value="47" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/src.zip!/java/util/Queue.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="144" column="4" selection-start-line="144" selection-start-column="4" selection-end-line="144" selection-end-column="4" />
-          <folding>
-            <element signature="docComment;class#Queue#0" />
-            <element signature="docComment;method#add#0;class#Queue#0" />
-            <element signature="docComment;method#offer#0;class#Queue#0" />
-            <element signature="docComment;method#remove#0;class#Queue#0" />
-            <element signature="docComment;method#poll#0;class#Queue#0" />
-            <element signature="docComment;method#element#0;class#Queue#0" />
-            <element signature="docComment;method#peek#0;class#Queue#0" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/src.zip!/java/util/ArrayList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-507">
-          <caret line="164" column="11" selection-start-line="164" selection-start-column="11" selection-end-line="164" selection-end-column="11" />
-          <folding>
-            <element signature="docComment;class#ArrayList#0" />
-            <element signature="e#4467#4511#0" />
-            <element signature="e#4569#4641#0" />
-            <element signature="e#4705#4905#0" />
-            <element signature="e#4985#5304#0" />
-            <element signature="e#5393#5497#0" />
-            <element signature="e#5525#5778#0" />
-            <element signature="e#5525#6177#0" />
-            <element signature="e#6183#6259#0" />
-            <element signature="e#6358#6679#0" />
-            <element signature="e#6358#7153#0" />
-            <element signature="e#7159#7375#0" />
-            <element signature="e#7159#7605#0" />
-            <element signature="e#7611#7886#0" />
-            <element signature="e#7611#8337#0" />
-            <element signature="e#8093#8153#0" />
-            <element signature="e#8343#8592#0" />
-            <element signature="e#8598#8735#0" />
-            <element signature="e#8741#8938#0" />
-            <element signature="e#8944#9175#0" />
-            <element signature="e#9250#9463#0" />
-            <element signature="e#9250#9962#0" />
-            <element signature="e#9968#10215#0" />
-            <element signature="e#10221#10342#0" />
-            <element signature="e#10399#10544#0" />
-            <element signature="e#10613#11044#0" />
-            <element signature="e#11128#11472#0" />
-            <element signature="e#11128#11818#0" />
-            <element signature="e#11824#12168#0" />
-            <element signature="e#11824#12524#0" />
-            <element signature="e#12530#12724#0" />
-            <element signature="e#12530#13103#0" />
-            <element signature="e#13109#13686#0" />
-            <element signature="e#13779#15109#0" />
-            <element signature="e#13779#15487#0" />
-            <element signature="e#15642#15900#0" />
-            <element signature="e#15642#15999#0" />
-            <element signature="e#16005#16365#0" />
-            <element signature="e#16005#16544#0" />
-            <element signature="e#16550#16752#0" />
-            <element signature="e#16550#16910#0" />
-            <element signature="e#16916#17325#0" />
-            <element signature="e#16916#17640#0" />
-            <element signature="e#17646#17996#0" />
-            <element signature="e#17646#18396#0" />
-            <element signature="e#18402#19077#0" />
-            <element signature="e#18402#19587#0" />
-            <element signature="e#19593#20017#0" />
-            <element signature="e#20023#20141#0" />
-            <element signature="e#20023#20326#0" />
-            <element signature="e#20332#21024#0" />
-            <element signature="e#20332#21332#0" />
-            <element signature="e#21338#22134#0" />
-            <element signature="e#21338#22671#0" />
-            <element signature="e#22677#23323#0" />
-            <element signature="e#22677#23762#0" />
-            <element signature="e#23768#24077#0" />
-            <element signature="e#23768#24223#0" />
-            <element signature="e#24229#24295#0" />
-            <element signature="e#24229#24459#0" />
-            <element signature="e#24465#24679#0" />
-            <element signature="e#24786#25575#0" />
-            <element signature="e#24786#25702#0" />
-            <element signature="e#25708#26611#0" />
-            <element signature="e#25708#26737#0" />
-            <element signature="e#26743#27761#0" />
-            <element signature="e#27122#27183#0" />
-            <element signature="e#27767#28104#0" />
-            <element signature="e#27767#28701#0" />
-            <element signature="e#28707#28818#0" />
-            <element signature="e#28707#29616#0" />
-            <element signature="e#29622#30196#0" />
-            <element signature="e#29622#30395#0" />
-            <element signature="e#30401#30631#0" />
-            <element signature="e#30718#30976#0" />
-            <element signature="e#31050#31109#0" />
-            <element signature="e#31050#33326#0" />
-            <element signature="e#31424#31877#0" />
-            <element signature="e#31887#32341#0" />
-            <element signature="e#32351#32360#0" />
-            <element signature="e#32351#33156#0" />
-            <element signature="e#33166#33320#0" />
-            <element signature="e#33332#33395#0" />
-            <element signature="e#33332#35014#0" />
-            <element signature="e#33471#33550#0" />
-            <element signature="e#33792#34245#0" />
-            <element signature="e#34255#34600#0" />
-            <element signature="e#34610#35008#0" />
-            <element signature="e#35020#36620#0" />
-            <element signature="e#35020#36793#0" />
-            <element signature="e#36799#37266#0" />
-            <element signature="e#37272#45603#0" />
-            <element signature="e#37491#37811#0" />
-            <element signature="e#37821#38088#0" />
-            <element signature="e#38098#38265#0" />
-            <element signature="e#38275#38372#0" />
-            <element signature="e#38382#38619#0" />
-            <element signature="e#38629#38893#0" />
-            <element signature="e#38903#39211#0" />
-            <element signature="e#39332#39723#0" />
-            <element signature="e#39819#44489#0" />
-            <element signature="class#40017:44478" />
-            <element signature="method#next#0;class#40017:44478" />
-            <element signature="method#previous#0;class#40017:44478" />
-            <element signature="method#forEachRemaining#0;class#40017:44478" />
-            <element signature="method#remove#0;class#40017:44478" />
-            <element signature="method#set#0;class#40017:44478" />
-            <element signature="method#add#0;class#40017:44478" />
-            <element signature="method#checkForComodification#0;class#40017:44478" />
-            <element signature="e#44499#44684#0" />
-            <element signature="e#44694#44865#0" />
-            <element signature="e#44875#45051#0" />
-            <element signature="e#45180#45348#0" />
-            <element signature="e#45358#45597#0" />
-            <element signature="e#45609#46131#0" />
-            <element signature="e#46137#46662#0" />
-            <element signature="e#46789#46852#0" />
-            <element signature="e#46789#52024#0" />
-            <element signature="e#49097#49152#0" />
-            <element signature="e#49097#49466#0" />
-            <element signature="e#49476#49942#0" />
-            <element signature="e#49952#50284#0" />
-            <element signature="e#50294#50842#0" />
-            <element signature="e#50852#51789#0" />
-            <element signature="e#52030#53627#0" />
-            <element signature="e#52147#52193#0" />
-            <element signature="e#53633#53642#0" />
-            <element signature="e#53633#54141#0" />
-            <element signature="e#54147#54156#0" />
-            <element signature="e#54147#54475#0" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/jedis/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="596">
-          <caret line="45" selection-start-line="45" selection-end-line="45" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/jedis/src/main/java/com/luokp/App.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/jedis/src/main/java/com/luokp/RedisService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-83">
-          <caret line="30" column="13" lean-forward="true" selection-start-line="30" selection-start-column="13" selection-end-line="30" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/jedis/src/main/java/com/luokp/PropertyUtil.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-66">
-          <caret line="4" column="28" selection-start-line="4" selection-start-column="28" selection-end-line="4" selection-end-column="28" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/jedis/src/main/resources/redis.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="17" lean-forward="true" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/jedis/src/main/java/com/luokp/JedisDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" column="50" selection-start-line="13" selection-start-column="50" selection-end-line="13" selection-end-column="50" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/jedis/src/main/java/com/luokp/JedisUtil.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="658">
-          <caret line="53" column="10" selection-start-line="53" selection-start-column="10" selection-end-line="53" selection-end-column="10" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#2142#2143#0" expanded="true" />
-            <element signature="e#2188#2189#0" expanded="true" />
-            <element signature="e#2357#2358#0" expanded="true" />
-            <element signature="e#2389#2390#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/leetcode/src/main/java/com/luokp/Sum4.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="155">
-          <caret line="15" selection-start-line="15" selection-end-line="15" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/leetcode/src/main/java/com/luokp/Sum3.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="151">
-          <caret line="13" selection-start-line="13" selection-end-line="13" />
-          <folding>
-            <element signature="class#IntegerList#0;class#Solution#0;class#Sum3#0" />
-            <element signature="e#1844#1845#0" expanded="true" />
-            <element signature="e#1892#1893#0" expanded="true" />
-            <element signature="e#1946#1947#0" expanded="true" />
-            <element signature="e#1994#1995#0" expanded="true" />
-            <element signature="e#2444#2445#0" expanded="true" />
-            <element signature="e#2501#2502#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="19" column="10" lean-forward="true" selection-start-line="19" selection-start-column="10" selection-end-line="19" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spring-simulation/src/test/java/com/luokp/AppTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="14" column="9" selection-start-line="14" selection-start-column="4" selection-end-line="14" selection-end-column="9" />
-          <folding>
-            <element signature="e#243#244#0" expanded="true" />
-            <element signature="e#277#278#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spring-simulation/src/main/java/com/luokp/springsimulation/io/Resource.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="9" column="17" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spring-simulation/src/main/java/com/luokp/springsimulation/io/UrlResource.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="22" column="26" lean-forward="true" selection-start-line="22" selection-start-column="26" selection-end-line="22" selection-end-column="26" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spring-simulation/src/main/java/com/luokp/springsimulation/io/ResourceLoader.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" selection-start-line="14" selection-end-line="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spring-simulation/src/main/java/com/luokp/springsimulation/beanDifinition/BeanDefinition.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="23" selection-start-line="5" selection-start-column="23" selection-end-line="5" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/leetcode/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="425">
-          <caret line="25" column="7" selection-start-line="25" selection-start-column="7" selection-end-line="30" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/leetcode/src/test/java/com/luokp/AppTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" column="7" lean-forward="true" selection-start-line="13" selection-start-column="7" selection-end-line="13" selection-end-column="7" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/leetcode/src/test/java/com/luokp/Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/leetcode/src/main/java/com/luokp/Catalan.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="455">
-          <caret line="29" column="57" lean-forward="true" selection-start-line="29" selection-start-column="57" selection-end-line="29" selection-end-column="57" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#207#215#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/src.zip!/org/w3c/dom/Element.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2833">
-          <caret line="60" column="17" selection-start-line="60" selection-start-column="17" selection-end-line="60" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.11/junit-4.11-sources.jar!/org/junit/runners/ParentRunner.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="235">
-          <caret line="274" selection-start-line="274" selection-end-line="274" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.11/junit-4.11-sources.jar!/org/junit/runner/notification/Failure.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="459">
-          <caret line="31" selection-start-line="31" selection-end-line="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.11/junit-4.11-sources.jar!/org/junit/internal/runners/model/EachTestNotifier.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="22" selection-start-line="22" selection-end-line="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.11/junit-4.11-sources.jar!/org/junit/runner/notification/RunNotifier.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="132" selection-start-line="132" selection-end-line="132" />
-          <folding>
-            <element signature="e#3971#3972#0" expanded="true" />
-            <element signature="e#4032#4033#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.11/junit-4.11-sources.jar!/org/junit/internal/runners/model/ReflectiveCallable.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" selection-start-line="13" selection-end-line="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.11/junit-4.11-sources.jar!/org/junit/runners/model/FrameworkMethod.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="178">
-          <caret line="46" selection-start-line="46" selection-end-line="46" />
-          <folding>
-            <element signature="e#1511#1512#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spring-simulation/src/test/resources/spring-simulation.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="24" column="50" lean-forward="true" selection-start-line="24" selection-start-column="50" selection-end-line="24" selection-end-column="50" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spring-simulation/src/test/java/com/luokp/Dog.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="29" column="5" lean-forward="true" selection-start-line="29" selection-start-column="5" selection-end-line="29" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#286#287#0" expanded="true" />
-            <element signature="e#312#313#0" expanded="true" />
-            <element signature="e#347#348#0" expanded="true" />
-            <element signature="e#377#378#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spring-simulation/src/test/java/com/luokp/HelloService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="31" column="5" lean-forward="true" selection-start-line="31" selection-start-column="5" selection-end-line="31" selection-end-column="5" />
-          <folding>
-            <element signature="e#168#169#0" expanded="true" />
-            <element signature="e#194#195#0" expanded="true" />
-            <element signature="e#229#230#0" expanded="true" />
-            <element signature="e#259#260#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spring-simulation/src/main/java/com/luokp/springsimulation/beanDifinition/BeanReference.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="399">
-          <caret line="30" column="5" lean-forward="true" selection-start-line="30" selection-start-column="5" selection-end-line="30" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#385#386#0" expanded="true" />
-            <element signature="e#421#422#0" expanded="true" />
-            <element signature="e#479#480#0" expanded="true" />
-            <element signature="e#529#530#0" expanded="true" />
-            <element signature="e#564#565#0" expanded="true" />
-            <element signature="e#595#596#0" expanded="true" />
-            <element signature="e#636#637#0" expanded="true" />
-            <element signature="e#676#677#0" expanded="true" />
-            <element signature="e#847#848#0" expanded="true" />
-            <element signature="e#893#894#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/leetcode/src/main/java/com/luokp/models/ListNode.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="518">
-          <caret line="32" column="43" lean-forward="true" selection-start-line="32" selection-start-column="43" selection-end-line="32" selection-end-column="43" />
-          <folding>
-            <element signature="e#193#194#0" expanded="true" />
-            <element signature="e#223#224#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/spring-simulation/src/main/java/com/luokp/springsimulation/beanFactory/AutowireCapableBeanFactory.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="443">
@@ -1295,13 +782,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/leetcode/src/main/java/com/luokp/Permutation.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="441">
-          <caret line="87" column="5" lean-forward="true" selection-start-line="87" selection-start-column="5" selection-end-line="87" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/leetcode/src/main/java/com/luokp/models/Remove_element_27.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="452">
@@ -1309,7 +789,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/leetcode/src/main/java/com/luokp/Reverse_Nodes_in_k_Group_25.java">
+    <entry file="file://$PROJECT_DIR$/leetcode/src/main/java/com/luokp/_25Reverse_Nodes_in_k_Group_25.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="506">
           <caret line="45" column="8" selection-start-line="45" selection-start-column="8" selection-end-line="45" selection-end-column="33" />
@@ -1320,9 +800,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
           <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1337,11 +814,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="317">
           <caret line="30" column="16" selection-start-line="30" selection-start-column="16" selection-end-line="30" selection-end-column="16" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#739#740#0" expanded="true" />
-            <element signature="e#776#777#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1356,16 +828,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="272">
           <caret line="16" column="42" selection-start-line="16" selection-start-column="42" selection-end-line="16" selection-end-column="42" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spring-simulation/src/main/java/com/luokp/springsimulation/context/ApplicationContext.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="36" selection-start-line="5" selection-start-column="36" selection-end-line="5" selection-end-column="36" />
         </state>
       </provider>
     </entry>
@@ -1373,54 +835,20 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="442">
           <caret line="30" selection-start-line="30" selection-end-line="30" />
-          <folding>
-            <element signature="e#630#631#0" expanded="true" />
-            <element signature="e#694#695#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/spring-simulation/src/main/java/com/luokp/springsimulation/context/AbstractApplicationContext.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#544#545#0" expanded="true" />
-            <element signature="e#590#591#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spring-simulation/src/main/java/com/luokp/springsimulation/context/ClassPathXmlApplicationContextXml.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="504">
-          <caret line="39" column="44" lean-forward="true" selection-start-line="39" selection-start-column="44" selection-end-line="39" selection-end-column="44" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#1390#1391#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/leetcode/src/main/java/com/luokp/LongestValidParenthese32.java">
+    <entry file="file://$PROJECT_DIR$/leetcode/src/main/java/com/luokp/_32LongestValidParenthese32.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="307">
           <caret line="20" column="18" lean-forward="true" selection-start-line="20" selection-start-column="18" selection-end-line="20" selection-end-column="18" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/leetcode/src/main/java/com/luokp/SearchInRotatedArray33.java">
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/src.zip!/java/util/ArrayDeque.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="35">
-          <caret line="15" selection-start-line="15" selection-end-line="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/leetcode/src/main/java/com/luokp/FindFirstandLastPositionofElementinSortedArray34.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="3" lean-forward="true" selection-start-line="8" selection-start-column="3" selection-end-line="8" selection-end-column="3" />
+        <state relative-caret-position="572">
+          <caret line="975" column="9" lean-forward="true" selection-start-line="975" selection-start-column="9" selection-end-line="975" selection-end-column="9" />
         </state>
       </provider>
     </entry>
@@ -1431,13 +859,315 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/src.zip!/java/util/ArrayDeque.java">
+    <entry file="file://$PROJECT_DIR$/spring-use/src/main/java/com/luokp/springcode/Define_annotation_aspect/MyLogAspect.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-12396">
-          <caret line="191" column="11" selection-start-line="191" selection-start-column="11" selection-end-line="191" selection-end-column="11" />
+        <state relative-caret-position="-100">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-simulation/src/main/java/com/luokp/springsimulation/context/AbstractApplicationContext.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="24" selection-start-line="24" selection-end-line="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-simulation/src/main/java/com/luokp/springsimulation/context/ApplicationContext.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="43" lean-forward="true" selection-start-column="43" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-use/src/main/java/com/luokp/springcode/controller/IndexController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-simulation/src/main/java/com/luokp/springsimulation/context/ClassPathXmlApplicationContextXml.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="541">
+          <caret line="39" column="44" selection-start-line="39" selection-start-column="44" selection-end-line="39" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springboot-code/src/main/java/com/luokp/springbootcode/bean/Dog.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springboot-code/src/main/java/com/luokp/springbootcode/bean/Person.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-178">
+          <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
           <folding>
-            <element signature="e#6627#6628#0" expanded="true" />
-            <element signature="e#6668#6669#0" expanded="true" />
+            <element signature="imports" expanded="true" />
+            <element signature="e#950#951#0" expanded="true" />
+            <element signature="e#977#978#0" expanded="true" />
+            <element signature="e#1017#1018#0" expanded="true" />
+            <element signature="e#1049#1050#0" expanded="true" />
+            <element signature="e#1081#1082#0" expanded="true" />
+            <element signature="e#1108#1109#0" expanded="true" />
+            <element signature="e#1149#1150#0" expanded="true" />
+            <element signature="e#1181#1182#0" expanded="true" />
+            <element signature="e#1212#1213#0" expanded="true" />
+            <element signature="e#1238#1239#0" expanded="true" />
+            <element signature="e#1277#1278#0" expanded="true" />
+            <element signature="e#1307#1308#0" expanded="true" />
+            <element signature="e#1337#1338#0" expanded="true" />
+            <element signature="e#1365#1366#0" expanded="true" />
+            <element signature="e#1405#1406#0" expanded="true" />
+            <element signature="e#1439#1440#0" expanded="true" />
+            <element signature="e#1476#1477#0" expanded="true" />
+            <element signature="e#1503#1504#0" expanded="true" />
+            <element signature="e#1549#1550#0" expanded="true" />
+            <element signature="e#1581#1582#0" expanded="true" />
+            <element signature="e#1624#1625#0" expanded="true" />
+            <element signature="e#1650#1651#0" expanded="true" />
+            <element signature="e#1701#1702#0" expanded="true" />
+            <element signature="e#1731#1732#0" expanded="true" />
+            <element signature="e#1758#1759#0" expanded="true" />
+            <element signature="e#1784#1785#0" expanded="true" />
+            <element signature="e#1819#1820#0" expanded="true" />
+            <element signature="e#1849#1850#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springboot-code/src/main/resources/application.yml" />
+    <entry file="file://$PROJECT_DIR$/springboot-code/src/main/resources/static/asserts/js/Chart.min.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springboot-code/src/main/resources/static/asserts/img/bootstrap-solid.svg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springboot-code/src/main/java/com/luokp/springbootcode/SpringbootCodeApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="6" column="14" selection-start-line="6" selection-start-column="14" selection-end-line="6" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springboot-code/src/main/resources/templates/error/404.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springboot-code/src/main/resources/templates/dashboard.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1156">
+          <caret line="24" column="17" lean-forward="true" selection-start-line="24" selection-start-column="17" selection-end-line="24" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springboot-code/src/main/resources/templates/success.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springboot-code/src/main/java/com/luokp/springbootcode/dao/EmployeeDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="595">
+          <caret line="35" column="41" selection-start-line="35" selection-start-column="41" selection-end-line="35" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springboot-code/src/main/java/com/luokp/springbootcode/dao/DepartmentDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springboot-code/src/main/java/com/luokp/springbootcode/config/MyServerConfig.java" />
+    <entry file="file://$PROJECT_DIR$/springboot-code/src/main/java/com/luokp/springbootcode/component/MyErrorAttributes.java" />
+    <entry file="file://$PROJECT_DIR$/springboot-code/src/main/java/com/luokp/springbootcode/component/MyLocaleResolver.java" />
+    <entry file="file://$PROJECT_DIR$/springboot-code/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springboot-code/src/main/resources/templates/login.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springboot-code/src/main/java/com/luokp/springbootcode/config/MyMvcConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="493">
+          <caret line="29" selection-start-line="29" selection-end-line="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springboot-code/src/main/java/com/luokp/springbootcode/controller/HelloController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="16" column="1" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springboot-code/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="369">
+          <caret line="23" column="40" selection-start-line="23" selection-start-column="40" selection-end-line="23" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jedis/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="594">
+          <caret line="35" column="42" selection-start-line="35" selection-start-column="42" selection-end-line="35" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/google/guava/guava/27.0.1-jre/guava-27.0.1-jre.jar!/com/google/common/cache/LocalCache.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="217">
+          <caret line="890" selection-start-line="890" selection-end-line="890" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leetcode/src/main/java/com/luokp/_41FirstMissingPositive41.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="276">
+          <caret line="39" column="9" selection-start-line="39" selection-start-column="9" selection-end-line="39" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leetcode/src/main/java/com/luokp/_42TrapingRainWater.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="77">
+          <caret line="30" lean-forward="true" selection-start-line="30" selection-end-line="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leetcode/src/main/java/com/luokp/_43MultiplyString.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="67">
+          <caret line="10" column="27" lean-forward="true" selection-start-line="10" selection-start-column="27" selection-end-line="10" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/src.zip!/java/util/ArrayList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-136">
+          <caret line="164" column="11" selection-start-line="164" selection-start-column="11" selection-end-line="164" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leetcode/src/main/java/com/luokp/_15Sum3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="42" selection-start-line="12" selection-start-column="42" selection-end-line="12" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jedis/src/test/java/com/luokp/CacheTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="521">
+          <caret line="70" column="23" selection-start-line="70" selection-start-column="23" selection-end-line="70" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leetcode/src/main/java/com/luokp/Permutation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="26" column="53" lean-forward="true" selection-start-line="26" selection-start-column="53" selection-end-line="26" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leetcode/src/main/java/com/luokp/_33SearchInRotatedArray33.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leetcode/src/main/java/com/luokp/_34FindFirstandLastPositionofElementinSortedArray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="3" lean-forward="true" selection-start-line="8" selection-start-column="3" selection-end-line="8" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leetcode/src/main/java/com/luokp/_51NQueues.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1462">
+          <caret line="88" column="41" selection-start-line="88" selection-start-column="41" selection-end-line="88" selection-end-column="41" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/src.zip!/java/util/TreeSet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1751">
+          <caret line="453" column="36" selection-start-line="453" selection-start-column="36" selection-end-line="453" selection-end-column="36" />
+          <folding>
+            <element signature="docComment;class#TreeSet#0" />
+            <element signature="docComment;field#m#0;class#TreeSet#0" />
+            <element signature="docComment;method#TreeSet#0;class#TreeSet#0" />
+            <element signature="docComment;method#TreeSet#1;class#TreeSet#0" />
+            <element signature="docComment;method#TreeSet#2;class#TreeSet#0" />
+            <element signature="docComment;method#TreeSet#3;class#TreeSet#0" />
+            <element signature="method#TreeSet#3;class#TreeSet#0" />
+            <element signature="docComment;method#TreeSet#4;class#TreeSet#0" />
+            <element signature="method#TreeSet#4;class#TreeSet#0" />
+            <element signature="docComment;method#iterator#0;class#TreeSet#0" />
+            <element signature="docComment;method#descendingIterator#0;class#TreeSet#0" />
+            <element signature="docComment;method#descendingSet#0;class#TreeSet#0" />
+            <element signature="docComment;method#size#0;class#TreeSet#0" />
+            <element signature="docComment;method#isEmpty#0;class#TreeSet#0" />
+            <element signature="docComment;method#contains#0;class#TreeSet#0" />
+            <element signature="docComment;method#add#0;class#TreeSet#0" />
+            <element signature="docComment;method#remove#0;class#TreeSet#0" />
+            <element signature="docComment;method#clear#0;class#TreeSet#0" />
+            <element signature="docComment;method#addAll#0;class#TreeSet#0" />
+            <element signature="method#addAll#0;class#TreeSet#0" />
+            <element signature="docComment;method#subSet#0;class#TreeSet#0" />
+            <element signature="method#subSet#0;class#TreeSet#0" />
+            <element signature="docComment;method#headSet#0;class#TreeSet#0" />
+            <element signature="method#headSet#0;class#TreeSet#0" />
+            <element signature="docComment;method#tailSet#0;class#TreeSet#0" />
+            <element signature="method#tailSet#0;class#TreeSet#0" />
+            <element signature="docComment;method#subSet#1;class#TreeSet#0" />
+            <element signature="docComment;method#headSet#1;class#TreeSet#0" />
+            <element signature="docComment;method#tailSet#1;class#TreeSet#0" />
+            <element signature="docComment;method#first#0;class#TreeSet#0" />
+            <element signature="docComment;method#last#0;class#TreeSet#0" />
+            <element signature="docComment;method#lower#0;class#TreeSet#0" />
+            <element signature="docComment;method#floor#0;class#TreeSet#0" />
+            <element signature="docComment;method#ceiling#0;class#TreeSet#0" />
+            <element signature="docComment;method#higher#0;class#TreeSet#0" />
+            <element signature="docComment;method#pollFirst#0;class#TreeSet#0" />
+            <element signature="docComment;method#pollLast#0;class#TreeSet#0" />
+            <element signature="method#pollLast#0;class#TreeSet#0" />
+            <element signature="docComment;method#clone#0;class#TreeSet#0" />
+            <element signature="method#clone#0;class#TreeSet#0" />
+            <element signature="docComment;method#writeObject#0;class#TreeSet#0" />
+            <element signature="method#writeObject#0;class#TreeSet#0" />
+            <element signature="docComment;method#readObject#0;class#TreeSet#0" />
+            <element signature="method#readObject#0;class#TreeSet#0" />
+            <element signature="docComment;method#spliterator#0;class#TreeSet#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/src.zip!/java/util/NavigableMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3434">
+          <caret line="235" column="7" selection-start-line="235" selection-start-column="7" selection-end-line="235" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leetcode/src/test/java/com/luokp/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="27" selection-start-line="18" selection-start-column="27" selection-end-line="18" selection-end-column="62" />
+          <folding>
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -1494,11 +1224,11 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>leetcode</last-edited>
+          <last-edited>learnProjects</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
-                <option value="0.2" />
+                <option value="0.508046" />
                 <option value="0.6" />
               </list>
             </option>
@@ -1519,11 +1249,11 @@
       </state>
       <state key="ProjectLibrariesConfigurable.UI">
         <settings>
-          <last-edited>Maven: ch.qos.logback:logback-classic:1.2.3</last-edited>
+          <last-edited>Maven: org.apache.tomcat.embed:tomcat-embed-core:9.0.12</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
-                <option value="0.2" />
+                <option value="0.508046" />
               </list>
             </option>
           </splitter-proportions>

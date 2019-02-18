@@ -90,7 +90,7 @@ public class Permutation {
     public static void main(String[] args) {
         List<String> list = new ArrayList<>();
         Set<String> set = new HashSet<>();
-        int[] nums = {1,1,3,3};
+        int[] nums = {0,1,0,0,9};
         permutation(nums, 0, set);
         System.out.println(set);
         list.clear();
