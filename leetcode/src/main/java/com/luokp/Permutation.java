@@ -90,13 +90,11 @@ public class Permutation {
     public static void main(String[] args) {
         List<String> list = new ArrayList<>();
         Set<String> set = new HashSet<>();
-        int[] nums = {0,1,0,0,9};
-        permutation(nums, 0, set);
+        int[] nums = {1,2,3};
+//        permutation(nums, 0, set);
         System.out.println(set);
         list.clear();
         permutationWithDictionary(nums,list);
         System.out.println(list);
-        System.out.println("{\"requestType\":\"expansion\",\"clusterId\":\"523769339\",\"slaves\":\"[{\\\"idcId\\\":739827585,\\\"count\\\":2,\\\"domain\\\":\\\"11bj.niulinmysqltest.r.qiyi.db\\\",\\\"usage\\\":\\\"own\\\"}]\",\"skipReview\":\"true\"}"
-                .replace("\\",""));
     }
 }

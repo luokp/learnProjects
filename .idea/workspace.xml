@@ -2,31 +2,38 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f395e402-468e-48bb-b945-1ecd97aed5e9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mongodb_bson_3_8_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mongodb_mongodb_driver_3_8_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mongodb_mongodb_driver_core_3_8_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_data_mongodb_2_1_0_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_data_spring_data_commons_2_1_2_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_data_spring_data_mongodb_2_1_2_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_tx_5_1_2_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mongodb/mongodb.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mongodb/src/main/java/com/luokp/mongodb/MongoDBApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mongodb/src/main/java/com/luokp/mongodb/dao/UserDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mongodb/src/main/java/com/luokp/mongodb/dao/userDaoImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mongodb/src/main/java/com/luokp/mongodb/models/UserEntity.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mongodb/src/main/java/resources/application-dev.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mongodb/src/test/java/com/luokp/mongodb/UserTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/learnProjects.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/learnProjects.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/src/main/java/com/luokp/Conbination.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/src/main/java/com/luokp/_63uniquePath.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/src/main/java/com/luokp/_71SimplifyPath.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/src/main/java/com/luokp/_75SortColor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/src/main/java/com/luokp/_79SearchWord.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/src/main/java/com/luokp/_80RemoveDuplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/exercise/1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/exercise/2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/exercise/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/python.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/support.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/test.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java8-code/java8-code.iml" beforeDir="false" afterPath="$PROJECT_DIR$/java8-code/java8-code.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode/leetcode.iml" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/leetcode.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mongodb/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/mongodb/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mongodb/src/main/java/com/luokp/App.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mongodb/src/test/java/com/luokp/AppTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/mongodb/src/test/java/com/luokp/mongodb/AppTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-simulation/spring-simulation.iml" beforeDir="false" afterPath="$PROJECT_DIR$/spring-simulation/spring-simulation.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/src/main/java/com/luokp/Permutation.java" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/src/main/java/com/luokp/Permutation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/target/classes/com/luokp/Catalan.class" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/target/classes/com/luokp/Catalan.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/target/classes/com/luokp/Permutation.class" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/target/classes/com/luokp/Permutation.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/target/classes/com/luokp/_15Sum3$IntegerList.class" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/target/classes/com/luokp/_15Sum3$IntegerList.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/target/classes/com/luokp/_15Sum3.class" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/target/classes/com/luokp/_15Sum3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/target/classes/com/luokp/_18Sum4.class" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/target/classes/com/luokp/_18Sum4.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/target/classes/com/luokp/_25Reverse_Nodes_in_k_Group_25.class" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/target/classes/com/luokp/_25Reverse_Nodes_in_k_Group_25.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/target/classes/com/luokp/_32LongestValidParenthese32.class" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/target/classes/com/luokp/_32LongestValidParenthese32.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/target/classes/com/luokp/_33SearchInRotatedArray33.class" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/target/classes/com/luokp/_33SearchInRotatedArray33.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/target/classes/com/luokp/_34FindFirstandLastPositionofElementinSortedArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/target/classes/com/luokp/_34FindFirstandLastPositionofElementinSortedArray.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/target/classes/com/luokp/_41FirstMissingPositive41.class" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/target/classes/com/luokp/_41FirstMissingPositive41.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/target/classes/com/luokp/_42TrapingRainWater.class" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/target/classes/com/luokp/_42TrapingRainWater.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/target/classes/com/luokp/_43MultiplyString.class" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/target/classes/com/luokp/_43MultiplyString.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/target/classes/com/luokp/_51NQueues.class" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/target/classes/com/luokp/_51NQueues.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/target/classes/com/luokp/models/ListNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/target/classes/com/luokp/models/ListNode.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/target/classes/com/luokp/models/Remove_element_27.class" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/target/classes/com/luokp/models/Remove_element_27.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/target/test-classes/com/luokp/AppTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/target/test-classes/com/luokp/AppTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/target/test-classes/com/luokp/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/target/test-classes/com/luokp/Test.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/spring_boot_code/target/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -42,6 +49,10 @@
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/learnProjects$1.coverage" NAME="1 Coverage Results" MODIFIED="1550563546820" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python/exercise" />
+    <SUITE FILE_PATH="coverage/learnProjects$pythonTest.coverage" NAME="pythonTest Coverage Results" MODIFIED="1550563528760" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python" />
   </component>
   <component name="DatabaseView">
     <option name="SHOW_INTERMEDIATE" value="true" />
@@ -95,28 +106,30 @@
     <session id="85902894">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="4" />
+          <entry key="project.closed" value="6" />
           <entry key="project.open.time.1" value="1" />
-          <entry key="project.open.time.11" value="1" />
+          <entry key="project.open.time.11" value="3" />
           <entry key="project.open.time.17" value="1" />
           <entry key="project.open.time.22" value="1" />
           <entry key="project.open.time.23" value="1" />
           <entry key="project.open.time.27" value="1" />
-          <entry key="project.open.time.4" value="1" />
+          <entry key="project.open.time.4" value="2" />
           <entry key="project.open.time.6" value="1" />
           <entry key="project.open.time.9" value="1" />
-          <entry key="project.opened" value="9" />
+          <entry key="project.opened" value="12" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="class" value="5" />
+          <entry key="class" value="7" />
           <entry key="factories" value="1" />
           <entry key="html" value="7" />
-          <entry key="java" value="127" />
+          <entry key="iml" value="1" />
+          <entry key="java" value="141" />
           <entry key="js" value="1" />
           <entry key="json" value="1" />
-          <entry key="properties" value="6" />
+          <entry key="properties" value="7" />
+          <entry key="py" value="5" />
           <entry key="svg" value="1" />
           <entry key="xml" value="18" />
           <entry key="yml" value="2" />
@@ -124,12 +137,14 @@
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="CLASS" value="5" />
+          <entry key="CLASS" value="7" />
           <entry key="HTML" value="7" />
-          <entry key="JAVA" value="127" />
+          <entry key="IDEA_MODULE" value="1" />
+          <entry key="JAVA" value="141" />
           <entry key="JSON" value="1" />
           <entry key="JavaScript" value="1" />
-          <entry key="Properties" value="6" />
+          <entry key="Properties" value="7" />
+          <entry key="Python" value="5" />
           <entry key="SVG" value="1" />
           <entry key="XML" value="18" />
           <entry key="YAML" value="2" />
@@ -139,8 +154,9 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="55" />
-          <entry key="java" value="8065" />
+          <entry key="java" value="9903" />
           <entry key="properties" value="44" />
+          <entry key="py" value="718" />
           <entry key="txt" value="3" />
           <entry key="xml" value="167" />
           <entry key="yml" value="186" />
@@ -148,9 +164,10 @@
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="8065" />
+          <entry key="JAVA" value="9903" />
           <entry key="PLAIN_TEXT" value="58" />
           <entry key="Properties" value="44" />
+          <entry key="Python" value="718" />
           <entry key="XML" value="167" />
           <entry key="YAML" value="186" />
         </counts>
@@ -165,83 +182,56 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/mongodb/pom.xml">
+        <entry file="file://$PROJECT_DIR$/leetcode/src/main/java/com/luokp/Permutation.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="560">
-              <caret line="33" column="20" selection-start-line="33" selection-start-column="20" selection-end-line="33" selection-end-column="20" />
-              <folding>
-                <element signature="n#build#0;n#project#0;n#!!top" />
-              </folding>
+            <state relative-caret-position="11">
+              <caret line="67" column="4" selection-start-line="67" selection-start-column="4" selection-end-line="71" selection-end-column="5" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/mongodb/src/main/java/com/luokp/mongodb/MongoDBApplication.java">
+        <entry file="file://$PROJECT_DIR$/leetcode/src/main/java/com/luokp/_80RemoveDuplication.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="153">
+              <caret line="16" selection-start-line="16" selection-end-line="16" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/mongodb/src/main/java/resources/application-dev.properties">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="64" selection-start-line="2" selection-start-column="64" selection-end-line="2" selection-end-column="64" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/mongodb/src/main/java/com/luokp/mongodb/models/UserEntity.java">
+        <entry file="file://$PROJECT_DIR$/leetcode/src/main/java/com/luokp/_75SortColor.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="187">
-              <caret line="11" column="4" selection-start-line="11" selection-start-column="4" selection-end-line="11" selection-end-column="4" />
+              <caret line="57" column="5" lean-forward="true" selection-start-line="11" selection-start-column="4" selection-end-line="57" selection-end-column="5" />
               <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/mongodb/src/main/java/com/luokp/mongodb/dao/userDaoImpl.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="195">
-              <caret line="24" column="13" lean-forward="true" selection-start-line="24" selection-start-column="13" selection-end-line="24" selection-end-column="13" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#457#458#0" expanded="true" />
-                <element signature="e#497#498#0" expanded="true" />
+                <element signature="method#sortColors#0;class#_75SortColor#0" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/mongodb/src/test/java/com/luokp/mongodb/UserTest.java">
+        <entry file="file://$PROJECT_DIR$/leetcode/src/main/java/com/luokp/Conbination.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="542">
-              <caret line="45" lean-forward="true" selection-start-line="45" selection-end-line="45" />
+            <state relative-caret-position="507">
+              <caret line="83" column="22" selection-start-line="83" selection-start-column="22" selection-end-line="83" selection-end-column="22" />
               <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#868#869#0" expanded="true" />
-                <element signature="e#910#911#0" expanded="true" />
+                <element signature="method#conbinationTOk#0;class#Conbination#0" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/mongodb/src/main/java/com/luokp/mongodb/dao/UserDao.java">
+        <entry file="file://$PROJECT_DIR$/leetcode/src/main/java/com/luokp/_79SearchWord.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="9" column="1" selection-start-line="9" selection-start-column="1" selection-end-line="10" />
+            <state relative-caret-position="177">
+              <caret line="64" column="5" lean-forward="true" selection-start-line="28" selection-start-column="4" selection-end-line="64" selection-end-column="5" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="method#walk#0;class#_79SearchWord#0" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -252,6 +242,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Interface" />
+        <option value="Python Script" />
         <option value="Class" />
       </list>
     </option>
@@ -260,7 +251,11 @@
     <findStrings>
       <find>containsAll</find>
       <find>contains</find>
+      <find>Boolean</find>
     </findStrings>
+    <replaceStrings>
+      <replace>boolean</replace>
+    </replaceStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -268,16 +263,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/leetcode/pom.xml" />
-        <option value="$PROJECT_DIR$/leetcode/src/main/java/com/luokp/Catalan.java" />
-        <option value="$PROJECT_DIR$/leetcode/src/test/java/com/luokp/AppTest.java" />
-        <option value="$PROJECT_DIR$/spring-simulation/src/main/java/com/luokp/springsimulation/beanDifinition/PropertyValues.java" />
-        <option value="$PROJECT_DIR$/spring-simulation/src/main/java/com/luokp/springsimulation/xmlReader/XmlBeanDefinitionReader.java" />
-        <option value="$PROJECT_DIR$/spring-simulation/src/test/java/com/luokp/BeanFactoryTest.java" />
-        <option value="$PROJECT_DIR$/spring-simulation/src/main/java/com/luokp/springsimulation/beanFactory/AbstractBeanFactory.java" />
-        <option value="$PROJECT_DIR$/spring-simulation/src/main/java/com/luokp/springsimulation/beanFactory/AutowireCapableBeanFactory.java" />
-        <option value="$PROJECT_DIR$/spring-simulation/src/test/resources/spring-simulation.xml" />
-        <option value="$PROJECT_DIR$/spring-simulation/src/test/java/com/luokp/Dog.java" />
         <option value="$PROJECT_DIR$/spring-simulation/src/test/java/com/luokp/HelloService.java" />
         <option value="$PROJECT_DIR$/spring-simulation/src/main/java/com/luokp/springsimulation/beanDifinition/BeanReference.java" />
         <option value="$PROJECT_DIR$/leetcode/src/main/java/com/luokp/models/ListNode.java" />
@@ -308,7 +293,6 @@
         <option value="$PROJECT_DIR$/leetcode/src/main/java/com/luokp/TrapingRainWater42.java" />
         <option value="$PROJECT_DIR$/leetcode/src/main/java/com/luokp/_42TrapingRainWater.java" />
         <option value="$PROJECT_DIR$/leetcode/src/main/java/com/luokp/_43MultiplyString.java" />
-        <option value="$PROJECT_DIR$/leetcode/src/main/java/com/luokp/Permutation.java" />
         <option value="$PROJECT_DIR$/leetcode/src/main/java/com/luokp/_51NQueues.java" />
         <option value="$PROJECT_DIR$/leetcode/src/test/java/com/luokp/Test.java" />
         <option value="$PROJECT_DIR$/mongodb/src/main/java/com/luokp/mongodb/MongodbApplication.java" />
@@ -318,7 +302,18 @@
         <option value="$PROJECT_DIR$/mongodb/src/main/java/com/luokp/mongodb/dao/UserDao.java" />
         <option value="$PROJECT_DIR$/mongodb/pom.xml" />
         <option value="$PROJECT_DIR$/mongodb/src/test/java/com/luokp/mongodb/UserTest.java" />
+        <option value="$PROJECT_DIR$/python/support.py" />
+        <option value="$PROJECT_DIR$/python/test.py" />
+        <option value="$PROJECT_DIR$/python/exercise/1.py" />
+        <option value="$PROJECT_DIR$/python/exercise/2.py" />
         <option value="$PROJECT_DIR$/mongodb/src/main/java/com/luokp/mongodb/dao/userDaoImpl.java" />
+        <option value="$PROJECT_DIR$/leetcode/src/main/java/com/luokp/Permutation.java" />
+        <option value="$PROJECT_DIR$/leetcode/src/main/java/com/luokp/_63uniquePath.java" />
+        <option value="$PROJECT_DIR$/leetcode/src/main/java/com/luokp/_71SimplifyPath.java" />
+        <option value="$PROJECT_DIR$/leetcode/src/main/java/com/luokp/_75SortColor.java" />
+        <option value="$PROJECT_DIR$/leetcode/src/main/java/com/luokp/_79SearchWord.java" />
+        <option value="$PROJECT_DIR$/leetcode/src/main/java/com/luokp/_80RemoveDuplication.java" />
+        <option value="$PROJECT_DIR$/leetcode/src/main/java/com/luokp/Conbination.java" />
       </list>
     </option>
   </component>
@@ -361,7 +356,7 @@
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6" fullScreen="true">
+  <component name="ProjectFrameBounds" fullScreen="true">
     <option name="x" value="-295" />
     <option name="y" value="-1080" />
     <option name="width" value="1920" />
@@ -375,8 +370,9 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="AndroidView" />
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -387,113 +383,25 @@
             <path>
               <item name="learnProjects" type="b2602c69:ProjectViewProjectNode" />
               <item name="learnProjects" type="462c0819:PsiDirectoryNode" />
-              <item name="mongodb" type="462c0819:PsiDirectoryNode" />
+              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="learnProjects" type="b2602c69:ProjectViewProjectNode" />
               <item name="learnProjects" type="462c0819:PsiDirectoryNode" />
-              <item name="mongodb" type="462c0819:PsiDirectoryNode" />
+              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="learnProjects" type="b2602c69:ProjectViewProjectNode" />
               <item name="learnProjects" type="462c0819:PsiDirectoryNode" />
-              <item name="mongodb" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="learnProjects" type="b2602c69:ProjectViewProjectNode" />
-              <item name="learnProjects" type="462c0819:PsiDirectoryNode" />
-              <item name="mongodb" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="learnProjects" type="b2602c69:ProjectViewProjectNode" />
-              <item name="learnProjects" type="462c0819:PsiDirectoryNode" />
-              <item name="mongodb" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="mongodb" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="learnProjects" type="b2602c69:ProjectViewProjectNode" />
-              <item name="learnProjects" type="462c0819:PsiDirectoryNode" />
-              <item name="mongodb" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="mongodb" type="462c0819:PsiDirectoryNode" />
-              <item name="dao" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="learnProjects" type="b2602c69:ProjectViewProjectNode" />
-              <item name="learnProjects" type="462c0819:PsiDirectoryNode" />
-              <item name="mongodb" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="mongodb" type="462c0819:PsiDirectoryNode" />
-              <item name="models" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="learnProjects" type="b2602c69:ProjectViewProjectNode" />
-              <item name="learnProjects" type="462c0819:PsiDirectoryNode" />
-              <item name="mongodb" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="learnProjects" type="b2602c69:ProjectViewProjectNode" />
-              <item name="learnProjects" type="462c0819:PsiDirectoryNode" />
-              <item name="mongodb" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="learnProjects" type="b2602c69:ProjectViewProjectNode" />
-              <item name="learnProjects" type="462c0819:PsiDirectoryNode" />
-              <item name="mongodb" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="learnProjects" type="b2602c69:ProjectViewProjectNode" />
-              <item name="learnProjects" type="462c0819:PsiDirectoryNode" />
-              <item name="mongodb" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="mongodb" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="learnProjects" type="b2602c69:ProjectViewProjectNode" />
-              <item name="learnProjects" type="462c0819:PsiDirectoryNode" />
-              <item name="springboot-code" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="learnProjects" type="b2602c69:ProjectViewProjectNode" />
-              <item name="learnProjects" type="462c0819:PsiDirectoryNode" />
-              <item name="springboot-code" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="learnProjects" type="b2602c69:ProjectViewProjectNode" />
-              <item name="learnProjects" type="462c0819:PsiDirectoryNode" />
-              <item name="springboot-code" type="462c0819:PsiDirectoryNode" />
+              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="learnProjects" type="b2602c69:ProjectViewProjectNode" />
               <item name="learnProjects" type="462c0819:PsiDirectoryNode" />
-              <item name="springboot-code" type="462c0819:PsiDirectoryNode" />
+              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
@@ -501,17 +409,16 @@
             <path>
               <item name="learnProjects" type="b2602c69:ProjectViewProjectNode" />
               <item name="learnProjects" type="462c0819:PsiDirectoryNode" />
-              <item name="springboot-code" type="462c0819:PsiDirectoryNode" />
+              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="springbootcode" type="462c0819:PsiDirectoryNode" />
+              <item name="luokp" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -521,15 +428,16 @@
     <property name="RequestMappingsPanelWidth1" value="75" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1550489895111" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1553887041071" />
     <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="jdk.selected.PYTHON_MODULE" value="Python 3.7" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/pom.xml" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.508046" />
-    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -567,83 +475,97 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.UserTest.deleteUserById">
-    <configuration name="Test.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Application.Conbination">
+    <configuration name="Conbination" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.luokp.Conbination" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.luokp.mongodb.*" />
+          <option name="PATTERN" value="com.luokp.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.luokp" />
-      <option name="MAIN_CLASS_NAME" value="com.luokp.Test" />
-      <option name="METHOD_NAME" value="test" />
-      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="UserTest.deleteUserById" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="mongodb" />
+    <configuration name="_71SimplifyPath" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.luokp._71SimplifyPath" />
+      <module name="leetcode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.luokp.mongodb.*" />
+          <option name="PATTERN" value="com.luokp.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.luokp.mongodb" />
-      <option name="MAIN_CLASS_NAME" value="com.luokp.mongodb.UserTest" />
-      <option name="METHOD_NAME" value="deleteUserById" />
-      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="UserTest.findUserByUserName" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="mongodb" />
+    <configuration name="_75SortColor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.luokp._75SortColor" />
+      <module name="leetcode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.luokp.mongodb.*" />
+          <option name="PATTERN" value="com.luokp.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.luokp.mongodb" />
-      <option name="MAIN_CLASS_NAME" value="com.luokp.mongodb.UserTest" />
-      <option name="METHOD_NAME" value="findUserByUserName" />
-      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="UserTest.testSaveUser" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="mongodb" />
+    <configuration name="_79SearchWord" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.luokp._79SearchWord" />
+      <module name="leetcode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.luokp.mongodb.*" />
+          <option name="PATTERN" value="com.luokp.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.luokp.mongodb" />
-      <option name="MAIN_CLASS_NAME" value="com.luokp.mongodb.UserTest" />
-      <option name="METHOD_NAME" value="testSaveUser" />
-      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="UserTest.updateUser" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="mongodb" />
+    <configuration name="_80RemoveDuplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.luokp._80RemoveDuplication" />
+      <module name="leetcode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.luokp.mongodb.*" />
+          <option name="PATTERN" value="com.luokp.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.luokp.mongodb" />
-      <option name="MAIN_CLASS_NAME" value="com.luokp.mongodb.UserTest" />
-      <option name="METHOD_NAME" value="updateUser" />
-      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="pythonTest" type="PythonConfigurationType" factoryName="Python">
+      <module name="python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="/usr/local/bin/python3.7" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python/test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="SpringCodeApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="spring-use" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.luokp.springcode.SpringCodeApplication" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -666,21 +588,23 @@
       </method>
     </configuration>
     <list>
+      <item itemvalue="Python.pythonTest" />
       <item itemvalue="Spring Boot.mongodbTest" />
       <item itemvalue="Spring Boot.spring-boot-le" />
-      <item itemvalue="JUnit.Test.test" />
-      <item itemvalue="JUnit.UserTest.testSaveUser" />
-      <item itemvalue="JUnit.UserTest.findUserByUserName" />
-      <item itemvalue="JUnit.UserTest.updateUser" />
-      <item itemvalue="JUnit.UserTest.deleteUserById" />
+      <item itemvalue="Spring Boot.SpringCodeApplication" />
+      <item itemvalue="Application._71SimplifyPath" />
+      <item itemvalue="Application._75SortColor" />
+      <item itemvalue="Application.Conbination" />
+      <item itemvalue="Application._79SearchWord" />
+      <item itemvalue="Application._80RemoveDuplication" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.UserTest.deleteUserById" />
-        <item itemvalue="JUnit.UserTest.updateUser" />
-        <item itemvalue="JUnit.UserTest.findUserByUserName" />
-        <item itemvalue="JUnit.UserTest.testSaveUser" />
-        <item itemvalue="JUnit.Test.test" />
+        <item itemvalue="Application.Conbination" />
+        <item itemvalue="Application._80RemoveDuplication" />
+        <item itemvalue="Application._79SearchWord" />
+        <item itemvalue="Application._75SortColor" />
+        <item itemvalue="Application._71SimplifyPath" />
       </list>
     </recent_temporary>
   </component>
@@ -703,14 +627,14 @@
       <workItem from="1546410758387" duration="1210000" />
       <workItem from="1547003521255" duration="596000" />
       <workItem from="1548042993713" duration="22000" />
-      <workItem from="1550487635567" duration="2213000" />
+      <workItem from="1550487635567" duration="2663000" />
+      <workItem from="1550546193773" duration="665000" />
+      <workItem from="1550547078709" duration="6182000" />
+      <workItem from="1553745760687" duration="20560000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="Test_test - 2018.12.20 at 21h 41m 38s.xml">
-      <configuration name="Test.test" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="UserTest_testSaveUser - 2019.02.18 at 19h 28m 16s.xml">
       <configuration name="UserTest.testSaveUser" configurationId="JUnit" />
     </history-entry>
@@ -738,9 +662,12 @@
     <history-entry file="UserTest_deleteUserById - 2019.02.18 at 19h 37m 11s.xml">
       <configuration name="UserTest.deleteUserById" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="UserTest_deleteUserById - 2019.02.18 at 19h 38m 24s.xml">
+      <configuration name="UserTest.deleteUserById" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="100853000" />
+    <option name="totallyTimeSpent" value="128710000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -752,10 +679,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-295" y="-1080" width="1920" height="1080" extended-state="6" />
+    <frame x="-295" y="-1080" width="1920" height="1080" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.23322684" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.23961662" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -766,14 +693,14 @@
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32871288" />
       <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.24950495" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.3891089" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.38795182" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32970297" />
       <window_info anchor="bottom" id="Spring" order="7" />
       <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.49928468" weight="0.2891089" />
       <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5007153" side_tool="true" weight="0.32876712" />
-      <window_info anchor="bottom" id="Messages" order="10" weight="0.32475248" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.32409638" />
       <window_info anchor="bottom" id="Java Enterprise" order="11" />
       <window_info anchor="bottom" id="Database Changes" order="12" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="13" />
@@ -788,6 +715,7 @@
       <window_info anchor="right" id="Palette&#9;" order="7" />
       <window_info anchor="right" id="Theme Preview" order="8" />
       <window_info anchor="right" id="Bean Validation" order="9" />
+      <window_info anchor="right" id="SciView" order="10" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -859,138 +787,64 @@
           <properties />
           <option name="timeStamp" value="47" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/leetcode/src/main/java/com/luokp/Permutation.java</url>
+          <line>96</line>
+          <properties />
+          <option name="timeStamp" value="48" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/leetcode/src/main/java/com/luokp/_63uniquePath.java</url>
+          <line>48</line>
+          <properties />
+          <option name="timeStamp" value="49" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/leetcode/src/main/java/com/luokp/_71SimplifyPath.java</url>
+          <line>50</line>
+          <properties />
+          <option name="timeStamp" value="51" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/leetcode/src/main/java/com/luokp/_71SimplifyPath.java</url>
+          <line>63</line>
+          <properties />
+          <option name="timeStamp" value="52" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/leetcode/src/main/java/com/luokp/_75SortColor.java</url>
+          <line>68</line>
+          <properties />
+          <option name="timeStamp" value="58" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/leetcode/src/main/java/com/luokp/_75SortColor.java</url>
+          <line>45</line>
+          <properties />
+          <option name="timeStamp" value="60" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/leetcode/src/main/java/com/luokp/Conbination.java</url>
+          <line>18</line>
+          <properties />
+          <option name="timeStamp" value="63" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/leetcode/src/main/java/com/luokp/_79SearchWord.java</url>
+          <line>17</line>
+          <properties />
+          <option name="timeStamp" value="71" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/leetcode/src/main/java/com/luokp/_80RemoveDuplication.java</url>
+          <line>16</line>
+          <properties />
+          <option name="timeStamp" value="72" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/leetcode/src/main/java/com/luokp/_32LongestValidParenthese32.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="307">
-          <caret line="20" column="18" lean-forward="true" selection-start-line="20" selection-start-column="18" selection-end-line="20" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/src.zip!/java/util/ArrayDeque.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="572">
-          <caret line="975" column="9" lean-forward="true" selection-start-line="975" selection-start-column="9" selection-end-line="975" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spring-simulation/src/test/java/com/luokp/SpringSimulationTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="29" column="41" selection-start-line="29" selection-start-column="41" selection-end-line="29" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spring-use/src/main/java/com/luokp/springcode/Define_annotation_aspect/MyLogAspect.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-100">
-          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spring-simulation/src/main/java/com/luokp/springsimulation/context/AbstractApplicationContext.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="24" selection-start-line="24" selection-end-line="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spring-simulation/src/main/java/com/luokp/springsimulation/context/ApplicationContext.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="43" lean-forward="true" selection-start-column="43" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spring-use/src/main/java/com/luokp/springcode/controller/IndexController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spring-simulation/src/main/java/com/luokp/springsimulation/context/ClassPathXmlApplicationContextXml.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="541">
-          <caret line="39" column="44" selection-start-line="39" selection-start-column="44" selection-end-line="39" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/springboot-code/src/main/java/com/luokp/springbootcode/bean/Dog.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/springboot-code/src/main/java/com/luokp/springbootcode/bean/Person.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-178">
-          <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#950#951#0" expanded="true" />
-            <element signature="e#977#978#0" expanded="true" />
-            <element signature="e#1017#1018#0" expanded="true" />
-            <element signature="e#1049#1050#0" expanded="true" />
-            <element signature="e#1081#1082#0" expanded="true" />
-            <element signature="e#1108#1109#0" expanded="true" />
-            <element signature="e#1149#1150#0" expanded="true" />
-            <element signature="e#1181#1182#0" expanded="true" />
-            <element signature="e#1212#1213#0" expanded="true" />
-            <element signature="e#1238#1239#0" expanded="true" />
-            <element signature="e#1277#1278#0" expanded="true" />
-            <element signature="e#1307#1308#0" expanded="true" />
-            <element signature="e#1337#1338#0" expanded="true" />
-            <element signature="e#1365#1366#0" expanded="true" />
-            <element signature="e#1405#1406#0" expanded="true" />
-            <element signature="e#1439#1440#0" expanded="true" />
-            <element signature="e#1476#1477#0" expanded="true" />
-            <element signature="e#1503#1504#0" expanded="true" />
-            <element signature="e#1549#1550#0" expanded="true" />
-            <element signature="e#1581#1582#0" expanded="true" />
-            <element signature="e#1624#1625#0" expanded="true" />
-            <element signature="e#1650#1651#0" expanded="true" />
-            <element signature="e#1701#1702#0" expanded="true" />
-            <element signature="e#1731#1732#0" expanded="true" />
-            <element signature="e#1758#1759#0" expanded="true" />
-            <element signature="e#1784#1785#0" expanded="true" />
-            <element signature="e#1819#1820#0" expanded="true" />
-            <element signature="e#1849#1850#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/springboot-code/src/main/resources/application.yml" />
-    <entry file="file://$PROJECT_DIR$/springboot-code/src/main/resources/static/asserts/js/Chart.min.js">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/springboot-code/src/main/resources/static/asserts/img/bootstrap-solid.svg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/springboot-code/src/main/java/com/luokp/springbootcode/SpringbootCodeApplication.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="6" column="14" selection-start-line="6" selection-start-column="14" selection-end-line="6" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/springboot-code/src/main/resources/templates/error/404.html">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/springboot-code/src/main/resources/templates/dashboard.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1156">
-          <caret line="24" column="17" lean-forward="true" selection-start-line="24" selection-start-column="17" selection-end-line="24" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/springboot-code/src/main/resources/templates/success.html">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/springboot-code/src/main/java/com/luokp/springbootcode/dao/EmployeeDao.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="595">
@@ -1088,13 +942,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/leetcode/src/main/java/com/luokp/Permutation.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="26" column="53" lean-forward="true" selection-start-line="26" selection-start-column="53" selection-end-line="26" selection-end-column="53" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/leetcode/src/main/java/com/luokp/_33SearchInRotatedArray33.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
@@ -1113,9 +960,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="306">
           <caret line="18" column="27" selection-start-line="18" selection-start-column="27" selection-end-line="18" selection-end-column="62" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1123,9 +967,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="929">
           <caret line="88" column="41" selection-start-line="88" selection-start-column="41" selection-end-line="88" selection-end-column="41" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1133,53 +974,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="929">
           <caret line="453" column="36" selection-start-line="453" selection-start-column="36" selection-end-line="453" selection-end-column="36" />
-          <folding>
-            <element signature="docComment;class#TreeSet#0" />
-            <element signature="docComment;field#m#0;class#TreeSet#0" />
-            <element signature="docComment;method#TreeSet#0;class#TreeSet#0" />
-            <element signature="docComment;method#TreeSet#1;class#TreeSet#0" />
-            <element signature="docComment;method#TreeSet#2;class#TreeSet#0" />
-            <element signature="docComment;method#TreeSet#3;class#TreeSet#0" />
-            <element signature="method#TreeSet#3;class#TreeSet#0" />
-            <element signature="docComment;method#TreeSet#4;class#TreeSet#0" />
-            <element signature="method#TreeSet#4;class#TreeSet#0" />
-            <element signature="docComment;method#iterator#0;class#TreeSet#0" />
-            <element signature="docComment;method#descendingIterator#0;class#TreeSet#0" />
-            <element signature="docComment;method#descendingSet#0;class#TreeSet#0" />
-            <element signature="docComment;method#size#0;class#TreeSet#0" />
-            <element signature="docComment;method#isEmpty#0;class#TreeSet#0" />
-            <element signature="docComment;method#contains#0;class#TreeSet#0" />
-            <element signature="docComment;method#add#0;class#TreeSet#0" />
-            <element signature="docComment;method#remove#0;class#TreeSet#0" />
-            <element signature="docComment;method#clear#0;class#TreeSet#0" />
-            <element signature="docComment;method#addAll#0;class#TreeSet#0" />
-            <element signature="method#addAll#0;class#TreeSet#0" />
-            <element signature="docComment;method#subSet#0;class#TreeSet#0" />
-            <element signature="method#subSet#0;class#TreeSet#0" />
-            <element signature="docComment;method#headSet#0;class#TreeSet#0" />
-            <element signature="method#headSet#0;class#TreeSet#0" />
-            <element signature="docComment;method#tailSet#0;class#TreeSet#0" />
-            <element signature="method#tailSet#0;class#TreeSet#0" />
-            <element signature="docComment;method#subSet#1;class#TreeSet#0" />
-            <element signature="docComment;method#headSet#1;class#TreeSet#0" />
-            <element signature="docComment;method#tailSet#1;class#TreeSet#0" />
-            <element signature="docComment;method#first#0;class#TreeSet#0" />
-            <element signature="docComment;method#last#0;class#TreeSet#0" />
-            <element signature="docComment;method#lower#0;class#TreeSet#0" />
-            <element signature="docComment;method#floor#0;class#TreeSet#0" />
-            <element signature="docComment;method#ceiling#0;class#TreeSet#0" />
-            <element signature="docComment;method#higher#0;class#TreeSet#0" />
-            <element signature="docComment;method#pollFirst#0;class#TreeSet#0" />
-            <element signature="docComment;method#pollLast#0;class#TreeSet#0" />
-            <element signature="method#pollLast#0;class#TreeSet#0" />
-            <element signature="docComment;method#clone#0;class#TreeSet#0" />
-            <element signature="method#clone#0;class#TreeSet#0" />
-            <element signature="docComment;method#writeObject#0;class#TreeSet#0" />
-            <element signature="method#writeObject#0;class#TreeSet#0" />
-            <element signature="docComment;method#readObject#0;class#TreeSet#0" />
-            <element signature="method#readObject#0;class#TreeSet#0" />
-            <element signature="docComment;method#spliterator#0;class#TreeSet#0" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1190,13 +984,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/mongodb/src/main/java/com/luokp/mongodb/App.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/mongodb/src/main/java/com/luokp/mongodb/App.java" />
     <entry file="file://$PROJECT_DIR$/springboot-code/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="164">
@@ -1204,18 +992,73 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/mongodb/src/main/java/com/luokp/mongodb/models.java">
-      <provider selected="true" editor-type-id="text-editor" />
+    <entry file="file://$PROJECT_DIR$/mongodb/src/main/java/com/luokp/mongodb/models.java" />
+    <entry file="file://$PROJECT_DIR$/mongodb/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="561">
+          <caret line="33" column="20" selection-start-line="33" selection-start-column="20" selection-end-line="33" selection-end-column="20" />
+          <folding>
+            <element signature="n#build#0;n#project#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/mongodb/src/main/java/com/luokp/mongodb/MongoDBApplication.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
+        <state relative-caret-position="85">
           <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mongodb/src/main/java/com/luokp/mongodb/models/UserEntity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="11" column="4" selection-start-line="11" selection-start-column="4" selection-end-line="11" selection-end-column="4" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python/python.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python/support.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="10" lean-forward="true" selection-start-line="2" selection-start-column="10" selection-end-line="2" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="568">
+          <caret line="38" column="6" lean-forward="true" selection-start-line="38" selection-start-column="6" selection-end-line="38" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python/exercise/1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="4" lean-forward="true" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mongodb/src/test/java/com/luokp/mongodb/UserTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="99">
+          <caret line="20" column="28" lean-forward="true" selection-start-line="20" selection-start-column="28" selection-end-line="20" selection-end-column="28" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python/exercise/2.py">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/mongodb/src/main/java/resources/application-dev.properties">
       <provider selected="true" editor-type-id="text-editor">
@@ -1224,13 +1067,20 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/mongodb/pom.xml">
+    <entry file="file://$PROJECT_DIR$/mongodb/src/main/java/com/luokp/mongodb/dao/userDaoImpl.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="560">
-          <caret line="33" column="20" selection-start-line="33" selection-start-column="20" selection-end-line="33" selection-end-column="20" />
+        <state relative-caret-position="204">
+          <caret line="18" column="15" selection-start-line="18" selection-start-column="15" selection-end-line="18" selection-end-column="15" />
           <folding>
-            <element signature="n#build#0;n#project#0;n#!!top" />
+            <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/mongodb/mongodb-driver/3.8.2/mongodb-driver-3.8.2.jar!/com/mongodb/MongoClient.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2669">
+          <caret line="209" column="29" selection-start-line="209" selection-start-column="29" selection-end-line="209" selection-end-column="29" />
         </state>
       </provider>
     </entry>
@@ -1241,36 +1091,320 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/mongodb/src/main/java/com/luokp/mongodb/models/UserEntity.java">
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/data/spring-data-mongodb/2.1.2.RELEASE/spring-data-mongodb-2.1.2.RELEASE.jar!/org/springframework/data/mongodb/core/MongoTemplate.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="578">
+          <caret line="179" column="31" selection-start-line="179" selection-start-column="31" selection-end-line="179" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/src.zip!/java/lang/Object.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="328">
+          <caret line="234" column="18" selection-start-line="234" selection-start-column="18" selection-end-line="234" selection-end-column="18" />
+          <folding>
+            <element signature="e#10065#10066#0" expanded="true" />
+            <element signature="e#10148#10149#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/src.zip!/java/lang/StringBuilder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1235">
+          <caret line="91" column="4" selection-start-line="91" selection-start-column="4" selection-end-line="91" selection-end-column="4" />
+          <folding>
+            <element signature="docComment;class#StringBuilder#0" />
+            <element signature="docComment;field#serialVersionUID#0;class#StringBuilder#0" />
+            <element signature="docComment;method#StringBuilder#0;class#StringBuilder#0" />
+            <element signature="docComment;method#StringBuilder#1;class#StringBuilder#0" />
+            <element signature="docComment;method#StringBuilder#2;class#StringBuilder#0" />
+            <element signature="method#StringBuilder#2;class#StringBuilder#0" />
+            <element signature="docComment;method#StringBuilder#3;class#StringBuilder#0" />
+            <element signature="method#StringBuilder#3;class#StringBuilder#0" />
+            <element signature="method#append#1;class#StringBuilder#0" />
+            <element signature="docComment;method#append#2;class#StringBuilder#0" />
+            <element signature="method#append#2;class#StringBuilder#0" />
+            <element signature="method#append#3;class#StringBuilder#0" />
+            <element signature="docComment;method#append#4;class#StringBuilder#0" />
+            <element signature="method#append#4;class#StringBuilder#0" />
+            <element signature="method#append#5;class#StringBuilder#0" />
+            <element signature="docComment;method#append#6;class#StringBuilder#0" />
+            <element signature="method#append#6;class#StringBuilder#0" />
+            <element signature="method#append#7;class#StringBuilder#0" />
+            <element signature="method#append#8;class#StringBuilder#0" />
+            <element signature="method#append#9;class#StringBuilder#0" />
+            <element signature="method#append#10;class#StringBuilder#0" />
+            <element signature="method#append#11;class#StringBuilder#0" />
+            <element signature="method#append#12;class#StringBuilder#0" />
+            <element signature="docComment;method#appendCodePoint#0;class#StringBuilder#0" />
+            <element signature="method#appendCodePoint#0;class#StringBuilder#0" />
+            <element signature="docComment;method#delete#0;class#StringBuilder#0" />
+            <element signature="method#delete#0;class#StringBuilder#0" />
+            <element signature="docComment;method#deleteCharAt#0;class#StringBuilder#0" />
+            <element signature="method#deleteCharAt#0;class#StringBuilder#0" />
+            <element signature="docComment;method#replace#0;class#StringBuilder#0" />
+            <element signature="method#replace#0;class#StringBuilder#0" />
+            <element signature="docComment;method#insert#0;class#StringBuilder#0" />
+            <element signature="method#insert#0;class#StringBuilder#0" />
+            <element signature="docComment;method#insert#1;class#StringBuilder#0" />
+            <element signature="method#insert#1;class#StringBuilder#0" />
+            <element signature="docComment;method#insert#2;class#StringBuilder#0" />
+            <element signature="method#insert#2;class#StringBuilder#0" />
+            <element signature="docComment;method#insert#3;class#StringBuilder#0" />
+            <element signature="method#insert#3;class#StringBuilder#0" />
+            <element signature="docComment;method#insert#4;class#StringBuilder#0" />
+            <element signature="method#insert#4;class#StringBuilder#0" />
+            <element signature="docComment;method#insert#5;class#StringBuilder#0" />
+            <element signature="method#insert#5;class#StringBuilder#0" />
+            <element signature="docComment;method#insert#6;class#StringBuilder#0" />
+            <element signature="method#insert#6;class#StringBuilder#0" />
+            <element signature="docComment;method#insert#7;class#StringBuilder#0" />
+            <element signature="method#insert#7;class#StringBuilder#0" />
+            <element signature="docComment;method#insert#8;class#StringBuilder#0" />
+            <element signature="method#insert#8;class#StringBuilder#0" />
+            <element signature="docComment;method#insert#9;class#StringBuilder#0" />
+            <element signature="method#insert#9;class#StringBuilder#0" />
+            <element signature="docComment;method#insert#10;class#StringBuilder#0" />
+            <element signature="method#insert#10;class#StringBuilder#0" />
+            <element signature="docComment;method#insert#11;class#StringBuilder#0" />
+            <element signature="method#insert#11;class#StringBuilder#0" />
+            <element signature="method#reverse#0;class#StringBuilder#0" />
+            <element signature="method#toString#0;class#StringBuilder#0" />
+            <element signature="docComment;method#writeObject#0;class#StringBuilder#0" />
+            <element signature="method#writeObject#0;class#StringBuilder#0" />
+            <element signature="docComment;method#readObject#0;class#StringBuilder#0" />
+            <element signature="method#readObject#0;class#StringBuilder#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leetcode/src/main/java/com/luokp/_63uniquePath.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="451">
+          <caret line="50" column="45" selection-start-line="50" selection-start-column="45" selection-end-line="50" selection-end-column="45" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/src.zip!/java/util/Deque.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1062">
+          <caret line="193" column="4" selection-start-line="193" selection-start-column="4" selection-end-line="193" selection-end-column="4" />
+          <folding>
+            <element signature="docComment;class#Deque#0" />
+            <element signature="docComment;method#addFirst#0;class#Deque#0" />
+            <element signature="docComment;method#addLast#0;class#Deque#0" />
+            <element signature="docComment;method#offerFirst#0;class#Deque#0" />
+            <element signature="docComment;method#offerLast#0;class#Deque#0" />
+            <element signature="docComment;method#removeFirst#0;class#Deque#0" />
+            <element signature="docComment;method#removeLast#0;class#Deque#0" />
+            <element signature="docComment;method#pollFirst#0;class#Deque#0" />
+            <element signature="docComment;method#pollLast#0;class#Deque#0" />
+            <element signature="docComment;method#getFirst#0;class#Deque#0" />
+            <element signature="docComment;method#getLast#0;class#Deque#0" />
+            <element signature="docComment;method#peekFirst#0;class#Deque#0" />
+            <element signature="docComment;method#peekLast#0;class#Deque#0" />
+            <element signature="docComment;method#removeFirstOccurrence#0;class#Deque#0" />
+            <element signature="docComment;method#removeLastOccurrence#0;class#Deque#0" />
+            <element signature="docComment;method#add#0;class#Deque#0" />
+            <element signature="docComment;method#offer#0;class#Deque#0" />
+            <element signature="docComment;method#remove#0;class#Deque#0" />
+            <element signature="docComment;method#poll#0;class#Deque#0" />
+            <element signature="docComment;method#element#0;class#Deque#0" />
+            <element signature="docComment;method#peek#0;class#Deque#0" />
+            <element signature="docComment;method#push#0;class#Deque#0" />
+            <element signature="docComment;method#pop#0;class#Deque#0" />
+            <element signature="docComment;method#remove#1;class#Deque#0" />
+            <element signature="docComment;method#contains#0;class#Deque#0" />
+            <element signature="docComment;method#size#0;class#Deque#0" />
+            <element signature="docComment;method#iterator#0;class#Deque#0" />
+            <element signature="docComment;method#descendingIterator#0;class#Deque#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/src.zip!/java/util/LinkedList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="294">
+          <caret line="757" column="24" selection-start-line="757" selection-start-column="13" selection-end-line="757" selection-end-column="24" />
+          <folding>
+            <element signature="docComment;class#LinkedList#0" />
+            <element signature="e#3049#3204#0" />
+            <element signature="e#3239#3391#0" />
+            <element signature="e#3425#3469#0" />
+            <element signature="e#3425#3501#0" />
+            <element signature="e#3507#3829#0" />
+            <element signature="e#3507#3921#0" />
+            <element signature="e#3927#3971#0" />
+            <element signature="e#3927#4255#0" />
+            <element signature="e#4261#4304#0" />
+            <element signature="e#4261#4578#0" />
+            <element signature="e#4584#4647#0" />
+            <element signature="e#4584#4991#0" />
+            <element signature="e#4997#5046#0" />
+            <element signature="e#4997#5438#0" />
+            <element signature="e#5444#5492#0" />
+            <element signature="e#5444#5882#0" />
+            <element signature="e#5888#5931#0" />
+            <element signature="e#5888#6461#0" />
+            <element signature="e#6467#6638#0" />
+            <element signature="e#6467#6797#0" />
+            <element signature="e#6803#7129#0" />
+            <element signature="e#7135#7322#0" />
+            <element signature="e#7135#7492#0" />
+            <element signature="e#7498#7683#0" />
+            <element signature="e#7498#7850#0" />
+            <element signature="e#7856#7977#0" />
+            <element signature="e#8043#8218#0" />
+            <element signature="e#8282#8709#0" />
+            <element signature="e#8794#8915#0" />
+            <element signature="e#8972#9237#0" />
+            <element signature="e#8972#9315#0" />
+            <element signature="e#9321#9994#0" />
+            <element signature="e#9321#10504#0" />
+            <element signature="e#10510#11155#0" />
+            <element signature="e#11254#12049#0" />
+            <element signature="e#11254#12975#0" />
+            <element signature="e#12981#13098#0" />
+            <element signature="e#12981#13646#0" />
+            <element signature="e#13133#13198#0" />
+            <element signature="e#13690#13947#0" />
+            <element signature="e#13690#14050#0" />
+            <element signature="e#14056#14416#0" />
+            <element signature="e#14056#14606#0" />
+            <element signature="e#14612#15021#0" />
+            <element signature="e#14612#15224#0" />
+            <element signature="e#15230#15639#0" />
+            <element signature="e#15230#15748#0" />
+            <element signature="e#15754#15831#0" />
+            <element signature="e#15934#16051#0" />
+            <element signature="e#16156#16370#0" />
+            <element signature="e#16477#16634#0" />
+            <element signature="e#16640#16799#0" />
+            <element signature="e#16805#16883#0" />
+            <element signature="e#16805#17279#0" />
+            <element signature="e#17311#17850#0" />
+            <element signature="e#17311#18327#0" />
+            <element signature="e#18333#18871#0" />
+            <element signature="e#18333#19353#0" />
+            <element signature="e#19385#19575#0" />
+            <element signature="e#19385#19680#0" />
+            <element signature="e#19686#19897#0" />
+            <element signature="e#19961#20141#0" />
+            <element signature="e#19961#20254#0" />
+            <element signature="e#20260#20461#0" />
+            <element signature="e#20527#20739#0" />
+            <element signature="e#20830#21039#0" />
+            <element signature="e#20830#21124#0" />
+            <element signature="e#21130#21336#0" />
+            <element signature="e#21130#21419#0" />
+            <element signature="e#21425#21686#0" />
+            <element signature="e#21425#21797#0" />
+            <element signature="e#21803#22062#0" />
+            <element signature="e#21803#22170#0" />
+            <element signature="e#22176#22423#0" />
+            <element signature="e#22176#22541#0" />
+            <element signature="e#22547#22792#0" />
+            <element signature="e#22547#22907#0" />
+            <element signature="e#22913#23187#0" />
+            <element signature="e#23248#23679#0" />
+            <element signature="e#23742#24109#0" />
+            <element signature="e#24200#24566#0" />
+            <element signature="e#24200#25088#0" />
+            <element signature="e#25094#26214#0" />
+            <element signature="e#25094#26343#0" />
+            <element signature="e#26349#29102#0" />
+            <element signature="e#26557#26721#0" />
+            <element signature="e#26814#27086#0" />
+            <element signature="e#27180#27466#0" />
+            <element signature="e#27632#28058#0" />
+            <element signature="e#28068#28262#0" />
+            <element signature="e#28272#28545#0" />
+            <element signature="e#28555#28932#0" />
+            <element signature="e#28942#29096#0" />
+            <element signature="e#29108#29362#0" />
+            <element signature="e#29208#29356#0" />
+            <element signature="e#29368#29397#0" />
+            <element signature="e#29496#29575#0" />
+            <element signature="e#29496#29921#0" />
+            <element signature="e#29927#30167#0" />
+            <element signature="e#30173#30364#0" />
+            <element signature="e#30173#30733#0" />
+            <element signature="e#30739#31316#0" />
+            <element signature="e#30739#31529#0" />
+            <element signature="e#31535#33529#0" />
+            <element signature="e#31535#33979#0" />
+            <element signature="e#34056#34381#0" />
+            <element signature="e#34056#34766#0" />
+            <element signature="e#34772#34886#0" />
+            <element signature="e#34772#35317#0" />
+            <element signature="e#35323#35987#0" />
+            <element signature="e#36105#36168#0" />
+            <element signature="e#36105#39343#0" />
+            <element signature="e#36711#36899#0" />
+            <element signature="e#36909#37338#0" />
+            <element signature="e#37348#37402#0" />
+            <element signature="e#37412#38080#0" />
+            <element signature="e#38090#38673#0" />
+            <element signature="e#38683#39204#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leetcode/src/main/java/com/luokp/_71SimplifyPath.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="366">
+          <caret line="80" column="30" selection-start-line="80" selection-start-column="30" selection-end-line="80" selection-end-column="30" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leetcode/src/main/java/com/luokp/_75SortColor.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="187">
-          <caret line="11" column="4" selection-start-line="11" selection-start-column="4" selection-end-line="11" selection-end-column="4" />
+          <caret line="57" column="5" lean-forward="true" selection-start-line="11" selection-start-column="4" selection-end-line="57" selection-end-column="5" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="method#sortColors#0;class#_75SortColor#0" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/mongodb/src/main/java/com/luokp/mongodb/dao/userDaoImpl.java">
+    <entry file="file://$PROJECT_DIR$/leetcode/src/main/java/com/luokp/_79SearchWord.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="24" column="13" lean-forward="true" selection-start-line="24" selection-start-column="13" selection-end-line="24" selection-end-column="13" />
+        <state relative-caret-position="177">
+          <caret line="64" column="5" lean-forward="true" selection-start-line="28" selection-start-column="4" selection-end-line="64" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#457#458#0" expanded="true" />
-            <element signature="e#497#498#0" expanded="true" />
+            <element signature="method#walk#0;class#_79SearchWord#0" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/mongodb/src/test/java/com/luokp/mongodb/UserTest.java">
+    <entry file="file://$PROJECT_DIR$/leetcode/src/main/java/com/luokp/Permutation.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="542">
-          <caret line="45" lean-forward="true" selection-start-line="45" selection-end-line="45" />
+        <state relative-caret-position="11">
+          <caret line="67" column="4" selection-start-line="67" selection-start-column="4" selection-end-line="71" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leetcode/src/main/java/com/luokp/_80RemoveDuplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leetcode/src/main/java/com/luokp/Conbination.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="507">
+          <caret line="83" column="22" selection-start-line="83" selection-start-column="22" selection-end-line="83" selection-end-column="22" />
           <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#868#869#0" expanded="true" />
-            <element signature="e#910#911#0" expanded="true" />
+            <element signature="method#conbinationTOk#0;class#Conbination#0" />
           </folding>
         </state>
       </provider>
@@ -1304,6 +1438,7 @@
       </state>
       <state key="GlobalLibrariesConfigurable.UI">
         <settings>
+          <last-edited>Python 3.7 interpreter library</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
@@ -1327,7 +1462,7 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>mongodb</last-edited>
+          <last-edited>python</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
