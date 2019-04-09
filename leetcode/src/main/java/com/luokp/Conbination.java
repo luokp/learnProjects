@@ -83,6 +83,8 @@ public class Conbination {
         char[] d = new char[1];
         d[0] = (char)(nums[0]+49);
         System.out.println(d[0]);
+
+        String s = "sss";
     }
 
 
