@@ -1,8 +1,6 @@
 package com.luokp;
 
-import java.util.List;
-import java.util.Set;
-import java.util.TreeSet;
+import java.util.*;
 
 /**
  * @author: luokp
@@ -20,5 +18,6 @@ public class Test {
 //        Catalan catalan = new Catalan();
 //        List list = catalan.generateParenthesis(50);
 //        System.out.println(list);
+
     }
 }

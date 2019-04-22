@@ -1,4 +1,4 @@
-package com.luokp.models;
+package com.luokp;
 
 import java.util.Arrays;
 
@@ -7,7 +7,7 @@ import java.util.Arrays;
  * @date: 2018/12/2 13:27
  * @description:
  */
-public class Remove_element_27 {
+public class _27Remove_element {
 
     public static int removeElement(int[] nums, int val) {
         if(nums == null || nums.length == 0){

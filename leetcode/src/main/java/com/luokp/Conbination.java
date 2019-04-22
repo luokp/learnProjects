@@ -84,7 +84,10 @@ public class Conbination {
         d[0] = (char)(nums[0]+49);
         System.out.println(d[0]);
 
-        String s = "sss";
+        long cnt = (long)Math.pow(2, 2) - 1;
+        System.out.println(cnt);
+        System.out.println(1 << 2);
+
     }
 
 

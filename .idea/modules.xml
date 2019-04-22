@@ -2,6 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/auth-moduleA/auth-moduleA.iml" filepath="$PROJECT_DIR$/auth-moduleA/auth-moduleA.iml" />
+      <module fileurl="file://$PROJECT_DIR$/auth-moduleB/auth-moduleB.iml" filepath="$PROJECT_DIR$/auth-moduleB/auth-moduleB.iml" />
+      <module fileurl="file://$PROJECT_DIR$/auth-moduleC/auth-moduleC.iml" filepath="$PROJECT_DIR$/auth-moduleC/auth-moduleC.iml" />
+      <module fileurl="file://$PROJECT_DIR$/auth-web/auth-web.iml" filepath="$PROJECT_DIR$/auth-web/auth-web.iml" />
       <module fileurl="file://$PROJECT_DIR$/java8-code/java8-code.iml" filepath="$PROJECT_DIR$/java8-code/java8-code.iml" />
       <module fileurl="file://$PROJECT_DIR$/jedis/jedis.iml" filepath="$PROJECT_DIR$/jedis/jedis.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/learnProjects.iml" filepath="$PROJECT_DIR$/.idea/learnProjects.iml" />

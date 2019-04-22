@@ -95,8 +95,13 @@ public class _15Sum3 {
     }
 
     public static void main(String[] args) {
+//
+//        int[] nums = {0, 0, 0, 0};
+//        System.out.println(threeSum(nums));
 
-        int[] nums = {0,0,0,0};
-        System.out.println(threeSum(nums));
+        String s = "sdf";
+        s.indexOf("aa");
+        String sss=  s.substring(1,2);
+        System.out.println(sss);
     }
 }

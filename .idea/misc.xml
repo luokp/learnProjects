@@ -9,6 +9,10 @@
         <option value="$PROJECT_DIR$/spring_boot_code/pom.xml" />
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/springboot-code/pom.xml" />
+        <option value="$PROJECT_DIR$/auth-moduleC/pom.xml" />
+        <option value="$PROJECT_DIR$/auth-moduleB/pom.xml" />
+        <option value="$PROJECT_DIR$/auth-web/pom.xml" />
+        <option value="$PROJECT_DIR$/auth-moduleA/pom.xml" />
       </list>
     </option>
   </component>
