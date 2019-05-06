@@ -3,107 +3,89 @@
   <component name="AnalysisUIOptions">
     <option name="GROUP_BY_SEVERITY" value="true" />
   </component>
+  <component name="BookmarkManager">
+    <bookmark url="file://$USER_HOME$/iqiyi/rds-cloud-service/hikv/src/main/java/com/iqiyi/hikv/service/HikvMonitorService.java" description="HikvClusterMonitorInfoVo result = new HikvClusterM..." line="64" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="f395e402-468e-48bb-b945-1ecd97aed5e9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_9_8.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_9_8.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_datatype_jackson_datatype_jdk8_2_9_8.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_datatype_jackson_datatype_jsr310_2_9_8.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_module_jackson_module_parameter_names_2_9_8.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_codec_commons_codec_1_11.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_lettuce_lettuce_core_5_1_6_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_buffer_4_1_34_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_codec_4_1_34_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_common_4_1_34_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_handler_4_1_34_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_resolver_4_1_34_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_transport_4_1_34_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_projectreactor_reactor_core_3_2_8_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_bytebuddy_byte_buddy_1_9_12.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_bytebuddy_byte_buddy_agent_1_9_12.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpclient_4_5.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpcore_4_4_11.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_logging_log4j_log4j_api_2_11_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_logging_log4j_log4j_to_slf4j_2_11_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_core_9_0_17.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_el_9_0_17.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_websocket_9_0_17.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hibernate_validator_hibernate_validator_6_0_16_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jasig_cas_client_cas_client_core_3_5_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mockito_mockito_core_2_23_4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_projectlombok_lombok_1_18_6.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_reactivestreams_reactive_streams_1_0_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_jul_to_slf4j_1_7_26.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_26.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_2_1_4_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_autoconfigure_2_1_4_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_devtools_2_1_4_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_2_1_4_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_data_redis_2_1_4_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_json_2_1_4_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_logging_2_1_4_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_security_2_1_4_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_test_2_1_4_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_tomcat_2_1_4_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_web_2_1_4_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_2_1_4_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_autoconfigure_2_1_4_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_data_spring_data_commons_2_1_6_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_data_spring_data_keyvalue_2_1_6_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_data_spring_data_redis_2_1_6_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_security_spring_security_cas_5_1_5_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_security_spring_security_config_5_1_5_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_security_spring_security_core_5_1_5_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_security_spring_security_test_5_1_5_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_security_spring_security_web_5_1_5_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_session_spring_session_core_2_1_5_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_session_spring_session_data_redis_2_1_5_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aop_5_1_6_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_beans_5_1_6_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_5_1_6_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_support_5_1_6_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_core_5_1_6_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_expression_5_1_6_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jcl_5_1_6_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_oxm_5_1_6_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_test_5_1_6_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_tx_5_1_6_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_web_5_1_6_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_webmvc_5_1_6_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/auth-moduleC/src/main/java/com/luokp/authmoduleC/configs/CasSecurityConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/auth-moduleC/src/main/java/com/luokp/authmoduleC/configs/WebSecurityConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/auth-moduleC/src/main/java/com/luokp/authmoduleC/controller/HelloController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/auth-web/src/main/java/com/luokp/authweb/configs/CasSecurityConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/auth-web/src/main/java/com/luokp/authweb/configs/RestTemplateAutoConfiguration.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/auth-web/src/main/java/com/luokp/authweb/configs/RestTemplateProperty.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/auth-web/src/main/java/com/luokp/authweb/configs/WebSecurityConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/auth-web/src/main/java/com/luokp/authweb/controller/HelloController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetcode/src/main/java/com/luokp/CoinsAndJumpStep.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetcode/src/main/java/com/luokp/DAG.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetcode/src/main/java/com/luokp/LRUCache.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetcode/src/main/java/com/luokp/LongestCommonSubstring.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetcode/src/main/java/com/luokp/Polish.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetcode/src/main/java/com/luokp/QuickSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetcode/src/main/java/com/luokp/ReverseList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetcode/src/main/java/com/luokp/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetcode/src/main/java/com/luokp/Trie.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetcode/src/main/java/com/luokp/_148SortLinkedList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetcode/src/main/java/com/luokp/_173BSTIterator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetcode/src/main/java/com/luokp/_213HouseRobberII.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetcode/src/main/java/com/luokp/_SingleNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/src/main/java/com/luokp/IncreasingTriplet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/src/main/java/com/luokp/LIS.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/src/main/java/com/luokp/Majority_vote_II.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/src/main/java/com/luokp/MaxProduct.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/src/main/java/com/luokp/Median.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/src/main/java/com/luokp/RandomizedSet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/src/main/java/com/luokp/WordSearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/src/main/java/com/luokp/ZforTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/src/main/java/com/luokp/_139WordBreak.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/src/main/java/com/luokp/_221MaximalSquare.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/src/main/java/com/luokp/_227BasicCaculatorII.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/src/main/java/com/luokp/_240SearchMatrix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/src/main/java/com/luokp/_241D.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/src/main/java/com/luokp/_378Kth.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/src/main/java/com/luokp/_887EggDrop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/src/main/java/com/luokp/_SlidingWindowMax.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-code/src/main/java/com/luokp/springbootcode/config/WebAppConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-code/src/main/java/com/luokp/springbootcode/controller/DynamicScheduledController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-code/src/main/java/com/luokp/springbootcode/service/ScheduledForDynamicCron.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-code/src/main/resources/application-dev.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/leetcode.iml" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/leetcode.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/leetcode/src/main/java/com/luokp/Conbination.java" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/src/main/java/com/luokp/Conbination.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode/src/main/java/com/luokp/_15Sum3.java" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/src/main/java/com/luokp/_15Sum3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode/src/main/java/com/luokp/models/Remove_element_27.java" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/src/main/java/com/luokp/Remove_element_27.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode/src/test/java/com/luokp/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/src/test/java/com/luokp/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/src/main/java/com/luokp/Permutation.java" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/src/main/java/com/luokp/Permutation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/src/main/java/com/luokp/Test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/src/main/java/com/luokp/_18Sum4.java" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/src/main/java/com/luokp/_18Sum4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/src/test/java/com/luokp/AppTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/src/test/java/com/luokp/AppTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/src/test/java/com/luokp/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/src/test/java/com/luokp/ZforTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/target/classes/com/luokp/Catalan.class" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/target/classes/com/luokp/Catalan.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/target/classes/com/luokp/CoinsAndJumpStep.class" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/target/classes/com/luokp/CoinsAndJumpStep.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/target/classes/com/luokp/Conbination.class" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/target/classes/com/luokp/Conbination.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/target/classes/com/luokp/DAG.class" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/target/classes/com/luokp/DAG.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/target/classes/com/luokp/LRUCache$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/target/classes/com/luokp/LRUCache$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/target/classes/com/luokp/LRUCache$Data.class" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/target/classes/com/luokp/LRUCache$Data.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/target/classes/com/luokp/LRUCache.class" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/target/classes/com/luokp/LRUCache.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/target/classes/com/luokp/LongestCommonSubstring.class" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/target/classes/com/luokp/LongestCommonSubstring.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/target/classes/com/luokp/Permutation.class" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/target/classes/com/luokp/Permutation.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/target/classes/com/luokp/Polish.class" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/target/classes/com/luokp/Polish.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/target/classes/com/luokp/QuickSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/target/classes/com/luokp/QuickSort.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/target/classes/com/luokp/Remove_element_27.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/target/classes/com/luokp/ReverseList.class" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/target/classes/com/luokp/ReverseList.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/target/classes/com/luokp/Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/target/classes/com/luokp/Trie$TrieNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/target/classes/com/luokp/Trie$TrieNode.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/target/classes/com/luokp/Trie.class" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/target/classes/com/luokp/Trie.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/target/classes/com/luokp/_113PathSUm.class" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/target/classes/com/luokp/_113PathSUm.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/target/classes/com/luokp/_130SurroundedRegions$Point.class" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/target/classes/com/luokp/_130SurroundedRegions$Point.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/target/classes/com/luokp/_130SurroundedRegions.class" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/target/classes/com/luokp/_130SurroundedRegions.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/target/classes/com/luokp/_148SortLinkedList.class" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/target/classes/com/luokp/_148SortLinkedList.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/target/classes/com/luokp/_15Sum3$IntegerList.class" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/target/classes/com/luokp/_15Sum3$IntegerList.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/leetcode/target/classes/com/luokp/_15Sum3.class" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/target/classes/com/luokp/_15Sum3.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode/target/classes/com/luokp/models/Remove_element_27.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode/target/test-classes/com/luokp/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/target/test-classes/com/luokp/Test.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/target/classes/com/luokp/_173BSTIterator.class" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/target/classes/com/luokp/_173BSTIterator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/target/classes/com/luokp/_18Sum4.class" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/target/classes/com/luokp/_18Sum4.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/target/classes/com/luokp/_213HouseRobberII.class" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/target/classes/com/luokp/_213HouseRobberII.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/target/classes/com/luokp/_25Reverse_Nodes_in_k_Group_25.class" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/target/classes/com/luokp/_25Reverse_Nodes_in_k_Group_25.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/target/classes/com/luokp/_32LongestValidParenthese32.class" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/target/classes/com/luokp/_32LongestValidParenthese32.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/target/classes/com/luokp/_33SearchInRotatedArray33.class" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/target/classes/com/luokp/_33SearchInRotatedArray33.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/target/classes/com/luokp/_34FindFirstandLastPositionofElementinSortedArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/target/classes/com/luokp/_34FindFirstandLastPositionofElementinSortedArray.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/target/classes/com/luokp/_41FirstMissingPositive41.class" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/target/classes/com/luokp/_41FirstMissingPositive41.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/target/classes/com/luokp/_42TrapingRainWater.class" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/target/classes/com/luokp/_42TrapingRainWater.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/target/classes/com/luokp/_43MultiplyString.class" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/target/classes/com/luokp/_43MultiplyString.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/target/classes/com/luokp/_51NQueues.class" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/target/classes/com/luokp/_51NQueues.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/target/classes/com/luokp/_63uniquePath.class" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/target/classes/com/luokp/_63uniquePath.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/target/classes/com/luokp/_71SimplifyPath.class" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/target/classes/com/luokp/_71SimplifyPath.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/target/classes/com/luokp/_75SortColor.class" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/target/classes/com/luokp/_75SortColor.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/target/classes/com/luokp/_79SearchWord.class" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/target/classes/com/luokp/_79SearchWord.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/target/classes/com/luokp/_80RemoveDuplication.class" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/target/classes/com/luokp/_80RemoveDuplication.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/target/classes/com/luokp/_91decodeWays.class" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/target/classes/com/luokp/_91decodeWays.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/target/classes/com/luokp/_93restoreIP.class" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/target/classes/com/luokp/_93restoreIP.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/target/classes/com/luokp/_SingleNumber.class" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/target/classes/com/luokp/_SingleNumber.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/target/classes/com/luokp/models/ListNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/target/classes/com/luokp/models/ListNode.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/target/classes/com/luokp/models/TreeNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/target/classes/com/luokp/models/TreeNode.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/target/test-classes/com/luokp/AppTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/target/test-classes/com/luokp/AppTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/target/test-classes/com/luokp/Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-use/src/main/java/com/luokp/springcode/Define_annotation_aspect/MyLog.java" beforeDir="false" afterPath="$PROJECT_DIR$/spring-use/src/main/java/com/luokp/springcode/Define_annotation_aspect/MyLog.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot-code/src/main/java/com/luokp/springbootcode/SpringbootCodeApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/springboot-code/src/main/java/com/luokp/springbootcode/SpringbootCodeApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot-code/src/main/resources/application.properties" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/spring_boot_code/target/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -180,10 +162,11 @@
     <session id="85902894">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="9" />
+          <entry key="project.closed" value="12" />
           <entry key="project.open.time.1" value="1" />
           <entry key="project.open.time.10" value="1" />
           <entry key="project.open.time.11" value="3" />
+          <entry key="project.open.time.15" value="1" />
           <entry key="project.open.time.16" value="1" />
           <entry key="project.open.time.17" value="1" />
           <entry key="project.open.time.2" value="1" />
@@ -191,10 +174,12 @@
           <entry key="project.open.time.23" value="1" />
           <entry key="project.open.time.26" value="1" />
           <entry key="project.open.time.27" value="1" />
+          <entry key="project.open.time.3" value="2" />
+          <entry key="project.open.time.39" value="1" />
           <entry key="project.open.time.4" value="2" />
           <entry key="project.open.time.6" value="1" />
           <entry key="project.open.time.9" value="1" />
-          <entry key="project.opened" value="16" />
+          <entry key="project.opened" value="20" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -203,10 +188,10 @@
           <entry key="factories" value="1" />
           <entry key="html" value="7" />
           <entry key="iml" value="1" />
-          <entry key="java" value="196" />
+          <entry key="java" value="242" />
           <entry key="js" value="1" />
           <entry key="json" value="1" />
-          <entry key="properties" value="17" />
+          <entry key="properties" value="18" />
           <entry key="py" value="5" />
           <entry key="svg" value="1" />
           <entry key="xml" value="23" />
@@ -218,10 +203,10 @@
           <entry key="CLASS" value="8" />
           <entry key="HTML" value="7" />
           <entry key="IDEA_MODULE" value="1" />
-          <entry key="JAVA" value="196" />
+          <entry key="JAVA" value="242" />
           <entry key="JSON" value="1" />
           <entry key="JavaScript" value="1" />
-          <entry key="Properties" value="17" />
+          <entry key="Properties" value="18" />
           <entry key="Python" value="5" />
           <entry key="SVG" value="1" />
           <entry key="XML" value="23" />
@@ -231,20 +216,20 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="dummy" value="60" />
-          <entry key="java" value="14470" />
-          <entry key="properties" value="69" />
+          <entry key="dummy" value="72" />
+          <entry key="java" value="19342" />
+          <entry key="properties" value="74" />
           <entry key="py" value="718" />
-          <entry key="txt" value="3" />
+          <entry key="txt" value="6" />
           <entry key="xml" value="172" />
           <entry key="yml" value="186" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="14470" />
-          <entry key="PLAIN_TEXT" value="63" />
-          <entry key="Properties" value="69" />
+          <entry key="JAVA" value="19342" />
+          <entry key="PLAIN_TEXT" value="78" />
+          <entry key="Properties" value="74" />
           <entry key="Python" value="718" />
           <entry key="XML" value="172" />
           <entry key="YAML" value="186" />
@@ -259,65 +244,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/leetcode/src/main/java/com/luokp/LRUCache.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="126">
-              <caret line="97" column="30" selection-start-line="97" selection-start-column="30" selection-end-line="97" selection-end-column="30" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/leetcode/src/main/java/com/luokp/Test.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="289">
-              <caret line="50" column="40" selection-start-line="50" selection-start-column="40" selection-end-line="50" selection-end-column="40" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="method#compareVersion#0;class#Test#0" />
-                <element signature="method#trimPrifix0#0;class#Test#0" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/leetcode/src/main/java/com/luokp/Conbination.java">
+        <entry file="file://$PROJECT_DIR$/leetcode/src/main/java/com/luokp/_18Sum4.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="372">
-              <caret line="76" column="7" selection-start-line="76" selection-start-column="7" selection-end-line="84" selection-end-column="33" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/leetcode/src/main/java/com/luokp/Catalan.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/leetcode/src/main/java/com/luokp/Trie.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="326">
-              <caret line="34" column="9" lean-forward="true" selection-start-line="34" selection-start-column="9" selection-end-line="34" selection-end-column="9" />
-              <folding>
-                <element signature="e#430#431#0" expanded="true" />
-                <element signature="e#469#470#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/leetcode/src/main/java/com/luokp/QuickSort.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="403">
-              <caret line="72" column="9" lean-forward="true" selection-start-line="72" selection-start-column="9" selection-end-line="72" selection-end-column="9" />
+            <state relative-caret-position="624">
+              <caret line="153" column="47" lean-forward="true" selection-start-line="153" selection-start-column="47" selection-end-line="153" selection-end-column="47" />
             </state>
           </provider>
         </entry>
@@ -349,32 +280,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/mongodb/pom.xml" />
-        <option value="$PROJECT_DIR$/mongodb/src/test/java/com/luokp/mongodb/UserTest.java" />
-        <option value="$PROJECT_DIR$/python/support.py" />
-        <option value="$PROJECT_DIR$/python/test.py" />
-        <option value="$PROJECT_DIR$/python/exercise/1.py" />
-        <option value="$PROJECT_DIR$/python/exercise/2.py" />
-        <option value="$PROJECT_DIR$/mongodb/src/main/java/com/luokp/mongodb/dao/userDaoImpl.java" />
-        <option value="$PROJECT_DIR$/leetcode/src/main/java/com/luokp/Permutation.java" />
-        <option value="$PROJECT_DIR$/leetcode/src/main/java/com/luokp/_63uniquePath.java" />
-        <option value="$PROJECT_DIR$/leetcode/src/main/java/com/luokp/_71SimplifyPath.java" />
-        <option value="$PROJECT_DIR$/leetcode/src/main/java/com/luokp/_75SortColor.java" />
-        <option value="$PROJECT_DIR$/leetcode/src/main/java/com/luokp/_79SearchWord.java" />
-        <option value="$PROJECT_DIR$/leetcode/src/main/java/com/luokp/_80RemoveDuplication.java" />
-        <option value="$PROJECT_DIR$/leetcode/src/main/java/com/luokp/_91decodeWays.java" />
-        <option value="$PROJECT_DIR$/leetcode/src/main/java/com/luokp/models/TreeNode.java" />
-        <option value="$PROJECT_DIR$/leetcode/src/main/java/com/luokp/_113PathSUm.java" />
-        <option value="$PROJECT_DIR$/leetcode/src/main/java/com/luokp/_93restoreIP.java" />
-        <option value="$PROJECT_DIR$/leetcode/src/main/java/com/luokp/_130SurroundedRegions.java" />
-        <option value="$PROJECT_DIR$/leetcode/src/main/java/com/luokp/LongestCommonSubstring.java" />
-        <option value="$PROJECT_DIR$/leetcode/src/main/java/com/luokp/CoinsAndJumpStep.java" />
-        <option value="$PROJECT_DIR$/leetcode/src/main/java/com/luokp/_SingleNumber.java" />
-        <option value="$PROJECT_DIR$/auth-moduleA/src/main/resources/application.properties" />
-        <option value="$PROJECT_DIR$/auth-moduleB/src/main/resources/application.properties" />
-        <option value="$PROJECT_DIR$/auth-moduleC/pom.xml" />
-        <option value="$PROJECT_DIR$/auth-moduleB/pom.xml" />
-        <option value="$PROJECT_DIR$/auth-moduleA/pom.xml" />
         <option value="$PROJECT_DIR$/auth-moduleC/src/main/java/com/luokp/authmoduleC/controller/HelloController.java" />
         <option value="$PROJECT_DIR$/auth-web/src/main/java/com/luokp/authweb/configs/CasSecurityConfig.java" />
         <option value="$PROJECT_DIR$/auth-moduleC/src/main/java/com/luokp/authmoduleC/configs/CasSecurityConfig.java" />
@@ -398,8 +303,34 @@
         <option value="$PROJECT_DIR$/leetcode/src/main/java/com/luokp/DAG.java" />
         <option value="$PROJECT_DIR$/leetcode/src/main/java/com/luokp/_213HouseRobberII.java" />
         <option value="$PROJECT_DIR$/leetcode/src/main/java/com/luokp/QuickSort.java" />
-        <option value="$PROJECT_DIR$/leetcode/src/main/java/com/luokp/Test.java" />
+        <option value="$PROJECT_DIR$/springboot-code/src/main/java/com/luokp/springbootcode/controller/DynamicScheduledController.java" />
         <option value="$PROJECT_DIR$/leetcode/src/main/java/com/luokp/Conbination.java" />
+        <option value="$PROJECT_DIR$/leetcode/src/main/java/com/luokp/_221MaximalSquare.java" />
+        <option value="$PROJECT_DIR$/leetcode/src/main/java/com/luokp/_227BasicCaculatorII.java" />
+        <option value="$PROJECT_DIR$/spring-use/src/main/java/com/luokp/springcode/Define_annotation_aspect/MyLog.java" />
+        <option value="$PROJECT_DIR$/springboot-code/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/springboot-code/src/main/java/com/luokp/springbootcode/SpringbootCodeApplication.java" />
+        <option value="$PROJECT_DIR$/springboot-code/src/main/java/com/luokp/springbootcode/config/WebAppConfig.java" />
+        <option value="$PROJECT_DIR$/springboot-code/src/main/java/com/luokp/springbootcode/service/ScheduledForDynamicCron.java" />
+        <option value="$PROJECT_DIR$/springboot-code/src/main/resources/application-dev.properties" />
+        <option value="$PROJECT_DIR$/leetcode/src/main/java/com/luokp/_240SearchMatrix.java" />
+        <option value="$PROJECT_DIR$/leetcode/src/main/java/com/luokp/_241D.java" />
+        <option value="$PROJECT_DIR$/leetcode/src/main/java/com/luokp/Majority_vote_II.java" />
+        <option value="$PROJECT_DIR$/leetcode/src/main/java/com/luokp/Test.java" />
+        <option value="$PROJECT_DIR$/leetcode/src/main/java/com/luokp/ForTest.java" />
+        <option value="$PROJECT_DIR$/leetcode/src/main/java/com/luokp/models/_887EggDrop.java" />
+        <option value="$PROJECT_DIR$/leetcode/src/main/java/com/luokp/LIS.java" />
+        <option value="$PROJECT_DIR$/leetcode/src/main/java/com/luokp/_139WordBreak.java" />
+        <option value="$PROJECT_DIR$/leetcode/src/main/java/com/luokp/WordSearch.java" />
+        <option value="$PROJECT_DIR$/leetcode/src/main/java/com/luokp/MaxProduct.java" />
+        <option value="$PROJECT_DIR$/leetcode/src/main/java/com/luokp/Permutation.java" />
+        <option value="$PROJECT_DIR$/leetcode/src/main/java/com/luokp/IncreasingTriplet.java" />
+        <option value="$PROJECT_DIR$/leetcode/src/main/java/com/luokp/Median.java" />
+        <option value="$PROJECT_DIR$/leetcode/src/main/java/com/luokp/_378Kth.java" />
+        <option value="$PROJECT_DIR$/leetcode/src/main/java/com/luokp/_SlidingWindowMax.java" />
+        <option value="$PROJECT_DIR$/leetcode/src/main/java/com/luokp/ZforTest.java" />
+        <option value="$PROJECT_DIR$/leetcode/src/main/java/com/luokp/RandomizedSet.java" />
+        <option value="$PROJECT_DIR$/leetcode/src/main/java/com/luokp/_18Sum4.java" />
       </list>
     </option>
   </component>
@@ -456,6 +387,9 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -498,23 +432,10 @@
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="luokp" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="learnProjects" type="b2602c69:ProjectViewProjectNode" />
-              <item name="learnProjects" type="462c0819:PsiDirectoryNode" />
-              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="luokp" type="462c0819:PsiDirectoryNode" />
-              <item name="models" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
-      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -524,7 +445,7 @@
     <property name="RequestMappingsPanelWidth1" value="75" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1555898797126" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1557131796794" />
     <property name="jdk.selected.JAVA_MODULE" value="1.8" />
     <property name="jdk.selected.PYTHON_MODULE" value="Python 3.7" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/pom.xml" />
@@ -548,6 +469,7 @@
       <recent name="$PROJECT_DIR$/springboot-code/src/main/java/com/luokp/springbootcode" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.luokp.springbootcode.config" />
       <recent name="com.luokp.authweb.configs" />
       <recent name="com.luokp.mongodb" />
       <recent name="com.luokp.springsimulation.xmlReader" />
@@ -572,9 +494,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Conbination">
-    <configuration name="Conbination" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.luokp.Conbination" />
+  <component name="RunManager" selected="Application._18Sum4">
+    <configuration name="RandomizedSet" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.luokp.RandomizedSet" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
@@ -586,8 +508,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DAG" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.luokp.DAG" />
+    <configuration name="ZforTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.luokp.ZforTest" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
@@ -599,8 +521,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="QuickSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.luokp.QuickSort" />
+    <configuration name="_18Sum4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.luokp._18Sum4" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
@@ -612,8 +534,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.luokp.Test" />
+    <configuration name="_378Kth" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.luokp._378Kth" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
@@ -625,8 +547,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_213HouseRobberII" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.luokp._213HouseRobberII" />
+    <configuration name="_SlidingWindowMax" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.luokp._SlidingWindowMax" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
@@ -660,54 +582,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="A" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
-      <module name="auth-moduleA" />
-      <option name="SPRING_BOOT_MAIN_CLASS" value="com.luokp.authmoduleA.AuthModuleApplication" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="AuthWebApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
-      <module name="auth-web" />
-      <option name="SPRING_BOOT_MAIN_CLASS" value="com.luokp.authweb.AuthWebApplication" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="B" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
-      <module name="auth-moduleB" />
-      <option name="SPRING_BOOT_MAIN_CLASS" value="com.luokp.authmoduleB.AuthModuleApplication" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="C" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
-      <module name="auth-moduleC" />
-      <option name="SPRING_BOOT_MAIN_CLASS" value="com.luokp.authmoduleC.AuthModuleCApplication" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SpringCodeApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
-      <module name="spring-use" />
-      <option name="SPRING_BOOT_MAIN_CLASS" value="com.luokp.springcode.SpringCodeApplication" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="mongodbTest" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
-      <module name="mongodb" />
-      <option name="SPRING_BOOT_MAIN_CLASS" value="com.luokp.mongodb.MongoDBApplication" />
-      <option name="ACTIVE_PROFILES" value="dev" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="spring-boot-le" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+    <configuration name="springbootcode" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="springboot-code" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.luokp.springbootcode.SpringbootCodeApplication" />
       <option name="ALTERNATIVE_JRE_PATH" />
@@ -717,26 +592,20 @@
     </configuration>
     <list>
       <item itemvalue="Python.pythonTest" />
-      <item itemvalue="Spring Boot.mongodbTest" />
-      <item itemvalue="Spring Boot.spring-boot-le" />
-      <item itemvalue="Spring Boot.SpringCodeApplication" />
-      <item itemvalue="Spring Boot.AuthWebApplication" />
-      <item itemvalue="Spring Boot.C" />
-      <item itemvalue="Spring Boot.B" />
-      <item itemvalue="Spring Boot.A" />
-      <item itemvalue="Application.Test" />
-      <item itemvalue="Application.DAG" />
-      <item itemvalue="Application._213HouseRobberII" />
-      <item itemvalue="Application.QuickSort" />
-      <item itemvalue="Application.Conbination" />
+      <item itemvalue="Spring Boot.springbootcode" />
+      <item itemvalue="Application._378Kth" />
+      <item itemvalue="Application.ZforTest" />
+      <item itemvalue="Application._SlidingWindowMax" />
+      <item itemvalue="Application.RandomizedSet" />
+      <item itemvalue="Application._18Sum4" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Conbination" />
-        <item itemvalue="Application.Test" />
-        <item itemvalue="Application.QuickSort" />
-        <item itemvalue="Application._213HouseRobberII" />
-        <item itemvalue="Application.DAG" />
+        <item itemvalue="Application._18Sum4" />
+        <item itemvalue="Application.RandomizedSet" />
+        <item itemvalue="Application.ZforTest" />
+        <item itemvalue="Application._SlidingWindowMax" />
+        <item itemvalue="Application._378Kth" />
       </list>
     </recent_temporary>
   </component>
@@ -766,7 +635,11 @@
       <workItem from="1554694143291" duration="227000" />
       <workItem from="1554805787893" duration="9349000" />
       <workItem from="1555075856563" duration="13173000" />
-      <workItem from="1555256341794" duration="17254000" />
+      <workItem from="1555256341794" duration="28339000" />
+      <workItem from="1556178400330" duration="12620000" />
+      <workItem from="1556250280936" duration="27518000" />
+      <workItem from="1556780123602" duration="12133000" />
+      <workItem from="1557068140503" duration="5361000" />
     </task>
     <servers />
   </component>
@@ -803,7 +676,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="181387000" />
+    <option name="totallyTimeSpent" value="250104000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -818,7 +691,7 @@
     <frame x="-295" y="-1080" width="1920" height="1080" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.15015975" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.22097977" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -826,22 +699,22 @@
       <window_info id="Favorites" order="5" side_tool="true" />
       <window_info id="Capture Tool" order="6" />
       <window_info id="Web" order="7" side_tool="true" />
-      <window_info anchor="bottom" id="Inspection Results" weight="0.32891566" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.32871288" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.24851485" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.31445783" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32771084" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3019802" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.36534652" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32970297" />
       <window_info anchor="bottom" id="Spring" order="7" />
       <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.49928468" weight="0.35148516" />
       <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5007153" side_tool="true" weight="0.32876712" />
-      <window_info anchor="bottom" id="Messages" order="10" weight="0.32289156" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.32079208" />
       <window_info anchor="bottom" id="Java Enterprise" order="11" />
       <window_info anchor="bottom" id="Database Changes" order="12" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="13" />
       <window_info anchor="bottom" id="JProfiler" order="14" />
+      <window_info anchor="bottom" id="Inspection Results" order="15" weight="0.32891566" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -925,7 +798,7 @@
           <option name="timeStamp" value="19" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/leetcode/src/main/java/com/luokp/Remove_element_27.java</url>
+          <url>file://$PROJECT_DIR$/leetcode/src/main/java/com/luokp/_27Remove_element.java</url>
           <line>34</line>
           <properties />
           <option name="timeStamp" value="20" />
@@ -962,7 +835,7 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/leetcode/src/main/java/com/luokp/Permutation.java</url>
-          <line>96</line>
+          <line>97</line>
           <properties />
           <option name="timeStamp" value="48" />
         </line-breakpoint>
@@ -1087,8 +960,8 @@
           <option name="timeStamp" value="125" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/leetcode/src/main/java/com/luokp/Test.java</url>
-          <line>20</line>
+          <url>file://$PROJECT_DIR$/leetcode/src/main/java/com/luokp/LIS.java</url>
+          <line>18</line>
           <properties />
           <option name="timeStamp" value="132" />
         </line-breakpoint>
@@ -1110,461 +983,154 @@
           <properties />
           <option name="timeStamp" value="141" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/leetcode/src/main/java/com/luokp/Conbination.java</url>
+          <line>81</line>
+          <properties />
+          <option name="timeStamp" value="144" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/leetcode/src/main/java/com/luokp/_221MaximalSquare.java</url>
+          <line>40</line>
+          <properties />
+          <option name="timeStamp" value="148" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/leetcode/src/main/java/com/luokp/_227BasicCaculatorII.java</url>
+          <line>18</line>
+          <properties />
+          <option name="timeStamp" value="149" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/leetcode/src/main/java/com/luokp/_227BasicCaculatorII.java</url>
+          <line>72</line>
+          <properties />
+          <option name="timeStamp" value="152" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/leetcode/src/main/java/com/luokp/_227BasicCaculatorII.java</url>
+          <line>99</line>
+          <properties />
+          <option name="timeStamp" value="154" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/leetcode/src/main/java/com/luokp/Majority_vote_II.java</url>
+          <line>49</line>
+          <properties />
+          <option name="timeStamp" value="156" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/leetcode/src/main/java/com/luokp/Majority_vote_II.java</url>
+          <line>23</line>
+          <properties />
+          <option name="timeStamp" value="157" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/leetcode/src/main/java/com/luokp/_240SearchMatrix.java</url>
+          <line>46</line>
+          <properties />
+          <option name="timeStamp" value="159" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/leetcode/src/main/java/com/luokp/_240SearchMatrix.java</url>
+          <line>60</line>
+          <properties />
+          <option name="timeStamp" value="160" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/leetcode/src/main/java/com/luokp/Median.java</url>
+          <line>24</line>
+          <properties />
+          <option name="timeStamp" value="163" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/leetcode/src/main/java/com/luokp/LIS.java</url>
+          <line>55</line>
+          <properties />
+          <option name="timeStamp" value="164" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/leetcode/src/main/java/com/luokp/_887EggDrop.java</url>
+          <line>21</line>
+          <properties />
+          <option name="timeStamp" value="172" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/leetcode/src/main/java/com/luokp/LIS.java</url>
+          <line>102</line>
+          <properties />
+          <option name="timeStamp" value="175" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/leetcode/src/main/java/com/luokp/_139WordBreak.java</url>
+          <line>106</line>
+          <properties />
+          <option name="timeStamp" value="179" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/leetcode/src/main/java/com/luokp/WordSearch.java</url>
+          <line>20</line>
+          <properties />
+          <option name="timeStamp" value="181" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/leetcode/src/main/java/com/luokp/MaxProduct.java</url>
+          <line>17</line>
+          <properties />
+          <option name="timeStamp" value="182" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/leetcode/src/main/java/com/luokp/MaxProduct.java</url>
+          <line>12</line>
+          <properties />
+          <option name="timeStamp" value="183" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/leetcode/src/main/java/com/luokp/_378Kth.java</url>
+          <line>17</line>
+          <properties />
+          <option name="timeStamp" value="189" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/leetcode/src/main/java/com/luokp/ZforTest.java</url>
+          <line>11</line>
+          <properties />
+          <option name="timeStamp" value="190" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/leetcode/src/main/java/com/luokp/_SlidingWindowMax.java</url>
+          <line>16</line>
+          <properties />
+          <option name="timeStamp" value="191" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/leetcode/src/main/java/com/luokp/ZforTest.java</url>
+          <line>18</line>
+          <properties />
+          <option name="timeStamp" value="192" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/src.zip!/java/util/LinkedList.java</url>
+          <line>883</line>
+          <properties />
+          <option name="timeStamp" value="193" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/leetcode/src/main/java/com/luokp/_18Sum4.java</url>
+          <line>89</line>
+          <properties />
+          <option name="timeStamp" value="197" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/leetcode/src/main/java/com/luokp/_93restoreIP.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1241">
-          <caret line="74" column="5" selection-start-line="74" selection-start-column="5" selection-end-line="74" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/leetcode/src/main/java/com/luokp/_113PathSUm.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="22" column="24" selection-start-line="22" selection-start-column="24" selection-end-line="22" selection-end-column="24" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/leetcode/src/main/java/com/luokp/_130SurroundedRegions.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="561">
-          <caret line="33" column="36" selection-start-line="33" selection-start-column="36" selection-end-line="33" selection-end-column="36" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/src.zip!/java/util/Queue.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1870">
-          <caret line="143" column="17" selection-start-line="143" selection-start-column="17" selection-end-line="143" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/auth-moduleA/src/main/java/com/luokp/springbootcode/dao/EmployeeDao.java" />
-    <entry file="file://$PROJECT_DIR$/auth-moduleB/src/main/java/com/luokp/springbootcode/dao/EmployeeDao.java" />
-    <entry file="file://$PROJECT_DIR$/auth-moduleA/src/main/java/com/luokp/authmoduleA/AuthModuleApplication.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/auth-moduleA/src/main/resources/application.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/auth-moduleB/src/main/resources/application.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="16" selection-start-column="16" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/leetcode/src/main/java/com/luokp/_SingleNumber.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="17" selection-start-line="3" selection-start-column="17" selection-end-line="3" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/leetcode/src/main/java/com/luokp/models/ListNode.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="18" column="37" selection-start-line="18" selection-start-column="37" selection-end-line="18" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/src.zip!/java/lang/AbstractStringBuilder.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="929">
-          <caret line="753" column="33" selection-start-line="753" selection-start-column="33" selection-end-line="753" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/leetcode/src/main/java/com/luokp/_79SearchWord.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="476">
-          <caret line="64" column="5" selection-start-line="28" selection-start-column="4" selection-end-line="64" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="method#walk#0;class#_79SearchWord#0" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/auth-moduleC/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="24" column="21" selection-start-line="24" selection-start-column="21" selection-end-line="24" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/auth-moduleB/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="24" column="21" selection-start-line="24" selection-start-column="21" selection-end-line="24" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/auth-moduleA/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="21" column="20" selection-start-line="21" selection-start-column="20" selection-end-line="21" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/security/spring-security-config/5.1.5.RELEASE/spring-security-config-5.1.5.RELEASE.jar!/org/springframework/security/config/annotation/web/configuration/WebSecurityConfigurerAdapter.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="722">
-          <caret line="118" selection-start-line="118" selection-end-line="118" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/auth-moduleC/src/main/java/com/luokp/authmoduleC/configs/WebSecurityConfig.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/auth-moduleC/src/main/java/com/luokp/authmoduleC/AuthModuleCApplication.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/auth-web/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="406">
-          <caret line="50" column="61" selection-start-line="50" selection-start-column="61" selection-end-line="50" selection-end-column="61" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/auth-moduleC/src/main/resources/application.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/auth-moduleC/src/main/java/com/luokp/authmoduleC/configs/CasSecurityConfig.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="37" column="59" selection-start-line="37" selection-start-column="59" selection-end-line="37" selection-end-column="59" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/auth-moduleC/src/main/java/com/luokp/authmoduleC/controller/HelloController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="19" selection-start-line="19" selection-end-line="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/auth-web/src/main/java/com/luokp/authweb/configs/RestTemplateProperty.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="9" column="35" selection-start-line="9" selection-start-column="35" selection-end-line="9" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/auth-web/src/main/java/com/luokp/authweb/configs/RestTemplateAutoConfiguration.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="22" column="52" selection-start-line="22" selection-start-column="52" selection-end-line="22" selection-end-column="52" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/auth-web/src/main/java/com/luokp/authweb/configs/CasSecurityConfig.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="215">
-          <caret line="37" column="59" selection-start-line="37" selection-start-column="59" selection-end-line="37" selection-end-column="59" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/auth-web/src/main/java/com/luokp/authweb/configs/WebSecurityConfig.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="265">
-          <caret line="56" column="56" selection-start-line="56" selection-start-column="56" selection-end-line="56" selection-end-column="56" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/auth-web/src/main/java/com/luokp/authweb/AuthWebApplication.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/auth-web/src/main/resources/application.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" column="22" lean-forward="true" selection-start-line="1" selection-start-column="22" selection-end-line="1" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/auth-web/src/main/java/com/luokp/authweb/controller/HelloController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="425">
-          <caret line="25" selection-start-line="25" selection-end-line="25" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#501#502#0" expanded="true" />
-            <element signature="e#531#532#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/leetcode/src/main/java/com/luokp/_15Sum3.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1360">
-          <caret line="86" column="19" selection-start-line="86" selection-start-column="19" selection-end-line="86" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/src.zip!/java/util/Stack.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="137" selection-start-line="137" selection-end-line="137" />
-          <folding>
-            <element signature="docComment;class#Stack#0" />
-            <element signature="docComment;method#Stack#0;class#Stack#0" />
-            <element signature="method#Stack#0;class#Stack#0" />
-            <element signature="docComment;method#push#0;class#Stack#0" />
-            <element signature="method#push#0;class#Stack#0" />
-            <element signature="docComment;method#pop#0;class#Stack#0" />
-            <element signature="method#pop#0;class#Stack#0" />
-            <element signature="docComment;method#peek#0;class#Stack#0" />
-            <element signature="method#peek#0;class#Stack#0" />
-            <element signature="docComment;method#empty#0;class#Stack#0" />
-            <element signature="docComment;method#search#0;class#Stack#0" />
-            <element signature="method#search#0;class#Stack#0" />
-            <element signature="docComment;field#serialVersionUID#0;class#Stack#0" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/src.zip!/java/lang/String.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="431">
-          <caret line="1706" column="73" lean-forward="true" selection-start-line="1706" selection-start-column="73" selection-end-line="1706" selection-end-column="73" />
-          <folding>
-            <element signature="docComment;class#String#0" />
-            <element signature="e#3700#3747#0" />
-            <element signature="e#3785#3826#0" />
-            <element signature="e#3870#3933#0" />
-            <element signature="e#4011#4334#0" />
-            <element signature="e#4444#4656#0" />
-            <element signature="e#4721#5149#0" />
-            <element signature="e#4721#5264#0" />
-            <element signature="e#5270#5654#0" />
-            <element signature="e#5757#6587#0" />
-            <element signature="e#5757#7264#0" />
-            <element signature="e#7270#8368#0" />
-            <element signature="e#7270#9771#0" />
-            <element signature="e#9777#11248#0" />
-            <element signature="e#9777#11780#0" />
-            <element signature="e#11786#13037#0" />
-            <element signature="e#13157#13700#0" />
-            <element signature="e#13706#14940#0" />
-            <element signature="e#13706#15286#0" />
-            <element signature="e#15292#16497#0" />
-            <element signature="e#15292#16781#0" />
-            <element signature="e#16787#17713#0" />
-            <element signature="e#16787#17872#0" />
-            <element signature="e#17878#18731#0" />
-            <element signature="e#18841#19856#0" />
-            <element signature="e#18841#20029#0" />
-            <element signature="e#20035#20694#0" />
-            <element signature="e#20778#21132#0" />
-            <element signature="e#20778#21296#0" />
-            <element signature="e#21302#21919#0" />
-            <element signature="e#22048#22472#0" />
-            <element signature="e#22478#22761#0" />
-            <element signature="e#22828#23042#0" />
-            <element signature="e#23119#23966#0" />
-            <element signature="e#23119#24163#0" />
-            <element signature="e#24169#25201#0" />
-            <element signature="e#24169#25443#0" />
-            <element signature="e#25449#26509#0" />
-            <element signature="e#25449#26767#0" />
-            <element signature="e#26773#27718#0" />
-            <element signature="e#26773#28016#0" />
-            <element signature="e#28022#28977#0" />
-            <element signature="e#28022#29274#0" />
-            <element signature="e#29280#29417#0" />
-            <element signature="e#29540#30955#0" />
-            <element signature="e#29540#31447#0" />
-            <element signature="e#31453#33315#0" />
-            <element signature="e#31453#33992#0" />
-            <element signature="e#33998#34722#0" />
-            <element signature="e#33998#34965#0" />
-            <element signature="e#34971#35670#0" />
-            <element signature="e#34971#35854#0" />
-            <element signature="e#35860#36363#0" />
-            <element signature="e#36466#37047#0" />
-            <element signature="e#36466#37687#0" />
-            <element signature="e#37693#38318#0" />
-            <element signature="e#38430#38804#0" />
-            <element signature="e#38810#39454#0" />
-            <element signature="e#38810#40338#0" />
-            <element signature="e#40344#41530#0" />
-            <element signature="e#40344#41823#0" />
-            <element signature="e#41829#44159#0" />
-            <element signature="e#41829#44635#0" />
-            <element signature="e#44641#45130#0" />
-            <element signature="e#45277#46503#0" />
-            <element signature="e#45542#46374#0" />
-            <element signature="e#46384#46425#0" />
-            <element signature="e#46384#46497#0" />
-            <element signature="e#46509#47490#0" />
-            <element signature="e#47609#49187#0" />
-            <element signature="e#47609#49808#0" />
-            <element signature="e#49814#52281#0" />
-            <element signature="e#49814#53851#0" />
-            <element signature="e#52980#53033#0" />
-            <element signature="e#53402#53466#0" />
-            <element signature="e#53857#54666#0" />
-            <element signature="e#53857#55165#0" />
-            <element signature="e#55171#55754#0" />
-            <element signature="e#55851#56393#0" />
-            <element signature="e#56521#57047#0" />
-            <element signature="e#56521#57332#0" />
-            <element signature="e#57338#58449#0" />
-            <element signature="e#58525#60435#0" />
-            <element signature="e#58525#61190#0" />
-            <element signature="e#60775#60829#0" />
-            <element signature="e#61196#61278#0" />
-            <element signature="e#61196#61799#0" />
-            <element signature="e#61805#62824#0" />
-            <element signature="e#62923#64678#0" />
-            <element signature="e#62923#65262#0" />
-            <element signature="e#64802#64856#0" />
-            <element signature="e#65268#65354#0" />
-            <element signature="e#65268#65862#0" />
-            <element signature="e#65868#66421#0" />
-            <element signature="e#67420#67925#0" />
-            <element signature="e#67420#68202#0" />
-            <element signature="e#68208#68819#0" />
-            <element signature="e#68208#70037#0" />
-            <element signature="e#70043#70709#0" />
-            <element signature="e#70809#71583#0" />
-            <element signature="e#70809#71756#0" />
-            <element signature="e#71762#72267#0" />
-            <element signature="e#71762#72552#0" />
-            <element signature="e#72558#73169#0" />
-            <element signature="e#72558#74562#0" />
-            <element signature="e#74568#75272#0" />
-            <element signature="e#74568#75659#0" />
-            <element signature="e#75665#76604#0" />
-            <element signature="e#75665#77163#0" />
-            <element signature="e#77169#78173#0" />
-            <element signature="e#78306#79225#0" />
-            <element signature="e#78306#79532#0" />
-            <element signature="e#79538#80862#0" />
-            <element signature="e#79538#81647#0" />
-            <element signature="e#81653#82574#0" />
-            <element signature="e#82674#82926#0" />
-            <element signature="e#83027#84633#0" />
-            <element signature="e#83027#84785#0" />
-            <element signature="e#84791#86398#0" />
-            <element signature="e#84791#86546#0" />
-            <element signature="e#86552#87086#0" />
-            <element signature="e#86552#87327#0" />
-            <element signature="e#87333#91079#0" />
-            <element signature="e#87333#93209#0" />
-            <element signature="e#92274#92285#0" />
-            <element signature="e#93215#94557#0" />
-            <element signature="e#94643#95535#0" />
-            <element signature="e#94643#95952#0" />
-            <element signature="e#95958#97446#0" />
-            <element signature="e#95958#97821#0" />
-            <element signature="e#97827#100104#0" />
-            <element signature="e#97827#103722#0" />
-            <element signature="e#103728#104642#0" />
-            <element signature="e#104737#106571#0" />
-            <element signature="e#104737#110235#0" />
-            <element signature="e#110241#111163#0" />
-            <element signature="e#111258#112802#0" />
-            <element signature="e#111258#113186#0" />
-            <element signature="e#113192#113313#0" />
-            <element signature="e#113377#113670#0" />
-            <element signature="e#113377#113923#0" />
-            <element signature="e#113929#115524#0" />
-            <element signature="e#113929#115659#0" />
-            <element signature="e#115665#117339#0" />
-            <element signature="e#115665#117485#0" />
-            <element signature="e#117491#117847#0" />
-            <element signature="e#117962#118358#0" />
-            <element signature="e#118451#119386#0" />
-            <element signature="e#119517#120085#0" />
-            <element signature="e#120220#120431#0" />
-            <element signature="e#120528#120844#0" />
-            <element signature="e#120939#121191#0" />
-            <element signature="e#120939#121306#0" />
-            <element signature="e#121312#121686#0" />
-            <element signature="e#121776#122142#0" />
-            <element signature="e#122230#122602#0" />
-            <element signature="e#122692#123071#0" />
-            <element signature="e#123163#124273#0" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/leetcode/src/test/java/com/luokp/Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="20" selection-start-line="20" selection-end-line="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/leetcode/src/main/java/com/luokp/_148SortLinkedList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="500">
-          <caret line="106" column="5" lean-forward="true" selection-start-line="106" selection-start-column="5" selection-end-line="106" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/leetcode/src/main/java/com/luokp/LRUCache.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="97" column="30" selection-start-line="97" selection-start-column="30" selection-end-line="97" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/leetcode/src/main/java/com/luokp/ReverseList.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="466">
           <caret line="58" column="20" lean-forward="true" selection-start-line="58" selection-start-column="20" selection-end-line="58" selection-end-column="20" />
           <folding>
             <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/leetcode/src/main/java/com/luokp/Polish.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="49" column="8" selection-start-line="49" selection-start-column="8" selection-end-line="53" selection-end-column="47" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="method#evalRPN#0;class#Polish#0" />
           </folding>
         </state>
       </provider>
@@ -1580,13 +1146,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="483">
           <caret line="48" column="32" lean-forward="true" selection-start-line="48" selection-start-column="32" selection-end-line="48" selection-end-column="32" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#893#894#0" expanded="true" />
-            <element signature="e#928#929#0" expanded="true" />
-            <element signature="e#1018#1019#0" expanded="true" />
-            <element signature="e#1055#1056#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1597,14 +1156,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/leetcode/src/main/java/com/luokp/Permutation.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="310">
-          <caret line="67" column="4" selection-start-line="67" selection-start-column="4" selection-end-line="71" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/leetcode/src/main/java/com/luokp/Remove_element_27.java">
+    <entry file="file://$PROJECT_DIR$/leetcode/src/main/java/com/luokp/_27Remove_element.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
           <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
@@ -1632,33 +1184,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/leetcode/src/main/java/com/luokp/Trie.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="326">
-          <caret line="34" column="9" lean-forward="true" selection-start-line="34" selection-start-column="9" selection-end-line="34" selection-end-column="9" />
-          <folding>
-            <element signature="e#430#431#0" expanded="true" />
-            <element signature="e#469#470#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/leetcode/src/main/java/com/luokp/QuickSort.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="403">
           <caret line="72" column="9" lean-forward="true" selection-start-line="72" selection-start-column="9" selection-end-line="72" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/leetcode/src/main/java/com/luokp/Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="50" column="40" selection-start-line="50" selection-start-column="40" selection-end-line="50" selection-end-column="40" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="method#compareVersion#0;class#Test#0" />
-            <element signature="method#trimPrifix0#0;class#Test#0" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1671,8 +1200,583 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/leetcode/src/main/java/com/luokp/Conbination.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="372">
-          <caret line="76" column="7" selection-start-line="76" selection-start-column="7" selection-end-line="84" selection-end-column="33" />
+        <state relative-caret-position="493">
+          <caret line="29" column="8" selection-start-line="29" selection-start-column="8" selection-end-line="29" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-use/src/main/java/com/luokp/springcode/Define_annotation_aspect/MyLog.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="3" selection-start-line="6" selection-start-column="3" selection-end-line="6" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leetcode/src/main/java/com/luokp/_221MaximalSquare.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="680">
+          <caret line="40" selection-start-line="40" selection-end-line="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leetcode/src/main/java/com/luokp/_227BasicCaculatorII.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2346">
+          <caret line="138" selection-start-line="138" selection-end-line="138" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springboot-code/src/main/java/com/luokp/springbootcode/controller/DynamicScheduledController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="19" column="23" selection-start-line="19" selection-start-column="23" selection-end-line="19" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springboot-code/src/main/java/com/luokp/springbootcode/SpringbootCodeApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="9" column="17" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springboot-code/src/main/java/com/luokp/springbootcode/config/MyMvcConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springboot-code/src/main/java/com/luokp/springbootcode/config/WebAppConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="23" selection-start-line="23" selection-end-line="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springboot-code/src/main/java/com/luokp/springbootcode/controller/HelloController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springboot-code/src/main/java/com/luokp/springbootcode/service/ScheduledForDynamicCron.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="544">
+          <caret line="32" column="54" selection-start-line="32" selection-start-column="54" selection-end-line="32" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springboot-code/src/main/resources/application-dev.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leetcode/src/main/java/com/luokp/_240SearchMatrix.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="461">
+          <caret line="82" selection-start-line="82" selection-end-line="82" />
+          <folding>
+            <element signature="method#search#0;class#_240SearchMatrix#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/src.zip!/javax/script/ScriptEngine.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-336">
+          <caret line="50" column="17" selection-start-line="50" selection-start-column="17" selection-end-line="50" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leetcode/src/main/java/com/luokp/_241D.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="141">
+          <caret line="13" column="4" selection-start-line="13" selection-start-column="4" selection-end-line="43" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#diffWaysToCompute#0;class#_241D#0" />
+            <element signature="method#calculate#0;class#_241D#0" />
+            <element signature="method#insertParenthese#0;class#_241D#0" />
+            <element signature="method#containsOperater#0;class#_241D#0" />
+            <element signature="method#hasOneOperater#0;class#_241D#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leetcode/src/main/java/com/luokp/Majority_vote_II.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="341">
+          <caret line="37" column="13" selection-start-line="37" selection-start-column="13" selection-end-line="37" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/src.zip!/java/util/Arrays.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="617">
+          <caret line="1898" column="31" lean-forward="true" selection-start-line="1898" selection-start-column="31" selection-end-line="1898" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leetcode/src/main/java/com/luokp/_887EggDrop.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="27" column="5" lean-forward="true" selection-start-line="27" selection-start-column="5" selection-end-line="27" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leetcode/src/main/java/com/luokp/LIS.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1666">
+          <caret line="131" column="43" selection-start-line="131" selection-start-column="43" selection-end-line="131" selection-end-column="43" />
+          <folding>
+            <element signature="method#compareVersion#0;class#Test#0" />
+            <element signature="method#trimPrifix0#0;class#Test#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/src.zip!/java/lang/AbstractStringBuilder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="183">
+          <caret line="748" column="31" lean-forward="true" selection-start-line="748" selection-start-column="31" selection-end-line="748" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/src.zip!/java/util/Collection.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-5058">
+          <caret line="143" column="17" selection-start-line="143" selection-start-column="17" selection-end-line="143" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/src.zip!/java/lang/StringBuilder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3774">
+          <caret line="251" column="37" selection-start-line="251" selection-start-column="25" selection-end-line="251" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leetcode/src/main/java/com/luokp/_139WordBreak.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1683">
+          <caret line="115" column="5" selection-start-line="115" selection-start-column="5" selection-end-line="115" selection-end-column="5" />
+          <folding>
+            <element signature="method#wordBreakC#0;class#_139WordBreak#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leetcode/src/main/java/com/luokp/Trie.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="326">
+          <caret line="34" column="9" selection-start-line="34" selection-start-column="9" selection-end-line="34" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leetcode/src/main/java/com/luokp/MaxProduct.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" column="55" selection-start-line="21" selection-start-column="55" selection-end-line="21" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leetcode/src/main/java/com/luokp/WordSearch.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="41" selection-start-line="12" selection-start-column="41" selection-end-line="12" selection-end-column="41" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#dfsAndTrie#0;class#WordSearch#0" />
+            <element signature="method#outOfBounds#0;class#WordSearch#0" />
+            <element signature="class#TrieNode#0;class#WordSearch#0" />
+            <element signature="class#Trie#0;class#WordSearch#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/src.zip!/java/util/ArrayList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="164" column="11" selection-start-line="164" selection-start-column="11" selection-end-line="164" selection-end-column="11" />
+          <folding>
+            <element signature="docComment;class#ArrayList#0" />
+            <element signature="e#4467#4511#0" />
+            <element signature="e#4569#4641#0" />
+            <element signature="e#4705#4905#0" />
+            <element signature="e#4985#5304#0" />
+            <element signature="e#5393#5497#0" />
+            <element signature="e#5525#5778#0" />
+            <element signature="e#5525#6177#0" />
+            <element signature="e#6183#6259#0" />
+            <element signature="e#6283#6284#0" expanded="true" />
+            <element signature="e#6351#6352#0" expanded="true" />
+            <element signature="e#6358#6679#0" />
+            <element signature="e#6358#7153#0" />
+            <element signature="e#7159#7375#0" />
+            <element signature="e#7159#7605#0" />
+            <element signature="e#7611#7886#0" />
+            <element signature="e#7611#8337#0" />
+            <element signature="e#8093#8153#0" />
+            <element signature="e#8343#8592#0" />
+            <element signature="e#8598#8735#0" />
+            <element signature="e#8741#8938#0" />
+            <element signature="e#8944#9175#0" />
+            <element signature="e#9250#9463#0" />
+            <element signature="e#9250#9962#0" />
+            <element signature="e#9968#10215#0" />
+            <element signature="e#10221#10342#0" />
+            <element signature="e#10399#10544#0" />
+            <element signature="e#10613#11044#0" />
+            <element signature="e#11128#11472#0" />
+            <element signature="e#11128#11818#0" />
+            <element signature="e#11824#12168#0" />
+            <element signature="e#11824#12524#0" />
+            <element signature="e#12530#12724#0" />
+            <element signature="e#12530#13103#0" />
+            <element signature="e#13109#13686#0" />
+            <element signature="e#13779#15109#0" />
+            <element signature="e#13779#15487#0" />
+            <element signature="e#15642#15900#0" />
+            <element signature="e#15642#15999#0" />
+            <element signature="e#16005#16365#0" />
+            <element signature="e#16005#16544#0" />
+            <element signature="e#16550#16752#0" />
+            <element signature="e#16550#16910#0" />
+            <element signature="e#16916#17325#0" />
+            <element signature="e#16916#17640#0" />
+            <element signature="e#17646#17996#0" />
+            <element signature="e#17646#18396#0" />
+            <element signature="e#18402#19077#0" />
+            <element signature="e#18402#19587#0" />
+            <element signature="e#19593#20017#0" />
+            <element signature="e#20023#20141#0" />
+            <element signature="e#20023#20326#0" />
+            <element signature="e#20332#21024#0" />
+            <element signature="e#20332#21332#0" />
+            <element signature="e#21338#22134#0" />
+            <element signature="e#21338#22671#0" />
+            <element signature="e#22677#23323#0" />
+            <element signature="e#22677#23762#0" />
+            <element signature="e#23768#24077#0" />
+            <element signature="e#23768#24223#0" />
+            <element signature="e#24229#24295#0" />
+            <element signature="e#24229#24459#0" />
+            <element signature="e#24465#24679#0" />
+            <element signature="e#24786#25575#0" />
+            <element signature="e#24786#25702#0" />
+            <element signature="e#25708#26611#0" />
+            <element signature="e#25708#26737#0" />
+            <element signature="e#26743#27761#0" />
+            <element signature="e#27122#27183#0" />
+            <element signature="e#27767#28104#0" />
+            <element signature="e#27767#28701#0" />
+            <element signature="e#28707#28818#0" />
+            <element signature="e#28707#29616#0" />
+            <element signature="e#29622#30196#0" />
+            <element signature="e#30401#30631#0" />
+            <element signature="e#30718#30976#0" />
+            <element signature="e#31050#31109#0" />
+            <element signature="e#31368#31369#0" expanded="true" />
+            <element signature="e#31413#31414#0" expanded="true" />
+            <element signature="e#32351#32360#0" />
+            <element signature="e#32351#33156#0" />
+            <element signature="e#33166#33320#0" />
+            <element signature="e#33332#33395#0" />
+            <element signature="e#33792#34245#0" />
+            <element signature="e#34255#34600#0" />
+            <element signature="e#34610#35008#0" />
+            <element signature="e#35020#36620#0" />
+            <element signature="e#35020#36793#0" />
+            <element signature="e#36799#37266#0" />
+            <element signature="e#37272#45603#0" />
+            <element signature="e#37491#37811#0" />
+            <element signature="e#37821#38088#0" />
+            <element signature="e#38098#38265#0" />
+            <element signature="e#38275#38372#0" />
+            <element signature="e#38382#38619#0" />
+            <element signature="e#38629#38893#0" />
+            <element signature="e#38903#39211#0" />
+            <element signature="e#39332#39723#0" />
+            <element signature="e#39819#44489#0" />
+            <element signature="class#40017:44478" />
+            <element signature="method#next#0;class#40017:44478" />
+            <element signature="method#previous#0;class#40017:44478" />
+            <element signature="method#forEachRemaining#0;class#40017:44478" />
+            <element signature="method#remove#0;class#40017:44478" />
+            <element signature="method#set#0;class#40017:44478" />
+            <element signature="method#add#0;class#40017:44478" />
+            <element signature="method#checkForComodification#0;class#40017:44478" />
+            <element signature="e#44499#44684#0" />
+            <element signature="e#44694#44865#0" />
+            <element signature="e#44875#45051#0" />
+            <element signature="e#45180#45348#0" />
+            <element signature="e#45358#45597#0" />
+            <element signature="e#45609#46131#0" />
+            <element signature="e#46137#46662#0" />
+            <element signature="e#46789#46852#0" />
+            <element signature="e#46789#52024#0" />
+            <element signature="e#49097#49152#0" />
+            <element signature="e#49097#49466#0" />
+            <element signature="e#49476#49942#0" />
+            <element signature="e#49952#50284#0" />
+            <element signature="e#50294#50842#0" />
+            <element signature="e#50852#51789#0" />
+            <element signature="e#52030#53627#0" />
+            <element signature="e#52147#52193#0" />
+            <element signature="e#53633#53642#0" />
+            <element signature="e#53633#54141#0" />
+            <element signature="e#54147#54156#0" />
+            <element signature="e#54147#54475#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leetcode/src/main/java/com/luokp/Permutation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="203">
+          <caret line="54" column="12" selection-start-line="54" selection-start-column="12" selection-end-line="54" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leetcode/src/main/java/com/luokp/Polish.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="49" column="8" selection-start-line="49" selection-start-column="8" selection-end-line="53" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leetcode/src/main/java/com/luokp/Median.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="17" column="8" selection-start-line="17" selection-start-column="8" selection-end-line="20" selection-end-column="27" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leetcode/src/main/java/com/luokp/IncreasingTriplet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="321">
+          <caret line="29" column="19" lean-forward="true" selection-start-line="29" selection-start-column="19" selection-end-line="29" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leetcode/src/main/java/com/luokp/ZforTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="878">
+          <caret line="55" selection-start-line="55" selection-end-line="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/src.zip!/java/util/LinkedList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3179">
+          <caret line="888" column="27" selection-start-line="888" selection-start-column="27" selection-end-line="888" selection-end-column="27" />
+          <folding>
+            <element signature="docComment;class#LinkedList#0" />
+            <element signature="e#3049#3204#0" />
+            <element signature="e#3239#3391#0" />
+            <element signature="e#3425#3469#0" />
+            <element signature="e#3425#3501#0" />
+            <element signature="e#3507#3829#0" />
+            <element signature="e#3507#3921#0" />
+            <element signature="e#3927#3971#0" />
+            <element signature="e#3927#4255#0" />
+            <element signature="e#4261#4304#0" />
+            <element signature="e#4261#4578#0" />
+            <element signature="e#4584#4647#0" />
+            <element signature="e#4584#4991#0" />
+            <element signature="e#4997#5046#0" />
+            <element signature="e#4997#5438#0" />
+            <element signature="e#5444#5492#0" />
+            <element signature="e#5444#5882#0" />
+            <element signature="e#5888#5931#0" />
+            <element signature="e#5888#6461#0" />
+            <element signature="e#6467#6638#0" />
+            <element signature="e#6467#6797#0" />
+            <element signature="e#6803#6972#0" />
+            <element signature="e#6803#7129#0" />
+            <element signature="e#7135#7322#0" />
+            <element signature="e#7135#7492#0" />
+            <element signature="e#7498#7683#0" />
+            <element signature="e#7498#7850#0" />
+            <element signature="e#7856#7977#0" />
+            <element signature="e#8043#8218#0" />
+            <element signature="e#8282#8709#0" />
+            <element signature="e#8794#8915#0" />
+            <element signature="e#8972#9237#0" />
+            <element signature="e#8972#9315#0" />
+            <element signature="e#9321#9994#0" />
+            <element signature="e#9321#10504#0" />
+            <element signature="e#10510#11155#0" />
+            <element signature="e#11254#12049#0" />
+            <element signature="e#11254#12975#0" />
+            <element signature="e#12981#13098#0" />
+            <element signature="e#12981#13646#0" />
+            <element signature="e#13133#13198#0" />
+            <element signature="e#13690#13947#0" />
+            <element signature="e#13690#14050#0" />
+            <element signature="e#14056#14416#0" />
+            <element signature="e#14056#14606#0" />
+            <element signature="e#14612#15021#0" />
+            <element signature="e#14612#15224#0" />
+            <element signature="e#15230#15639#0" />
+            <element signature="e#15230#15748#0" />
+            <element signature="e#15754#15831#0" />
+            <element signature="e#15934#16051#0" />
+            <element signature="e#16156#16370#0" />
+            <element signature="e#16477#16634#0" />
+            <element signature="e#16640#16799#0" />
+            <element signature="e#16805#16883#0" />
+            <element signature="e#16805#17279#0" />
+            <element signature="e#17311#17850#0" />
+            <element signature="e#17311#18327#0" />
+            <element signature="e#18333#18871#0" />
+            <element signature="e#18333#19353#0" />
+            <element signature="e#19385#19575#0" />
+            <element signature="e#19385#19680#0" />
+            <element signature="e#19686#19897#0" />
+            <element signature="e#19961#20141#0" />
+            <element signature="e#19961#20254#0" />
+            <element signature="e#20260#20461#0" />
+            <element signature="e#20527#20739#0" />
+            <element signature="e#20830#21039#0" />
+            <element signature="e#20830#21124#0" />
+            <element signature="e#21130#21336#0" />
+            <element signature="e#21130#21419#0" />
+            <element signature="e#21425#21686#0" />
+            <element signature="e#21425#21797#0" />
+            <element signature="e#21803#22062#0" />
+            <element signature="e#21803#22170#0" />
+            <element signature="e#22176#22423#0" />
+            <element signature="e#22176#22541#0" />
+            <element signature="e#22547#22792#0" />
+            <element signature="e#22547#22907#0" />
+            <element signature="e#22913#23187#0" />
+            <element signature="e#23248#23679#0" />
+            <element signature="e#23742#24109#0" />
+            <element signature="e#24200#24566#0" />
+            <element signature="e#24200#25088#0" />
+            <element signature="e#25094#26214#0" />
+            <element signature="e#25094#26343#0" />
+            <element signature="e#26557#26721#0" />
+            <element signature="e#26756#26757#0" expanded="true" />
+            <element signature="e#26803#26804#0" expanded="true" />
+            <element signature="e#27180#27466#0" />
+            <element signature="e#27632#28058#0" />
+            <element signature="e#28068#28262#0" />
+            <element signature="e#28272#28545#0" />
+            <element signature="e#28555#28932#0" />
+            <element signature="e#28942#29096#0" />
+            <element signature="e#29108#29362#0" />
+            <element signature="e#29208#29356#0" />
+            <element signature="e#29368#29397#0" />
+            <element signature="e#29496#29575#0" />
+            <element signature="e#29496#29921#0" />
+            <element signature="e#29927#30167#0" />
+            <element signature="e#30173#30364#0" />
+            <element signature="e#30173#30733#0" />
+            <element signature="e#30739#31316#0" />
+            <element signature="e#30739#31529#0" />
+            <element signature="e#31535#33529#0" />
+            <element signature="e#31535#33979#0" />
+            <element signature="e#34056#34381#0" />
+            <element signature="e#34056#34766#0" />
+            <element signature="e#34772#34886#0" />
+            <element signature="e#34772#35317#0" />
+            <element signature="e#35323#35987#0" />
+            <element signature="e#36105#36168#0" />
+            <element signature="e#36105#39343#0" />
+            <element signature="e#36711#36899#0" />
+            <element signature="e#36909#37338#0" />
+            <element signature="e#37348#37402#0" />
+            <element signature="e#37412#38080#0" />
+            <element signature="e#38090#38673#0" />
+            <element signature="e#38683#39204#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/src.zip!/java/util/ListIterator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="612">
+          <caret line="59" column="17" selection-start-line="59" selection-start-column="17" selection-end-line="59" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/src.zip!/java/util/Iterator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="53" column="17" selection-start-line="53" selection-start-column="17" selection-end-line="53" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leetcode/src/main/java/com/luokp/_SlidingWindowMax.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="48" column="5" selection-start-line="48" selection-start-column="5" selection-end-line="48" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#maxSlidingWindow#0;class#_SlidingWindowMax#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/src.zip!/java/util/HashMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4182">
+          <caret line="278" column="21" selection-start-line="278" selection-start-column="17" selection-end-line="278" selection-end-column="21" />
+          <folding>
+            <element signature="e#19327#19328#0" expanded="true" />
+            <element signature="e#19410#19411#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/src.zip!/java/util/TreeMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="31178">
+          <caret line="2052" column="23" selection-start-line="2052" selection-start-column="23" selection-end-line="2052" selection-end-column="23" />
+          <folding>
+            <element signature="e#6596#6597#0" expanded="true" />
+            <element signature="e#6640#6641#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leetcode/src/main/java/com/luokp/_378Kth.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/src.zip!/java/util/Map.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1249">
+          <caret line="950" column="14" selection-start-line="950" selection-start-column="14" selection-end-line="950" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leetcode/src/main/java/com/luokp/RandomizedSet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="335">
+          <caret line="59" column="21" lean-forward="true" selection-start-line="59" selection-start-column="21" selection-end-line="59" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leetcode/src/main/java/com/luokp/_18Sum4.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="624">
+          <caret line="153" column="47" lean-forward="true" selection-start-line="153" selection-start-column="47" selection-end-line="153" selection-end-column="47" />
         </state>
       </provider>
     </entry>

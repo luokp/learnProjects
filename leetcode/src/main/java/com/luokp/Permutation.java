@@ -52,6 +52,7 @@ public class Permutation {
             if(index == 0){
                 return;
             }
+
             int j = nums.length - 1;
             for(; j > index - 1; j--){
                 //从右向左找到第一个比非递增元素大的元素

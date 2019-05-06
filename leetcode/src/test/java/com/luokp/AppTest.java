@@ -12,7 +12,7 @@ import java.util.List;
 public class AppTest 
 {
     /**
-     * Rigorous Test :-)
+     * Rigorous LIS :-)
      */
     @Test
     public void shouldAnswerWithTrue()

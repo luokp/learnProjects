@@ -7,7 +7,7 @@ import java.util.*;
  * @date: 2018/11/29 00:58
  * @description:
  */
-public class Test {
+public class ZforTest {
     @org.junit.Test
     public void test() {
         Set<Integer> set = new TreeSet<>();

@@ -73,20 +73,52 @@ public class Conbination {
         return result;
     }
 
-    public static void main(String[] args) {
-        List<String> list = new ArrayList<>();
-        Set<String> set = new HashSet<>();
-        int[] nums = {1,2,3,};
-        conbination(nums, list);
-        System.out.println(list);
-        System.out.println(conbinationTOk(3, 1));
-        char[] d = new char[1];
-        d[0] = (char)(nums[0]+49);
-        System.out.println(d[0]);
 
-        long cnt = (long)Math.pow(2, 2) - 1;
-        System.out.println(cnt);
-        System.out.println(1 << 2);
+
+    public static List<List<Integer>> combinationSum3(int k, int n) {
+        List<List<Integer>> result = new ArrayList<>();
+        List<Integer> list = new ArrayList<>();
+//        for(int i = 1; i <= 9; i++) {
+            combinationSumToK(k, n, 1, result, list);
+//        }
+        return result;
+    }
+
+
+    public static void combinationSumToK(int k, int n, int start, List<List<Integer>> result, List<Integer> list) {
+        if(k == 0) {
+            if(n == 0) {
+                result.add(new ArrayList<>(list));
+            }
+            return;
+        }
+        if(k < 0 || n < 0) {
+            return ;
+        }
+        for(int i = start; i <= 9; i++) {
+            list.add(i);
+            combinationSumToK(k-1, n-i, i+1, result, list);
+            list.remove(list.size()-1);
+        }
+    }
+
+    public static void main(String[] args) {
+//        List<String> list = new ArrayList<>();
+//        Set<String> set = new HashSet<>();
+//        int[] nums = {1,2,3,};
+//        conbination(nums, list);
+//        System.out.println(list);
+        System.out.println(conbinationTOk(3, 1));
+//        char[] d = new char[1];
+//        d[0] = (char)(nums[0]+49);
+//        System.out.println(d[0]);
+//
+//        long cnt = (long)Math.pow(2, 2) - 1;
+//        System.out.println(cnt);
+//        System.out.println(1 << 2);
+
+
+//        System.out.println(combinationSum3(2, 6));
 
     }
 
